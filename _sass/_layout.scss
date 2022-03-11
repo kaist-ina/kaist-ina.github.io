@@ -157,3 +157,10 @@ body.sticky-bottom-footer {
     }
   }
 }
+
+.main-image-1 {
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+  object-position: 100% 52%;
+}

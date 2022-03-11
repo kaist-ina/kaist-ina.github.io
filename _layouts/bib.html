@@ -29,14 +29,24 @@
               {%- endif -%}
             {%- endif -%}
             {%- assign coauthor_url = nil -%}
-            {%- if site.data.coauthors[author.last] -%}
-              {%- for coauthor in site.data.coauthors[author.last] -%}
-                {%- if coauthor.firstname contains author.first -%}
-                  {%- assign coauthor_url = coauthor.url -%}
+
+            
+            {%- for group_mems in site.data.team -%}
+              {% assign members = group_mems[1] %}
+              {%- for member in members -%}
+                {%- assign mfn = member.name | first | downcase -%}
+                {%- assign mln = member.name | last | downcase -%}
+                {%- assign cfn = author.first | downcase -%}
+                {%- assign cln = author.last | downcase -%}
+                {%- assign member_id = member.name | join: '_' | downcase -%}
+                {%- assign member_homepage = "/team" | append: '#' | append: member_id -%}
+                {%- if member.homepage -%}{%- assign member_homepage = member.homepage -%}{%- endif -%}
+                {%- if mfn == cfn and mln == cln -%}
+                  {%- assign coauthor_url = member_homepage -%}
                   {%- break -%}
                 {%- endif -%}
               {%- endfor -%}
-            {%- endif -%}
+            {%- endfor -%}
             
             {%- if forloop.length == 1 -%}
               {%- if author_is_self %}

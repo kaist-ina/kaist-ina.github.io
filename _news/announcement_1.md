@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-03-09 09:00:00
 inline: true
 ---
 
-A simple inline announcement.
+[BWA-MEME](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac137/6543607) was accepted in Bioinformatics.
