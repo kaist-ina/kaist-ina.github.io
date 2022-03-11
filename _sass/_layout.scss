@@ -33,6 +33,52 @@ body.sticky-bottom-footer {
   }
 }
 
+
+.team {
+  .position {
+    margin-bottom: 3em;
+    h2 {
+      margin-bottom: 0.5em;
+    }
+  }
+  .card {
+    scroll-margin-top: 80px;
+    margin-bottom: 1.5em;
+    .profile-image  {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+      align-items: stretch;
+      figure {
+        flex-grow: 1;
+        margin: 0;
+      }
+      img {
+        flex-shrink: 0;
+        min-width: 100%;
+        object-fit: cover;
+        min-height: 100%;
+        
+        @media screen and (min-width: 576px) {
+          max-height: 240px;
+        }
+      }
+    }
+    .card-body a:hover {
+      text-decoration: none;
+    } 
+    .card-text.main {
+      margin-bottom: 0.5em;
+    }
+    .card-link {
+      margin-left: 0;
+      margin-right: 0.5em;
+    }
+  }
+}
+
+
 // TODO: redefine content layout.
 
 
@@ -48,3 +94,66 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+.projects {
+  .grid-sizer, .grid-item {
+    width: 300px !important;
+  }
+}
+
+.projects.small {
+  
+  .grid-sizer, .grid-item {
+    width: 200px !important;
+  }
+  .card-body {
+    padding: 1rem;
+  }
+  .photo  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    align-items: stretch;
+
+    figure {
+      flex-grow: 1;
+      margin: 0;
+    }
+    img {
+      flex-shrink: 0;
+      min-width: 100%;
+      object-fit: cover;
+      height: 120px;
+    }
+  }
+}
+
+.youtube-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.profile-buttons {
+  a.btn {
+    color: var(--global-text-color);
+    border: 1px solid var(--global-text-color);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    &:hover {
+      color: var(--global-theme-color);
+      border-color: var(--global-theme-color);
+    }
+  }
+}

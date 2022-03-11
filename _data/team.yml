@@ -1,0 +1,173 @@
+"Principal Investigator":
+  - name: ["Dongsu", "Han"]
+    subtitle: "Associate Professor"
+    introduction: I am an associate professor at KAIST (Department of Electrical Engineering and
+      Graduate School of Information Security). I received a Ph.D. from the Computer Science Department
+      at Carnegie Mellon University in 2012. My research interests include networked systems design,
+      distributed systems, Internet architectures, and mobile computing. Students interested in
+      research are welcome to contact me at dongsu.han@gmail.com.
+    location: KAIST N1 814 (Daehak-ro 291, Yuseong-Gu, Daejeon, Republic of Korea 34141)
+    email: dongsu.han@gmail.com
+    photo: /assets/img/profile/dongsu-han.jpg
+    scholar: https://scholar.google.com/citations?user=NMggRxkAAAAJ
+    homepage: /team/dongsuh
+
+"Doctoral Student":
+  - name: ["Jeongmin", "Kim"]
+    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
+    introduction: Mobile System, IoT interoperability, Automatic Program Analysis
+    email: appff@kaist.ac.kr
+    photo: /assets/img/profile/jeongmin-kim.jpg
+
+  - name: ["Juhyeng", "Han"]
+    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
+    introduction: "I’m a Ph.D. candidate in the School of Electrical Engineering at KAIST 
+    (Advisor: Dongsu Han). My research interests are network systems and cloud security. 
+    Especially, I’m passionate about designing secure and practical software by combining
+     hardware-based security technologies."
+    email: sparkly9399@gmail.com
+    photo: /assets/img/profile/juhyeng-han.jpg
+    homepage: https://juhyenghan.github.io
+    linkedin: https://linkedin.com/in/juhyeng-han
+
+  - name: ["Hyunho", "Yeo"]
+    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
+    introduction: "I am a fifth-year Ph.D. student in Electrical Engineering at KAIST
+     advised by Professor Dongsu Han. I received B.S. in Electrical Engineering from KAIST.
+     My research interests are incorporating deep learning (DL) techniques with
+     computing and networking systems to drastically improve performance. 
+     Recently, I have focused on 1) leveraging neural quality enhancement to make
+     video systems more efficient and 2) accelerating neural enhancement to enable 
+     it on large-scale, distributed applications."
+    email: chaos5958@gmail.com
+    photo: /assets/img/profile/hyunho-yeo.jpg
+    homepage: https://hyunhoyeo.com
+
+  - name: ["Hwijoon", "Lim"]
+    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
+    homepage: https://wjuni.com
+    email: hwijoon.lim@kaist.ac.kr
+    scholar: https://scholar.google.com/citations?user=aOgTgQIAAAAJ
+    linkedin: https://www.linkedin.com/in/hwijoon-lim/
+    github: https://github.com/wjuni
+    photo: /assets/img/profile/hwijoon-lim.jpg
+    introduction: I am a Ph.D. candidate at KAIST advised under Prof. Dongsu Han in
+     Intelligent Network Architecture Laboratory.
+     My research interests include datacenter networking, cloud computing, 
+     and machine learning systems.
+
+  - name: ["Youngmok", "Jung"]
+    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
+    introduction: "I am a PhD candidate at INA lab, KAIST advised by Dongsu Han. 
+     Before than, I received my BS degree in Electrical Engineering in KAIST, South Korea.
+     My research interests is focused in applying AI approach to redesign system. 
+     Recently, I have been coworking with bioinformaticians to design new software for 
+     Next-generation sequencing. In the past, I worked on various topics in image 
+     super-resolution based on neural network and video delivery system."
+    photo: /assets/img/profile/youngmok-jung.jpg
+    homepage: https://quito418.github.io/quito418/
+
+  - name: ["Jaehong", "Kim"]
+    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
+    introduction: "I am a Ph.D. student at KAIST advised under Prof. Dongsu Han
+    in Intelligent Network Architecture Laboratory.
+    My research interests include deep learning based video delivery, 
+    video analytics and high-performance networked systems."
+    photo: /assets/img/profile/jaehong-kim.jpg
+    homepage: https://jaykim305.github.io/
+
+  - name: ["Jinwoo", "Park"]
+    subtitle: "Ph.D. Student, School of Electrical Engineering"
+    introduction: Microservice, Applied machine learning
+    photo: /assets/img/profile/jinwoo-park.jpg
+    
+  - name: ["Juncheol", "Ye"]
+    subtitle: "Ph.D. Student, School of Electrical Engineering"
+    introduction: Video system, Codec, Deep learning systems
+    photo: /assets/img/profile/juncheol-ye.jpg
+
+"Master Student":
+  - name: ["Yunheon", "Lee"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    introduction: 5G networks, AI-based system
+    photo: /assets/img/profile/yunheon-lee.jpg
+    
+  - name: ["Yechan", "Kim"]
+    subtitle: "Master Student, Graduate School of AI"
+    introduction: Systems for AI, AI training acceleration
+    photo: /assets/img/profile/yechan-kim.jpg
+
+
+"Alumni":
+  - name: ["Byungkwon", "Choi"]
+    subtitle: "Ph.D. 2020; Samsung Electronics Inc."
+    photo: /assets/img/profile/byungkwon-choi.jpg
+    introduction: High-performance networked systems, Cloud-based applications
+
+  - name: ["Seongmin", "Kim"]
+    subtitle: "Ph.D. 2019; currently at an assistant professor at Sungshin Women’s University"
+    photo: /assets/img/profile/seongmin-kim.jpg
+    introduction: "I'm an Assistant Professor in Department of Convergence Security
+     Engineering (CSE) at Sungshin Women's University. 
+     I recieved a Ph.D. from the Graduate School of information Security at KAIST in 2019 
+     (Advisor: Prof. Dongsu Han). My research interests are system security and network security, 
+     in particular, trusted computing and designing secure systems in cloud platforms, operating systems, 
+     or network applications."
+    homepage: https://csesmkim.github.io/
+    email: sm.kim@sungshin.ac.kr
+    
+  - name: ["Hejing", "Li"]
+    subtitle: "M.S. 2019; currently at Max Planck Institute for Software Systems Ph.D. program"
+    photo: /assets/img/profile/hejing-li.jpg
+    introduction: Parallel Computing, Network Function Virtualization, High Performance Networked Systems
+
+  - name: ["Quang", "Nguyen", "Ngoc"]
+    subtitle: "M.S. 2019; currently at CyberLogitec"
+    photo: /assets/img/profile/quang-nguyen-ngoc.jpg
+    introduction: Applied Machine Learning, Deep Learning, Computer Network
+
+  - name: ["Daeyang", "Cho"]
+    subtitle: "M.S. 2019"
+    photo: /assets/img/profile/daeyang-cho.jpg
+    introduction: High-performance networked systems, Security issue of cloud-based applicatoins, Intel SGX, Oblivious RAM
+    
+  - name: ["Inho", "Cho"]
+    photo: /assets/img/profile/inho-cho.jpg
+    subtitle: "M.S. 2018; currently at MIT CS Ph.D. program"
+    introduction: "I am a fourth year Ph.D. student working with Professor Mohammad Alizadeh and Adam Belay at MIT CSAIL.
+    Before joining the MIT, I received B.S. and M.S. in Electrical Engineering at KAIST at 2015 and 2018 
+    under the advice of Professor Dongsu Han.
+    My research interests are about fast and efficient datacenter operation including datacenter congestion
+    control and microservice application architecture. I am currently interested in identifying and 
+    solving the problems with microsecond-scale microservices."
+    homepage: https://inhocho89.github.io/
+    github: https://github.com/inhocho89
+
+  - name: ["Joonhyuk", "Lee"]
+    subtitle: "M.S. 2021"
+    introduction: computer network, blockchain
+    photo: /assets/img/profile/junhyuk-lee.jpg
+    
+  - name: ["Keon", "Jang"]
+    subtitle: Former visiting scientist/post-doc researcher; currently an assistant professor at MPI-SWS
+    homepage: https://keonjang.github.io/
+    
+  - name: ["Changhyun", "Lee"]
+    subtitle: "Ph.D. 2015; co-advised with Sue Moon; currently at ETRI"
+    
+  - name: ["Byeoksan", "Lee"]
+    subtitle: "M.S. 2017; currently at LINE Plus"
+  
+  - name: ["Woohyun", "Choi"]
+    subtitle: "M.S. 2017; currently at TMaxSoft"
+  
+  - name: ["Jaehyung", "Ha"]
+  
+  - name: ["Youjung", "Shin"]
+  
+    
+
+
+
+  
+    
