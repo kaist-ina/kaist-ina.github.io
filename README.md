@@ -3,6 +3,19 @@
 - Based on 
 - For the original README, see `README.original.md`.
 
+## How to test
+```bash
+cd <repository-dir>
+sudo apt install ruby
+sudo gem install bundle
+bundle install
+bundle exec jekyll serve --host <hostname>
+```
+For `hostname`, use ip or FQDN.
+
+## How to deploy
+Updates on this repository will be automatically deployed in 5 minutes.
+
 ## How to add or modify...
 ### Team member
 - Place your profile photo inside `/assets/img/profile/`.
