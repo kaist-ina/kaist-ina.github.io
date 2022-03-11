@@ -1,9 +1,9 @@
 ---
 layout: page
 title: NAS
-description: Run real-time video super-resolution on commercial smartphones
-img: /assets/img/project/nemo/nemo.png
+description: Watch video in high-quality even when network becomes congested.
+img: /assets/img/project/nas/nas.png
 importance: 10000
 category: video
-redirect: /nas/
+redirect: https://ina.kaist.ac.kr/~nas/
 ---

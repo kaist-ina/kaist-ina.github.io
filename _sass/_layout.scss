@@ -98,6 +98,25 @@ body.sticky-bottom-footer {
   .grid-sizer, .grid-item {
     width: 300px !important;
   }
+  
+  .photo  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    align-items: stretch;
+
+    figure {
+      flex-grow: 1;
+      margin: 0;
+    }
+    img {
+      flex-shrink: 0;
+      min-width: 100%;
+      object-fit: cover;
+      height: 200px;
+    }
+  }
 }
 
 .projects.small {
@@ -163,4 +182,11 @@ body.sticky-bottom-footer {
   width: 100%;
   object-fit: cover;
   object-position: 100% 52%;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+  * {
+    cursor: pointer;
+  }
 }

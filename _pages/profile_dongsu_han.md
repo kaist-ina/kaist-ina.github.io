@@ -3,6 +3,7 @@ layout: profile
 permalink: /team/dongsuh
 first_name: Dongsu
 last_name: Han
+title: Dongsu Han
 subtitle: 한동수 KAIST 전기및전자공학부 부교수
 profile: 
   image: profile/dongsu-han.jpg
@@ -63,8 +64,9 @@ I am an associate professor at **KAIST** (Department of Electrical Engineering a
 </ul>
 
 ### Recent (Select) Publications
-<ul>
-</ul>
+<div class="publications">
+{% bibliography -f papers --max 20 -q @*[author ~= Dongsu]* %}
+</div>
 
 ### Program Committee
 - 2020: USENIX ATC, ACM SIGCOMM, USENIX NSDI, ACM CoNEXT PC co-chair

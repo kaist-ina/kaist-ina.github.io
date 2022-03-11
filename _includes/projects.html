@@ -8,9 +8,11 @@
       {%- endif %}
       <div class="card hoverable">
         {%- if project.img %}
+        <div class="photo">
         {%- include figure.html
           path=project.img
           alt="project thumbnail" -%}
+        </div>
         {%- endif %}
         <div class="card-body">
           <h2 class="card-title">{{ project.title }}</h2>

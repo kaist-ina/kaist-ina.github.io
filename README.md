@@ -44,6 +44,7 @@ Updates on this repository will be automatically deployed in 5 minutes.
 - Place thumbnail image inside `/assets/img/project/`. Make a folder inside.
 - Update `title`, `description`, `img`, `category`.
 - Example
+    - `_projects/tlt.md`, `_projects/appx.md`
     - For inserting youtube videos and images, see `_projects/nemo.md`
     - For the redirection (if you already have a webpage), see `_projects/nas.md`
         - Place the webpage content in root folder (i.e. `/nas`)

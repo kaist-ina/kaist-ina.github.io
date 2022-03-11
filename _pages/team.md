@@ -13,7 +13,11 @@ nav: true
       {% for member in position[1] %}
         <div class="card hoverable" id="{{member.name | join: '_' | downcase}}">
           <div class="row no-gutters">
+              {% if member.homepage %}
+              <div class="col-sm-4 col-md-3 profile-image cursor-pointer" onclick="location.href='{{member.homepage}}'">
+              {% else %}
               <div class="col-sm-4 col-md-3 profile-image">
+              {% endif %}
                 {% include figure.html path=member.photo %}
               </div>
               <div class="team col-sm-8 col-md-9">
