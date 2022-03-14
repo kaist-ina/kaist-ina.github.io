@@ -99,6 +99,8 @@
 
   - name: ["Uitaek", "Hong"]
     subtitle: "Master Student, School of Electrical Engineering"
+    introduction: machine learning systems, cloud computing 
+    photo: /assets/img/profile/uitaek-hong.jpg
   
   - name: ["Jaehyung", "Park"]
     subtitle: "Master Student, School of Electrical Engineering"
