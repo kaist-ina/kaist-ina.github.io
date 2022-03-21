@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /team/
-title: Team
-description: Our research team.
+title: Members
+description: #Our research team.
 nav: true
 ---
 <!-- _pages/team.md -->

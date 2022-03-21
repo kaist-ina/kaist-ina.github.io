@@ -22,7 +22,7 @@ Updates on this repository will be automatically deployed in 5 minutes.
 - Update `_data/team.yml`:
 - Example
   ```yaml
-    "Doctoral Student":
+    "Ph.D. Student":
       - name: ["Hwijoon", "Lim"]
         subtitle: "Ph.D. Candidate, School of Electrical Engineering"
         homepage: https://wjuni.com

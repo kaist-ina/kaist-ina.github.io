@@ -12,7 +12,7 @@
     scholar: https://scholar.google.com/citations?user=NMggRxkAAAAJ
     homepage: /team/dongsuh
 
-"Doctoral Student":
+"Ph.D. Students":
   - name: ["Jeongmin", "Kim"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
     introduction: Mobile System, IoT interoperability, Automatic Program Analysis
@@ -96,7 +96,7 @@
     introduction: Video system, Codec, Deep learning systems
     photo: /assets/img/profile/juncheol-ye.jpg
 
-"Master Student":
+"M.S. Students":
   - name: ["Yunheon", "Lee"]
     subtitle: "Master Student, School of Electrical Engineering"
     introduction: 5G networks, AI-based system
@@ -190,10 +190,6 @@
   
   - name: ["Woohyun", "Choi"]
     subtitle: "M.S. 2017; currently at TMaxSoft"
-  
-  - name: ["Jaehyung", "Ha"]
-  
-  - name: ["Youjung", "Shin"]
   
     
 
