@@ -37,16 +37,16 @@ INA research group pursues innovative ideas in/for Internet services and applica
 
 #### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI & AI for Systems**
 - Accelerating training for large-scale deep neural networks
-- Accelerating DNA sequencing by introducing learned index 
-- Optimizing microservice auto-scaling using graph neural networks
+- Accelerating DNA sequencing by learned index 
+- Optimizing microservice auto-scaling by graph neural networks
 
 #### _<i class="fa fa-photo-video mr-2"></i>_ **Internet Content Delivery**
-- Improving video streaming quality using neural super-resolution
-- Accelerating neural super-resolution to enable it on large-scale, distributed systems
-- Jointly optimizing image/video codecs and super-resolution 
+- Improving video streaming quality by neural super-resolution
+- Accelerating neural super-resolution to enable it on large-scale systems
+- Jointly optimizing image codecs and super-resolution 
 
 #### _<i class="fa fa-cloud mr-2"></i>_  **Networked Systems & Security**
-- Integrating trusted execution environment with conventional network systems
+- Integrating trusted execution environment with conventional networked systems
 - Optimizing network resource and wireless spectral efficiency under 5G, 6G environments
 - Improving congestion control schemes for datacenter networking
 
