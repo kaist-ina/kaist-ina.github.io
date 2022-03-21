@@ -80,7 +80,7 @@
     homepage: https://jaykim305.github.io/
     email: jaehong950305@gmail.com
     scholar: https://scholar.google.com/citations?user=U55MerIAAAAJ&hl=en
-    linkedin: linkedin.com/in/jaykim305
+    linkedin: https://linkedin.com/in/jaykim305
  
   - name: ["Jinwoo", "Park"]
     subtitle: "Ph.D. Student, School of Electrical Engineering"
@@ -101,7 +101,7 @@
   - name: ["Yechan", "Kim"]
     subtitle: "Master Student, Graduate School of AI"
     email: yechankim@kaist.ac.kr
-    linkedin: www.linkedin.com/in/yechan-kim-elliot
+    linkedin: https://www.linkedin.com/in/yechan-kim-elliot
     introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han.
     I received B.A in computer Science at UC Berkeley. My current research interests are
     machine learning systems and self-supervised learnings."
@@ -119,8 +119,6 @@
     I am interested in applying machine learning approach to design a new software for
     Next-generation sequencing.
     photo: /assets/img/profile/jaehyeong-park.jpg
-
-
 
 "Alumni":
   - name: ["Byungkwon", "Choi"]
