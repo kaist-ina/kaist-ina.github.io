@@ -8,6 +8,10 @@ category: Internet Content Delivery
 members: ['Hyunho', 'Youngmok', 'Juncheol', 'Dongsu']
 ---
 
+<p class="profile-buttons">
+    <a class="btn z-depth-0" href="https://github.com/kaist-ina/nemo">Code</a>
+</p>
+
 <div class="row justify-content-sm-center">
     <div class="col-md mt-3 col-md-6">
         {% include figure.html path="/assets/img/project/nemo/nemo.png" title="Nemo" class="img-fluid rounded z-depth-1" %}

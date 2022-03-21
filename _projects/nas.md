@@ -7,3 +7,6 @@ importance: 10000
 category: Internet Content Delivery
 redirect: https://ina.kaist.ac.kr/~nas/
 ---
+<script>
+    location.replace('https://ina.kaist.ac.kr/~nas/')
+</script>
