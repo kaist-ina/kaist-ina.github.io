@@ -109,7 +109,10 @@
 
   - name: ["Uitaek", "Hong"]
     subtitle: "Master Student, School of Electrical Engineering"
-    introduction: machine learning systems, cloud computing 
+    email: dmlxor@kaist.ac.kr
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han.
+    My research interests are machine learing systems and cloud computing.
+    I'm currently studying ML based image compression and cloud storage systems." 
     photo: /assets/img/profile/uitaek-hong.jpg
   
   - name: ["Jaehyeong", "Park"]
