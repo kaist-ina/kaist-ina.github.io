@@ -1,7 +1,7 @@
 # INA Homepage
-- [https://kaist-ina.github.io]()
-- Based on 
 - For the original README, see `README.original.md`.
+## Preview
+- [https://kaist-ina.github.io](https://kaist-ina.github.io)
 
 ## How to test
 ```bash
