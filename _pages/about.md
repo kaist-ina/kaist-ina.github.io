@@ -25,6 +25,14 @@ social: false  # includes social icons at the bottom of the page
     </div>
 </div>
 
+
+&nbsp;
+
+INA research group pursues innovative ideas in/for Internet services and applications, cloud infrastructure, and systems that support artificial intelligence. We identify and anticipate new problems that arise from the evolution of Internet-/Cloud-based services and the development of new hardware, provide novel solutions for challenging problems in the real-world, design and implement the solutions in a way that reaches out for real-world impact. INA is part of the [Computer Division](https://computer.kaist.ac.kr) of the [School of Electrical Engineering](https://ee.kaist.ac.kr). 
+
+
+&nbsp;
+&nbsp;
 ## Our **Research**
 
 #### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI**
