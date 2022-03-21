@@ -5,8 +5,8 @@ description: Watch video in high-quality even when network becomes congested.
 img: /assets/img/project/nas/nas.png
 importance: 10000
 category: Internet Content Delivery
-redirect: https://ina.kaist.ac.kr/~nas/
+redirect: https://web.inalab.net/~nas/
 ---
 <script>
-    location.replace('https://ina.kaist.ac.kr/~nas/')
+    location.replace('https://web.inalab.net/~nas/')
 </script>

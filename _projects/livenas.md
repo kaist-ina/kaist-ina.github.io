@@ -5,9 +5,9 @@ description: Stream high-quality live video even when network becomes congested.
 img: /assets/img/project/livenas/livenas.png
 importance: 10000
 category: Internet Content Delivery
-redirect: https://ina.kaist.ac.kr/~livenas/
+redirect: https://web.inalab.net/~livenas/
 ---
 
 <script>
-    location.replace('https://ina.kaist.ac.kr/~livenas/')
+    location.replace('https://web.inalab.net/~livenas/')
 </script>
