@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-03-09 09:00:00
+date: 2021-03-03 09:00:00
 inline: true
 ---
 
-[BWA-MEME](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac137/6543607) was accepted in Bioinformatics.
+[TLT](https://dl.acm.org/doi/10.1145/3447786.3456227) was accepted to Eurosys'21.

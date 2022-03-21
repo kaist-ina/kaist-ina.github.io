@@ -1,10 +1,10 @@
 ---
 layout: page
-title: TEE System
+title: TEE Systems
 description: Security-enhanced network system by leveraging trusted execution environment (TEE)
 img: /assets/img/project/sgx/sgx.png
 importance: 10000
-category: "systems & security"
+category: "Systems & Security"
 members: ['Juhyeng', 'Seongmin', 'Jaehyung', 'Youjung', 'Dongsu']
 ---
 

@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 
-display_categories: [Internet Content Delivery, network, "systems & security"]
+display_categories: [System for AI, AI for System, Internet Content Delivery, "Systems & Security"]
 horizontal: false
 ---
 
