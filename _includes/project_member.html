@@ -17,6 +17,14 @@
                                 path=member.photo
                                 alt=member.name -%}
                             </div>
+                            {%- else -%}
+                            <div class="photo">
+                                <figure>
+                                    <picture>
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+                                    </picture>
+                                </figure>
+                            </div>
                             {%- endif %}
                             <div class="card-body">
                             <h5 class="card-title">{{ member.name | join : " " }}</h5>

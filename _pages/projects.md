@@ -4,7 +4,8 @@ title: Projects
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
-display_categories: [Internet Content Delivery, network]
+
+display_categories: [Internet Content Delivery, network, "systems & security"]
 horizontal: false
 ---
 
