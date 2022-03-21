@@ -14,7 +14,7 @@ profile:
             Email: dongsu.han (at) gmail.com"
 ---
 <p class="profile-buttons">
-    <a class="btn z-depth-0" href="https://ina.kaist.ac.kr/~dongsuh/HAN-CV.pdf">CV</a>
+    <a class="btn z-depth-0" href="/assets/profile/dongsuh/HAN-CV.pdf">CV</a>
     <a class="btn z-depth-0" href="https://scholar.google.co.kr/citations?user=NMggRxkAAAAJ">Google Scholar</a>
     <a class="btn z-depth-0" href="mailto:dongsu.han@gmail.com">Email</a>
 </p>
@@ -37,7 +37,7 @@ I am an associate professor at **KAIST** (Department of Electrical Engineering a
 - Automatic protocol and behavior analysis of Android Apps using binary analysis
 
 ##### Internet Content Delivery
-- Content-aware Internet video delivery using deep-learning \[[web page](http://ina.kaist.ac.kr/~nas/)\]
+- Content-aware Internet video delivery using deep-learning \[[web page](http://web.inalab.net/~nas/)\]
 - VDN: Enabling Software-defined, Near-Real Time Control for Content Delivery Networks
 - Understanding the Internet video Quality of Experience (QoE) and QoE engineering
 - Enhancing HTTP Adaptive Streaming with Network-level Predictions
