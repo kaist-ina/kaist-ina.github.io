@@ -184,6 +184,31 @@ body.sticky-bottom-footer {
   }
 }
 
+.livenas {
+  .two.buttons {
+    display: flex;
+    justify-content: space-evenly;
+    a.button {
+      font-weight: bold;
+      color: var(--global-text-color);
+      border: 1px solid var(--global-text-color);
+      padding-left: 1rem;
+      padding-right: 1rem;
+      padding-top: 0.25rem;
+      padding-bottom: 0.25rem;
+      &:hover {
+        color: var(--global-theme-color);
+        border-color: var(--global-theme-color);
+      }
+      &.green {
+        color: var(--green);
+        border: 1px solid var(--green);
+        background: transparent !important;
+      }
+    }
+  }
+}
+
 .main-image-1 {
   height: 300px;
   width: 100%;
