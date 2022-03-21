@@ -15,7 +15,7 @@
 "Ph.D. Students":
   - name: ["Jeongmin", "Kim"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: Mobile System, IoT interoperability, Automatic Program Analysis
+    introduction: My research interests include automatic program analysis, smart contract security (on-going work), IoT interoperability, and mobile computing.
     email: appff@kaist.ac.kr
     photo: /assets/img/profile/jeongmin-kim.jpg
 
