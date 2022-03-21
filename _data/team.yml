@@ -84,8 +84,12 @@
  
   - name: ["Jinwoo", "Park"]
     subtitle: "Ph.D. Student, School of Electrical Engineering"
-    introduction: Microservice, Applied machine learning
+    introduction: "Microservice, Applied machine learning"
     photo: /assets/img/profile/jinwoo-park.jpg
+    homepage: https://jinwoo520528.github.io/
+    email: jinwoo520528@kaist.ac.kr
+    scholar: https://scholar.google.com/citations?user=C-4x6scAAAAJ&hl=en
+    linkedin: https://www.linkedin.com/in/jinwoo520528/
     
   - name: ["Juncheol", "Ye"]
     subtitle: "Ph.D. Student, School of Electrical Engineering"
