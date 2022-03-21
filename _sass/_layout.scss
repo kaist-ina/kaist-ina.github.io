@@ -117,6 +117,11 @@ body.sticky-bottom-footer {
       height: 200px;
     }
   }
+  
+  .card-body {
+    height: 160px;
+    overflow-y: visible;
+  }
 }
 
 .projects.small {
@@ -126,6 +131,8 @@ body.sticky-bottom-footer {
   }
   .card-body {
     padding: 1rem;
+    height: inherit;
+    overflow-y: inherit;
   }
   .photo  {
     display: flex;
@@ -193,5 +200,5 @@ body.sticky-bottom-footer {
 
 .bib-highlight {
   font-weight: bold;
-  color: var(--global-theme-color);
+  color: var(--red);
 }
