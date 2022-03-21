@@ -63,9 +63,9 @@ I am an associate professor at **KAIST** (Department of Electrical Engineering a
 {% endfor %}
 </ul>
 
-### Recent (Select) Publications
-<div class="publications">
-{% bibliography -f papers --max 20 -q @*[author ~= Dongsu]* %}
+### Recent Publications
+<div class="publications inline">
+{% bibliography -f papers --max 10 -q @*[author ~= Dongsu]* %}
 </div>
 
 ### Program Committee

@@ -105,6 +105,7 @@ body.sticky-bottom-footer {
     align-items: center;
     overflow: hidden;
     align-items: stretch;
+    background-color: #ffffff;
 
     figure {
       flex-grow: 1;
@@ -249,4 +250,8 @@ body.sticky-bottom-footer {
     font-size: 90%;
     color: var(--red);
   }
+}
+
+.publications.inline {
+  margin-top: 1em;
 }
