@@ -9,11 +9,13 @@ members: ['Jaehong', 'Youngmok', 'Hyunho', 'Juncheol', 'Dongsu']
 ---
 <p class="profile-buttons">
     <a class="btn z-depth-0" href="https://web.inalab.net/~livenas">Homepage</a>
+    <a class="btn z-depth-0" href="/assets/img/project/livenas/sigcomm2020-slide-livenas-short.pptx">Slide (10 min)</a>
+    <a class="btn z-depth-0" href="/assets/img/project/livenas/sigcomm2020-slide-livenas-long.pptx">Slide (20 min)</a>
 </p>
 
 <div class="row justify-content-sm-center">
     <div class="col-md mt-3 col-md-6">
-        {% include figure.html path="/assets/img/project/livenas/livenas.png" title="Nemo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/project/livenas/livenas.png" title="LiveNAS" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             LiveNAS Design.
         </div>
@@ -76,7 +78,7 @@ improvement for live stream viewers.
     <div class="col-sm-3">
         <div class="ui card">
             <div class="image">
-            <img src="https://web.inalab.net/~livenas/jc.png">
+            <img src="/assets/img/project/livenas/jc.png">
             </div>
             <div class="content">
             <div class="header">Just Chatting</div>
@@ -99,7 +101,7 @@ improvement for live stream viewers.
     <div class="col-sm-3">
         <div class="card">
             <div class="image">
-            <img src="https://web.inalab.net/~livenas/lol.png">
+            <img src="/assets/img/project/livenas/lol.png">
             </div>
             <div class="content">
             <div class="header">League of Legends</div>
@@ -122,7 +124,7 @@ improvement for live stream viewers.
     <div class="col-sm-3">
         <div class="card">
             <div class="image">
-            <img src="https://web.inalab.net/~livenas/Food.png">
+            <img src="/assets/img/project/livenas/Food.png">
             </div>
             <div class="content">
             <div class="header">Food/Cooking</div>
@@ -145,7 +147,7 @@ improvement for live stream viewers.
     <div class="col-sm-3">
         <div class="card">
         <div class="image">
-            <img src="https://web.inalab.net/~livenas/sports.png">
+            <img src="/assets/img/project/livenas/sports.png">
         </div>
         <div class="content">
         <div class="header">Sports</div>
@@ -185,6 +187,11 @@ improvement for live stream viewers.
     </div>
 </div>
 
+
+<h3>Publications</h3>
+<div class="publications">
+{% bibliography -f papers -q @*[project=livenas]* %}
+</div>
 
 <h3 class="mt-3">Members</h3>
 {% include project_member.html %}
