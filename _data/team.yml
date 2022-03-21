@@ -67,6 +67,8 @@
      super-resolution based on neural network and video delivery system."
     photo: /assets/img/profile/youngmok-jung.jpg
     homepage: https://quito418.github.io/quito418/
+    email: tom418@kaist.ac.kr
+    scholar: https://scholar.google.com/citations?user=s3vE_LEAAAAJ
 
   - name: ["Jaehong", "Kim"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
@@ -95,11 +97,17 @@
     
   - name: ["Yechan", "Kim"]
     subtitle: "Master Student, Graduate School of AI"
-    introduction: Systems for AI, AI training acceleration
+    email: yechankim@kaist.ac.kr
+    linkedin: www.linkedin.com/in/yechan-kim-elliot
+    introduction: I am a MS student at INA lab, KAIST advised by Dongsu Han.
+    I received B.A in computer Science at UC Berkeley. My current research interests are
+    machine learning systems and self-supervised learnings.
     photo: /assets/img/profile/yechan-kim.jpg
 
   - name: ["Uitaek", "Hong"]
     subtitle: "Master Student, School of Electrical Engineering"
+    introduction: machine learning systems, cloud computing 
+    photo: /assets/img/profile/uitaek-hong.jpg
   
   - name: ["Jaehyung", "Park"]
     subtitle: "Master Student, School of Electrical Engineering"
