@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: ''
 nav: true
 
 display_categories: [System for AI, AI for System, Internet Content Delivery, "Systems & Security"]
