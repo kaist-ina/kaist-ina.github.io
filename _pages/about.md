@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Intelligent Network Architecture Lab @ <a href='https://kaist.ac.kr'>KAIST</a>.
+subtitle: Welcome to <strong>I</strong>ntelligent <strong>N</strong>etwork <strong>A</strong>rchitecture Lab @ <a href='https://kaist.ac.kr'>KAIST</a>!
 
 # profile:
 #   align: right
@@ -35,21 +35,20 @@ INA research group pursues innovative ideas in/for Internet services and applica
 &nbsp;
 ## Our **Research**
 
-#### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI**
+#### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI & AI for Systems**
 - Accelerating training for large-scale deep neural networks
-- Maximizing resource efficiency of deep neural networks while remaining statistical efficiency
-
-#### _<i class="fa fa-server mr-2"></i>_  **AI for Systems**
 - Accelerating DNA sequencing by introducing learned index 
 - Optimizing microservice auto-scaling using graph neural networks
 
 #### _<i class="fa fa-photo-video mr-2"></i>_ **Internet Content Delivery**
 - Improving video streaming quality using neural super-resolution
 - Accelerating neural super-resolution to enable it on large-scale, distributed systems
+- Jointly optimizing image/video codecs and super-resolution 
 
-#### _<i class="fa fa-cloud mr-2"></i>_  **Systems & Security**
+#### _<i class="fa fa-cloud mr-2"></i>_  **Networked Systems & Security**
 - Integrating trusted execution environment with conventional network systems
 - Optimizing network resource and wireless spectral efficiency under 5G, 6G environments
+- Improving congestion control schemes for datacenter networking
 
 &nbsp;
 &nbsp;
