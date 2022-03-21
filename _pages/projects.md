@@ -5,7 +5,7 @@ permalink: /projects/
 description: ''
 nav: true
 
-display_categories: ["System for AI & AI for System", Internet Content Delivery, "Networked Systems & Security"]
+display_categories: ["Systems for AI & AI for Systems", Internet Content Delivery, "Networked Systems & Security"]
 horizontal: false
 ---
 
