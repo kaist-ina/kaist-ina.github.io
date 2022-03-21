@@ -4,7 +4,7 @@ title: TLT
 description: Timeout-less Transport in Commodity Datacenter Networks
 img: /assets/img/project/tlt/tlt-diagram.png
 importance: 9998
-category: "Systems & Security"
+category: "Networked Systems & Security"
 members: ['Hwijoon', 'Youngmok', 'Dongsu']
 ---
 
