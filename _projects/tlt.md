@@ -11,6 +11,7 @@ members: ['Hwijoon', 'Youngmok', 'Dongsu']
 <p class="profile-buttons">
     <a class="btn z-depth-0" href="https://github.com/kaist-ina/ns3-tlt-tcp-public">NS-3 TLT Simulator Code </a>
     <a class="btn z-depth-0" href="https://github.com/kaist-ina/libvma-tlt-public">libvma Code </a>
+    <a class="btn z-depth-0" href="/assets/img/project/tlt/slide-eurosys21-tlt.pptx">Slide </a>
 </p>
 
 <div class="row justify-content-sm-center">
