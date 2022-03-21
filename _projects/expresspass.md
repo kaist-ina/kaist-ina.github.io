@@ -35,20 +35,3 @@ ExpressPass is an end-to-end credit-scheduled, delay-bounded congestion control 
 
 <h3>Members</h3>
 {% include project_member.html %}
-
-
-<h3>Media</h3>
-<div class="row justify-content-sm-center">
-    <div class="col-md mt-3 mt-md-0 col-md-6">
-        {% include youtube.html src="https://www.youtube.com/embed/oHLja8FTJHc?start=0" class="rounded z-depth-1" %}
-        <div class="caption">
-            12 minute talk.
-        </div>
-    </div>
-    <div class="col-md mt-3 mt-md-0 col-md-6">
-        {% include youtube.html src="https://www.youtube.com/embed/bEtO5oKMMlk?start=0" class="rounded z-depth-1" %}
-        <div class="caption">
-            20 minute talk.
-        </div>
-    </div>
-</div>
