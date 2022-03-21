@@ -115,9 +115,9 @@
   - name: ["Jaehyeong", "Park"]
     subtitle: "Master Student, School of Electrical Engineering"
     email: woguddlrj676@kaist.ac.kr
-    introduction: I am a MS student at INA lab, KAIST advised by Dongsu Han.
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han.
     I am interested in applying machine learning approach to design a new software for
-    Next-generation sequencing.
+    Next-generation sequencing."
     photo: /assets/img/profile/jaehyeong-park.jpg
 
 "Alumni":
