@@ -202,3 +202,22 @@ body.sticky-bottom-footer {
   font-weight: bold;
   color: var(--red);
 }
+
+
+.publications {
+  ol.bibliography li .abbr abbr.bib-tier-badge {
+    background-color: var(--green);
+  }
+
+  
+  .bib-tier {
+    font-family: 'SF Mono', 'Consolas', 'Lucida Console','Andale Mono', 'Courier New',Courier,monospace;
+    font-weight: bold;
+    background-color: white;
+    border: 1px solid #999;
+    margin-right: 5px;
+    padding: 3px;
+    font-size: 90%;
+    color: var(--red);
+  }
+}
