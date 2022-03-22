@@ -38,7 +38,7 @@ Moreover, GRAF handles traffic surge with 36% fewer resources while achieving up
 <h3>Media</h3>
 <div class="row justify-content-sm-center">
     <div class="col-md mt-3 mt-md-0 col-md-6">
-        {% include youtube.html src="https://www.youtube.com/watch?v=p7zYAVz7qxk&ab_channel=JinwooPark" class="rounded z-depth-1" %}
+        {% include youtube.html src="https://youtu.be/p7zYAVz7qxk" class="rounded z-depth-1" %}
         <div class="caption">
             15 minute talk.
         </div>
