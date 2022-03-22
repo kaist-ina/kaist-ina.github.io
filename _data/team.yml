@@ -83,8 +83,8 @@
     linkedin: https://linkedin.com/in/jaykim305
  
   - name: ["Jinwoo", "Park"]
-    subtitle: "Ph.D. Student, School of Electrical Engineering"
-    introduction: "Microservice, Applied machine learning"
+    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
+    introduction: "My research interests focus on applying AI to the system. Specifically, my research aims to enhance performance of the systems by integrating a novel AI technique to the system design."
     photo: /assets/img/profile/jinwoo-park.jpg
     homepage: https://jinwoo520528.github.io/
     email: jinwoo520528@kaist.ac.kr
