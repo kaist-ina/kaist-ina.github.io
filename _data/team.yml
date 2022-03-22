@@ -132,19 +132,19 @@
     photo: /assets/img/profile/jaehyeong-park.jpg
 
 "Alumni":
-  - name: ["Joonhyuk", "Lee", (M.S., 2021)]
-    subtitle: 
+  - name: ["Joonhyuk", "Lee"]
+    subtitle: (M.S., 21)
     introduction: computer network, blockchain
     photo: /assets/img/profile/junhyuk-lee.jpg
 
-  - name: ["Byungkwon", "Choi", (Ph.D. 2020)]
-    subtitle: Samsung Electronics Mobile Division
+  - name: ["Byungkwon", "Choi"]
+    subtitle: (Ph.D., 20) Samsung Electronics Mobile Division
     photo: /assets/img/profile/byungkwon-choi.jpg
     introduction: High-performance networked systems, Cloud-based applications
     homepage: /team/brad
 
-  - name: ["Seongmin", "Kim", (Ph.D. 2019)]
-    subtitle: "Assistant Professor at Sungshin Women’s University"
+  - name: ["Seongmin", "Kim"]
+    subtitle: "(Ph.D., 19) Assistant Professor at Sungshin Women’s University"
     photo: /assets/img/profile/seongmin-kim.jpg
     introduction: "I'm an Assistant Professor in Department of Convergence Security
      Engineering (CSE) at Sungshin Women's University. 
@@ -155,24 +155,24 @@
     homepage: https://csesmkim.github.io/
     email: sm.kim@sungshin.ac.kr
     
-  - name: ["Hejing", "Li", (M.S., 2019)]
-    subtitle: "Ph.D. student Max Planck Institute for Software Systems"
+  - name: ["Hejing", "Li"]
+    subtitle: "(M.S., 19) Ph.D. student Max Planck Institute for Software Systems"
     photo: /assets/img/profile/hejing-li.jpg
     introduction: Parallel Computing, Network Function Virtualization, High Performance Networked Systems
 
-  - name: ["Quang", "Nguyen", "Ngoc", (M.S., 2019)]
-    subtitle: "CyberLogitec"
+  - name: ["Quang", "Nguyen", "Ngoc"]
+    subtitle: "(M.S., 19) CyberLogitec"
     photo: /assets/img/profile/quang-nguyen-ngoc.jpg
     introduction: Applied Machine Learning, Deep Learning, Computer Network
 
-  - name: ["Daeyang", "Cho", (M.S., 2019)]
-    subtitle: "Stealth startup"
+  - name: ["Daeyang", "Cho"]
+    subtitle: (M.S., 19) "Stealth startup"
     photo: /assets/img/profile/daeyang-cho.jpg
     introduction: High-performance networked systems, Security issue of cloud-based applicatoins, Intel SGX, Oblivious RAM
     
-  - name: ["Inho", "Cho", (Ph.D., 2018)]
+  - name: ["Inho", "Cho"]
     photo: /assets/img/profile/inho-cho.jpg
-    subtitle: "Ph.D. student at MIT EECS"
+    subtitle: (Ph.D., 18) "Ph.D. student at MIT EECS"
     introduction: "I am a fourth year Ph.D. student working with Professor Mohammad Alizadeh and Adam Belay at MIT CSAIL.
     Before joining the MIT, I received B.S. and M.S. in Electrical Engineering at KAIST at 2015 and 2018 
     under the advice of Professor Dongsu Han.
@@ -182,17 +182,17 @@
     homepage: https://inhocho89.github.io/
     github: https://github.com/inhocho89
 
-  - name: ["Byeoksan", "Lee", (M.S., 2017)]
-    subtitle: "LINE Plus"
+  - name: ["Byeoksan", "Lee"]
+    subtitle: (M.S., 17) "LINE Plus"
 
-  - name: ["Woohyun", "Choi", (M.S., 2017)]
-    subtitle: "TMaxSoft"
+  - name: ["Woohyun", "Choi"]
+    subtitle: (M.S., 17) "TMaxSoft"
 
-  - name: ["Changhyun", "Lee", (Ph.D., 2015)]
-    subtitle: "ETRI"
+  - name: ["Changhyun", "Lee"]
+    subtitle: (Ph.D., 15) "ETRI"
 
-  - name: ["Keon", "Jang", (Post-doc)]
-    subtitle: Former visiting scientist/post-doc researcher; currently an assistant professor at MPI-SWS
+  - name: ["Keon", "Jang"]
+    subtitle: (Post-doc) Rubrik
     homepage: https://keonjang.github.io/
     
   
