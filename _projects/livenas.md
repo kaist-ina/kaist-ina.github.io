@@ -92,8 +92,8 @@ improvement for live stream viewers.
             </div>
             <div class="extra content">
             <div class="ui two buttons">
-                <a class="ui basic primary button" target="_blank" href="https://web.inalab.net/video.html?video=WebRTC_justchat.mp4&amp;type=mp4"> <b>WebRTC</b> </a>
-                <a class="ui basic green button" target="_blank" href="https://web.inalab.net/video.html?video=LiveNAS_justchat.mp4&amp;type=mp4"> LiveNAS </a> 
+                <a class="ui basic primary button" target="_blank" href="https://web.inalab.net/~livenas/video.html?video=WebRTC_justchat.mp4&amp;type=mp4"> <b>WebRTC</b> </a>
+                <a class="ui basic green button" target="_blank" href="https://web.inalab.net/~livenas/video.html?video=LiveNAS_justchat.mp4&amp;type=mp4"> LiveNAS </a> 
             </div>
             </div>
         </div>
