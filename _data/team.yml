@@ -138,7 +138,7 @@
     photo: /assets/img/profile/junhyuk-lee.jpg
 
   - name: ["Byungkwon", "Choi"]
-    subtitle: (Ph.D., 20) Samsung Electronics Mobile Division
+    subtitle: (Ph.D., 20) Staff engineer at Samsung Electronics Mobile Division
     photo: /assets/img/profile/byungkwon-choi.jpg
     introduction: High-performance networked systems, Cloud-based applications
     homepage: /team/brad
@@ -156,17 +156,17 @@
     email: sm.kim@sungshin.ac.kr
     
   - name: ["Hejing", "Li"]
-    subtitle: (M.S., 19) Ph.D. student Max Planck Institute for Software Systems
+    subtitle: (M.S., 19) Ph.D. student at Max Planck Institute
     photo: /assets/img/profile/hejing-li.jpg
     introduction: Parallel Computing, Network Function Virtualization, High Performance Networked Systems
 
   - name: ["Quang", "Nguyen", "Ngoc"]
-    subtitle: (M.S., 19) CyberLogitec
+    subtitle: (M.S., 19) Software engineer at CyberLogitec
     photo: /assets/img/profile/quang-nguyen-ngoc.jpg
     introduction: Applied Machine Learning, Deep Learning, Computer Network
 
   - name: ["Daeyang", "Cho"]
-    subtitle: (M.S., 19) Stealth startup
+    subtitle: (M.S., 19) Software engineer at Stealth startup
     photo: /assets/img/profile/daeyang-cho.jpg
     introduction: High-performance networked systems, Security issue of cloud-based applicatoins, Intel SGX, Oblivious RAM
     
@@ -183,16 +183,16 @@
     github: https://github.com/inhocho89
 
   - name: ["Byeoksan", "Lee"]
-    subtitle: (M.S., 17) LINE Plus
+    subtitle: (M.S., 17) Software engineer at LINE Plus
 
   - name: ["Woohyun", "Choi"]
-    subtitle: (M.S., 17) TMaxSoft
+    subtitle: (M.S., 17) Software engineer at TMaxSoft
 
   - name: ["Changhyun", "Lee"]
-    subtitle: (Ph.D., 15) ETRI
+    subtitle: (Ph.D., 15) Researcher at ETRI
 
   - name: ["Keon", "Jang"]
-    subtitle: (Post-doc) Rubrik
+    subtitle: (Post-doc) Staff engineer at Rubrik
     homepage: https://keonjang.github.io/
     
   
