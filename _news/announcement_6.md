@@ -6,4 +6,4 @@ inline: true
 
 <!-- [BWA-MEME](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac137/6543607) was accepted to Bioinformatics'22. -->
 
-We have two graduate students joining our group this spring. Welcome aboard Uitaek, Jaehyeong!
+We have **two graduate students** joining our group this spring. Welcome aboard Uitaek, Jaehyeong!
