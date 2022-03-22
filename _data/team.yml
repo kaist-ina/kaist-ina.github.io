@@ -99,7 +99,11 @@
 "M.S. Students":
   - name: ["Yunheon", "Lee"]
     subtitle: "Master Student, School of Electrical Engineering"
-    introduction: 5G networks, AI-based system
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han.
+    I received B.A in Electrical Engineering at KAIST, Republic of Korea.
+    Recently, I am interested in AI optimized cellular network systems that support 
+    computation-intensive AI applications on mobile devices."
+    email: yhlee37@kaist.ac.kr
     photo: /assets/img/profile/yunheon-lee.jpg
     
   - name: ["Yechan", "Kim"]
