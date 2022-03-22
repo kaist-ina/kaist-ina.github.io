@@ -144,7 +144,7 @@
     homepage: /team/brad
 
   - name: ["Seongmin", "Kim"]
-    subtitle: "(Ph.D., 19) Assistant Professor at Sungshin Women’s University"
+    subtitle: (Ph.D., 19) Assistant Professor at Sungshin Women’s University
     photo: /assets/img/profile/seongmin-kim.jpg
     introduction: "I'm an Assistant Professor in Department of Convergence Security
      Engineering (CSE) at Sungshin Women's University. 
@@ -156,23 +156,23 @@
     email: sm.kim@sungshin.ac.kr
     
   - name: ["Hejing", "Li"]
-    subtitle: "(M.S., 19) Ph.D. student Max Planck Institute for Software Systems"
+    subtitle: (M.S., 19) Ph.D. student Max Planck Institute for Software Systems
     photo: /assets/img/profile/hejing-li.jpg
     introduction: Parallel Computing, Network Function Virtualization, High Performance Networked Systems
 
   - name: ["Quang", "Nguyen", "Ngoc"]
-    subtitle: "(M.S., 19) CyberLogitec"
+    subtitle: (M.S., 19) CyberLogitec
     photo: /assets/img/profile/quang-nguyen-ngoc.jpg
     introduction: Applied Machine Learning, Deep Learning, Computer Network
 
   - name: ["Daeyang", "Cho"]
-    subtitle: (M.S., 19) "Stealth startup"
+    subtitle: (M.S., 19) Stealth startup
     photo: /assets/img/profile/daeyang-cho.jpg
     introduction: High-performance networked systems, Security issue of cloud-based applicatoins, Intel SGX, Oblivious RAM
     
   - name: ["Inho", "Cho"]
     photo: /assets/img/profile/inho-cho.jpg
-    subtitle: (Ph.D., 18) "Ph.D. student at MIT EECS"
+    subtitle: (Ph.D., 18) Ph.D. student at MIT EECS
     introduction: "I am a fourth year Ph.D. student working with Professor Mohammad Alizadeh and Adam Belay at MIT CSAIL.
     Before joining the MIT, I received B.S. and M.S. in Electrical Engineering at KAIST at 2015 and 2018 
     under the advice of Professor Dongsu Han.
@@ -183,13 +183,13 @@
     github: https://github.com/inhocho89
 
   - name: ["Byeoksan", "Lee"]
-    subtitle: (M.S., 17) "LINE Plus"
+    subtitle: (M.S., 17) LINE Plus
 
   - name: ["Woohyun", "Choi"]
-    subtitle: (M.S., 17) "TMaxSoft"
+    subtitle: (M.S., 17) TMaxSoft
 
   - name: ["Changhyun", "Lee"]
-    subtitle: (Ph.D., 15) "ETRI"
+    subtitle: (Ph.D., 15) ETRI
 
   - name: ["Keon", "Jang"]
     subtitle: (Post-doc) Rubrik
