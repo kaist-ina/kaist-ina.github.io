@@ -3,6 +3,7 @@ layout: page
 title: LiveNAS
 description: Stream high-quality live video even when network becomes congested.
 img: /assets/img/project/livenas/livenas.png
+redirect_from: /~livenas
 importance: 10000
 category: Internet Content Delivery
 members: ['Jaehong', 'Youngmok', 'Hyunho', 'Juncheol', 'Dongsu']

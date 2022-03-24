@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+redirect_from: /new_home/
 subtitle: Welcome to <strong>I</strong>ntelligent <strong>N</strong>etwork <strong>A</strong>rchitecture Lab @ <a href='https://kaist.ac.kr'>KAIST</a>!
 
 # profile:
