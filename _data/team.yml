@@ -138,7 +138,7 @@
     photo: /assets/img/profile/junhyuk-lee.jpg
 
   - name: ["Byungkwon", "Choi"]
-    subtitle: (Ph.D., 20) Staff engineer at Samsung Electronics Mobile Division
+    subtitle: (Ph.D., 21) Staff engineer at Samsung Electronics Mobile Division
     photo: /assets/img/profile/byungkwon-choi.jpg
     introduction: High-performance networked systems, Cloud-based applications
     homepage: /team/brad
@@ -156,7 +156,7 @@
     email: sm.kim@sungshin.ac.kr
     
   - name: ["Hejing", "Li"]
-    subtitle: (M.S., 19) Ph.D. student at Max Planck Institute
+    subtitle: (M.S., 20) Ph.D. student at Max Planck Institute
     photo: /assets/img/profile/hejing-li.jpg
     introduction: Parallel Computing, Network Function Virtualization, High Performance Networked Systems
 
@@ -166,7 +166,7 @@
     introduction: Applied Machine Learning, Deep Learning, Computer Network
 
   - name: ["Daeyang", "Cho"]
-    subtitle: (M.S., 19) Software engineer at Stealth startup
+    subtitle: (M.S., 20) Software engineer at Stealth startup
     photo: /assets/img/profile/daeyang-cho.jpg
     introduction: High-performance networked systems, Security issue of cloud-based applicatoins, Intel SGX, Oblivious RAM
     
