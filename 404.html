@@ -1,9 +1,27 @@
 ---
 layout: page
 permalink: /404.html
-title: "Page not found"
-description: "Looks like there has been a mistake. Nothing exists here."
+title: " "
+description: " "
 redirect: true
 ---
 
-<p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="{{ site.baseurl | prepend: site.url }}/">here</a>.</p>
+<p class="redirect-info"></p>
+
+
+<script>
+    var target_url = (window.location.pathname || '').replace(/\/*$/g,'');
+    if(target_url === '/~dongsuh') {
+        location.replace('/team/dongsuh');
+    } else if(target_url === '/~livenas') {
+        location.replace('/projects/livenas');
+    } else if(target_url === '/~nas') {
+        location.replace('/projects/nas');
+    } else {
+        setTimeout(function() {
+            $('.post-title').text('Page not found');
+            $('.post-description').text("Looks like there has been a mistake. Nothing exists here.");
+            $('.redirect-info').html('You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="{{ site.baseurl | prepend: site.url }}/">here</a>.');
+        }, 100)
+    }
+</script>
