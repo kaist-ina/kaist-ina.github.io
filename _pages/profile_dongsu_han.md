@@ -5,7 +5,7 @@ first_name: Dongsu
 last_name: Han
 title: Dongsu Han
 subtitle: 한동수 KAIST 전기및전자공학부 부교수
-redirect_from: /~dongsuh
+redirect_from: /~dongsuh/
 profile: 
   image: profile/dongsu-han.jpg
   address: "School of Electrical Engineering, KAIST <br>
