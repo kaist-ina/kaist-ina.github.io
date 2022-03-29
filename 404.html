@@ -17,6 +17,10 @@ redirect: true
         location.replace('/projects/livenas');
     } else if(target_url === '/~nas') {
         location.replace('/projects/nas');
+    } else if(target_url === '/~nemo') {
+        location.replace('/projects/nemo');
+    } else if(target_url === '/~brad') {
+        location.replace('/team/brad');
     } else {
         setTimeout(function() {
             $('.post-title').text('Page not found');
