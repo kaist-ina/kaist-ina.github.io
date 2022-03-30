@@ -92,9 +92,11 @@
     linkedin: https://www.linkedin.com/in/jinwoo520528/
     
   - name: ["Juncheol", "Ye"]
-    subtitle: "Ph.D. Student, School of Electrical Engineering"
-    introduction: Video system, Codec, Deep learning systems
+    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
+    introduction: "I am a 1st year Ph.D. student at INA lab. Currently, I am interested in deep learning based image super-resolution that jointly integrated with a traditional image codec
+    Also, I take an interested in video codec optimization."
     photo: /assets/img/profile/juncheol-ye.jpg
+    email: juncheolye@gmail.com
 
 "M.S. Students":
   - name: ["Yunheon", "Lee"]
