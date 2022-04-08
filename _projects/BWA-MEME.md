@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BWA-MEME
-description: BWA-MEME: BWA-MEM emulated with a machine learning approach
+description: BWA-MEM emulated with a machine learning approach
 img: /assets/img/project/bwa-meme/system_overview.png
 importance: 9999
 category: Systems for AI & AI for Systems
