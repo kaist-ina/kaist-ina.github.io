@@ -65,7 +65,7 @@ I am an associate professor at **KAIST** (Department of Electrical Engineering a
 </ul>
 
 ### Recent Publications
-See [publications](/publications)].
+See [publications](/publications).
 
 ### Program Committee
 - 2020: USENIX ATC, ACM SIGCOMM, USENIX NSDI, ACM CoNEXT PC co-chair
