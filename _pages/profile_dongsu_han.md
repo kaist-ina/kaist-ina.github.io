@@ -65,9 +65,7 @@ I am an associate professor at **KAIST** (Department of Electrical Engineering a
 </ul>
 
 ### Recent Publications
-<div class="publications inline">
-{% bibliography -f papers --max 10 -q @*[author ~= Dongsu]* %}
-</div>
+See [publications](/publications)].
 
 ### Program Committee
 - 2020: USENIX ATC, ACM SIGCOMM, USENIX NSDI, ACM CoNEXT PC co-chair
