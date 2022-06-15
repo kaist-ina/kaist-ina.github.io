@@ -19,16 +19,6 @@
     email: appff@kaist.ac.kr
     photo: /assets/img/profile/jeongmin-kim.jpg
 
-  - name: ["Juhyeng", "Han"]
-    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: "I’m a Ph.D. candidate in the School of Electrical Engineering at KAIST 
-    (Advisor: Dongsu Han). My research interests are network systems and cloud security. 
-    Especially, I’m passionate about designing secure and practical software by combining
-     hardware-based security technologies."
-    email: sparkly9399@gmail.com
-    photo: /assets/img/profile/juhyeng-han.jpg
-    homepage: https://juhyenghan.github.io
-    linkedin: https://linkedin.com/in/juhyeng-han
 
   - name: ["Hyunho", "Yeo"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
@@ -134,6 +124,17 @@
     photo: /assets/img/profile/jaehyeong-park.jpg
 
 "Alumni":
+  - name: ["Juhyeng", "Han"]
+    subtitle: "(Ph.D., 22) Software engineer at SAP Labs Korea"
+    introduction: "I’m a Ph.D. candidate in the School of Electrical Engineering at KAIST 
+    (Advisor: Dongsu Han). My research interests are network systems and cloud security. 
+    Especially, I’m passionate about designing secure and practical software by combining
+     hardware-based security technologies."
+    email: sparkly9399@gmail.com
+    photo: /assets/img/profile/juhyeng-han.jpg
+    homepage: https://juhyenghan.github.io
+    linkedin: https://linkedin.com/in/juhyeng-han
+    
   - name: ["Joonhyuk", "Lee"]
     subtitle: (M.S., 21)
     introduction: computer network, blockchain
