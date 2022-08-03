@@ -79,7 +79,7 @@ See [publications](/publications).
 - 2014: IEEE LANMAN, ICCCN
 
 ### Services
-- 2019: MobiSys 2019 poster co-chair, APNet PC co-chair, ACM CoNEXT PC co-chair
+- 2019: MobiSys 2019 poster co-chair, APNet PC co-chair
 - 2018: KBNets workshop co-chair, NSDI 2018 poster chair, CFI Web chair
 - 2017: CoNEXT publication chair, APNet publication chair, ACM SIGCOMM poster and demo PC
 - 2016: ACM SIGCOMM poster and demo PC
