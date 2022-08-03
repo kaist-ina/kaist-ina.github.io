@@ -162,6 +162,7 @@
     subtitle: (M.S., 20) Ph.D. student at Max Planck Institute
     photo: /assets/img/profile/hejing-li.jpg
     introduction: Parallel Computing, Network Function Virtualization, High Performance Networked Systems
+    homepage: https://hajeongee.github.io/
 
   - name: ["Quang", "Nguyen", "Ngoc"]
     subtitle: (M.S., 19) Software engineer at CyberLogitec
@@ -169,7 +170,7 @@
     introduction: Applied Machine Learning, Deep Learning, Computer Network
 
   - name: ["Daeyang", "Cho"]
-    subtitle: (M.S., 20) Software engineer at Stealth startup
+    subtitle: (M.S., 20) Software engineer at KLleon
     photo: /assets/img/profile/daeyang-cho.jpg
     introduction: High-performance networked systems, Security issue of cloud-based applicatoins, Intel SGX, Oblivious RAM
     
