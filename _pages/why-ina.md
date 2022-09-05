@@ -11,12 +11,19 @@ nav: false
         line-height: 1.6em;
     }
 
+    .post-title {
+        display: none;
+    }
+
     .cover-img {
         object-fit: cover;
         object-position: 50% 0%;
         width: 100%;
         height: 300px;
         margin-top: 1em;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
     }
 </style>
 
