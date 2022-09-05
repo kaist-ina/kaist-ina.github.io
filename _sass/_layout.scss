@@ -259,3 +259,24 @@ body.sticky-bottom-footer {
 .bg-white {
   background-color: white!important;
 }
+
+.profile.small {
+  margin-bottom: 20px;
+  img {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+}
+@media (min-width: 576px) {
+  .profile.small {
+    width: 20%;
+    margin-top: -40px;
+    img {
+      width: 100%;
+      margin: 0;
+      display: block;
+    }
+  }
+}
