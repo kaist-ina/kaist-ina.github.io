@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /why
-title: ''
+title: Why INA?
 description: # 
 nav: false
 ---
