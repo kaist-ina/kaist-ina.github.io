@@ -5,7 +5,7 @@ description: Security-enhanced network system by leveraging trusted execution en
 img: /assets/img/project/sgx/sgx.png
 importance: 10000
 category: "Networked Systems & Security"
-members: ['Juhyeng', 'Seongmin', 'Jaehyung', 'Youjung', 'Dongsu']
+members: ['Juhyeng', 'Seongmin', 'Daeyang', 'Jaehyung', 'Youjung', 'Dongsu']
 ---
 
 <p class="profile-buttons">

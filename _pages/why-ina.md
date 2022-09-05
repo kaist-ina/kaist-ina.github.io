@@ -3,7 +3,7 @@ layout: page
 permalink: /why
 title: Why INA?
 description: # 
-nav: false
+nav: true
 ---
 <style>
     p {
@@ -11,8 +11,9 @@ nav: false
         line-height: 1.6em;
     }
 
-    .post-title {
-        display: none;
+    .cover-img-container {
+        margin-top: 1em;
+        margin-bottom: 3em;
     }
 
     .cover-img {
@@ -20,7 +21,6 @@ nav: false
         object-position: 50% 0%;
         width: 100%;
         height: 300px;
-        margin-top: 1em;
         margin-left: auto;
         margin-right: auto;
         display: block;
@@ -28,13 +28,10 @@ nav: false
 </style>
 
 
-# <span class="font-weight-bold">Why INA?</span>
-
-<div>
-<img src="/assets/img/nasa.jpg" class="cover-img rounded z-depth-1"/>
+<div class="cover-img-container">
+    <img src="/assets/img/nasa.jpg" class="cover-img rounded z-depth-1"/>
 </div>
 
-<br/>
 
 ### <span class="font-weight-bold">김성민</span> <b>교수</b> (2019년 졸업)
 
@@ -64,9 +61,7 @@ nav: false
 
 현재 저도 타 기관에서 연구를 수행하고 있지만, KAIST처럼 국내에서 컴퓨팅 분야에 세계적으로 선도하는 연구를 수행하는 교수님들 밑에서 지도를 받을 수 있는 기회는 흔치 않을 겁니다. INA 연구실은 이러한 우수 연구 성과를 도출하는데 적지 않은 기여하고 있으며, 교수님의 지도와 뛰어난 역량을 갖춘 연구실 구성원, 연구에 집중할 수 있는 환경 지원들이 그 원천이라고 생각합니다. 이렇게 잘 갖춰진 환경에서 본인의 열정과 노력을 잘 버무려낸다면, 졸업 시기가 다가왔을 때 한 분야의 전문가가 되어있는 스스로를 발견하게 될거라 생각합니다. 
 
-<br />
-
-<br />
+<div style="margin-bottom: 75px"></div>
 
 ### <span class="font-weight-bold">한주형</span> <b>박사</b> (2022년 졸업)
 <div class="profile float-right small">
