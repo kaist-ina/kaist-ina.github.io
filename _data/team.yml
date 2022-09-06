@@ -22,16 +22,12 @@
 
   - name: ["Hyunho", "Yeo"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: "I am a fifth-year Ph.D. student in Electrical Engineering at KAIST
-     advised by Professor Dongsu Han. I received B.S. in Electrical Engineering from KAIST.
-     My research interests are incorporating deep learning (DL) techniques with
-     computing and networking systems to drastically improve performance. 
-     Recently, I have focused on 1) leveraging neural quality enhancement to make
-     video systems more efficient and 2) accelerating neural enhancement to enable 
-     it on large-scale, distributed applications."
+    introduction: "My research interests are broadly in networked systems and machine learning (ML) systems. Recently, my work has focused on applying ML to networked systems (especially video) to handle the fundamental limitations of traditional systems. In particular, I worked on two research directions - 1) AI for systems [HotNets'17, OSDI'18]: incorporate ML with existing networked systems in a way that maximizes the benefit from ML, and 2) Systems for AI [SIGCOMM'20, MobiCom'20, SIGCOMM'22]: accelerate and scale-out ML-augmented networked systems to make them more practical."
     email: chaos5958@gmail.com
     photo: /assets/img/profile/hyunho-yeo.jpg
     homepage: https://hyunhoyeo.com
+    scholar: https://scholar.google.com/citations?user=xi1Zy7MAAAAJ&hl=ko
+    linkedin: https://www.linkedin.com/in/hyunho-yeo/
 
   - name: ["Hwijoon", "Lim"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
