@@ -9,5 +9,5 @@ nav: false
 Being redirected...
 
 <script>
-location.replace("https://sites.google.com/view/ina-wiki");
+location.replace("https://wiki.inalab.net");
 </script>
