@@ -119,6 +119,14 @@
     Next-generation sequencing."
     photo: /assets/img/profile/jaehyeong-park.jpg
 
+  - name: ["Jinyeong", "Lim"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    email: wlswlszkem@kaist.ac.kr
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han.
+    I am studying neural video codec for machine learning tasks. 
+    My research interests are video analytics and storage system for machine learning tasks." 
+    photo: /assets/img/profile/jinyeong-Lim.jpg
+
 "Alumni":
   - name: ["Juhyeng", "Han"]
     subtitle: "(Ph.D., 22) Software engineer at SAP Labs Korea"
