@@ -22,7 +22,7 @@
 
   - name: ["Hyunho", "Yeo"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: "My research interests are broadly in networked systems and machine learning (ML) systems. Recently, my work has focused on applying ML to networked systems (especially video) to handle the fundamental limitations of traditional systems. In particular, I worked on two research directions - 1) AI for systems [HotNets'17, OSDI'18]: incorporate ML with existing networked systems in a way that maximizes the benefit from ML, and 2) Systems for AI [SIGCOMM'20, MobiCom'20, SIGCOMM'22]: accelerate and scale-out ML-augmented networked systems to make them more practical."
+    introduction: **I’m looking for a tech company located at the Bay area or Seattle** where I can tackle challenging problems by building hyper-scale systems that have a huge real-world impact. I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. My research interests are broadly in networked systems and machine learning (ML) systems. Recently, my work has focused on applying ML to networked systems (especially video) to handle the fundamental limitations of traditional systems. In particular, I worked on two research directions - 1) AI for systems: incorporate ML with existing networked systems in a way that maximizes the benefit from ML, and 2) Systems for AI: accelerate and scale-out ML-augmented networked systems to make them more practical.
     email: chaos5958@gmail.com
     photo: /assets/img/profile/hyunho-yeo.jpg
     homepage: https://hyunhoyeo.com
