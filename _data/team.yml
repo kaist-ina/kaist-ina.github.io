@@ -21,7 +21,7 @@
 
 
   - name: ["Hyunho", "Yeo"]
-    subtitle: "I’m looking for a US-based tech company located in the Bay area or Seattle"
+    subtitle: "I’m looking for a US-based tech company located in the Bay area or Seattle!"
     introduction: I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. My research interests are broadly in networked systems and machine learning systems. Recently, my work has focused on applying machine learning to large-scale networked systems (especially video) to drastically improve the performance. In particular, I worked on two research directions - 1) AI for systems: incorporate ML with existing networked systems in a way that maximizes the benefit from ML, and 2) Systems for AI: accelerate and scale-out ML-augmented networked systems to make them more practical. 
     email: chaos5958@gmail.com
     photo: /assets/img/profile/hyunho-yeo.jpg
