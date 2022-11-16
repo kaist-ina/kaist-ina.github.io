@@ -22,7 +22,7 @@
 
   - name: ["Hyunho", "Yeo"]
     subtitle: "I’m currently looking for a US-based tech company located in the Bay area or Seattle!"
-    introduction: I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. My research interests are broadly in networked systems and machine learning systems. Recently, my work has focused on applying machine learning to large-scale networked systems (especially video) to drastically improve the performance. In particular, I have worked on two research directions - 1) incorporating ML with existing networked systems (HotNets18, OSDI20), and 2) accelerating ML-augmented networked systems at scale (SIGCOMM20, MobiCom20, SIGCOMM22). 
+    introduction: I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. My research interests are broadly in networked systems and machine learning systems. Recently, my work has focused on applying machine learning (ML) to large-scale networked systems (especially video) to drastically improve the performance. In particular, I have worked on two research directions - 1) incorporating ML with existing systems (HotNets18, OSDI20), and 2) accelerating ML-augmented systems at scale (SIGCOMM20, MobiCom20, SIGCOMM22). 
     email: chaos5958@gmail.com
     photo: /assets/img/profile/hyunho-yeo.jpg
     homepage: https://hyunhoyeo.com
