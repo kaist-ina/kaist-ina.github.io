@@ -39,19 +39,20 @@ INA research group pursues innovative ideas in/for Internet services and applica
 ## Our **Research**
 
 #### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI & AI for Systems**
-- Accelerating training for large-scale deep neural networks
-- Accelerating DNA sequencing by learned index 
-- Optimizing microservice auto-scaling by graph neural networks
+- Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe)]
+- Accelerating DNA sequencing by learned index [[BioInformatics'22](/projects/bwa-meme)]
+- Optimizing microservice auto-scaling by graph neural networks [[CoNext'21](/projects/graf)]
 
-#### _<i class="fa fa-photo-video mr-2"></i>_ **Internet Content Delivery**
-- Improving video streaming quality by neural super-resolution
-- Accelerating neural super-resolution to enable it on large-scale systems
-- Jointly optimizing image codecs and super-resolution 
+#### _<i class="fa fa-photo-video mr-2"></i>_ **AI + Video/Image**
+<!-- - Improving video streaming quality by neural super-resolution -->
+- Incorporating neural enhancement with adaptive video streaming [[OSDI'18](/projects/nas), [SIGCOMM'20](/projects/livenas)]
+- Accelerating neural enhancement at scale [[MobiCom'20](/projects/nemo/), [SIGCOMM'22](/projects/neuroscaler)]
+- Optimizing traditional image codecs for neural enhancement 
 
 #### _<i class="fa fa-cloud mr-2"></i>_  **Networked Systems & Security**
-- Integrating trusted execution environment with conventional networked systems
-- Optimizing network resource and wireless spectral efficiency under 5G, 6G environments
-- Improving congestion control schemes for datacenter networking
+- Integrating trusted execution environment with conventional networked systems [[NSDI'17,ToN'20,ToN'22](/projects/sgx)]
+- Optimizing network resource and wireless spectral efficiency under 5G, 6G environments [CoNext'22]
+- Improving congestion control schemes for datacenter networking [[SICOMM'17](/projects/expresspass), [EuroSys'21](/projects/tlt)]
 
 &nbsp;
 &nbsp;
