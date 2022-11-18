@@ -39,7 +39,7 @@ INA research group pursues innovative ideas in/for Internet services and applica
 ## **Research**
 
 
-INA has published 14 papers at top-tier systems conferences, which is **ranked 1st in Korea** (refer to [link](csrankings.org)). Also, INA 
+INA has published 14 papers at top-tier systems conferences, which is **ranked 1st in Korea** (refer to [link](csrankings.org)).
 
 #### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI / AI for Systems**
 - Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe)]
