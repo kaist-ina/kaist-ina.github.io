@@ -43,7 +43,7 @@ INA has published 14 papers at top-tier systems conferences, which is **ranked 1
 
 #### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI / AI for Systems**
 - Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe)]
-- Accelerating DNA sequencing by learned index [[BioInformatics'22](/projects/bwa-meme)]
+- Accelerating DNA sequencing by learned index [[Bioinformatics'22](/projects/bwa-meme)]
 - Optimizing microservice auto-scaling by graph neural networks [[CoNext'21](/projects/graf)]
 
 #### _<i class="fa fa-photo-video mr-2"></i>_ **AI-augmented Media Delivery**
@@ -55,7 +55,7 @@ INA has published 14 papers at top-tier systems conferences, which is **ranked 1
 #### _<i class="fa fa-cloud mr-2"></i>_  **Networked Systems (Data center, 5G) / Systems Security**
 - Integrating trusted execution environment with conventional networked systems [[NSDI'17,ToN'20,ToN'22](/projects/sgx)]
 - Optimizing network resource and wireless spectral efficiency under 5G, 6G environments [CoNext'22]
-- Improving congestion control schemes for datacenter networking [[SICOMM'17](/projects/expresspass), [EuroSys'21](/projects/tlt)]
+- Improving congestion control schemes for datacenter networking [[SIGCOMM'17](/projects/expresspass), [EuroSys'21](/projects/tlt)]
 
 &nbsp;
 &nbsp;
