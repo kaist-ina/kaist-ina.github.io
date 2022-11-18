@@ -31,6 +31,8 @@ social: false  # includes social icons at the bottom of the page
 
 INA research group pursues innovative ideas in/for Internet services and applications, cloud infrastructure, and systems that support artificial intelligence. We identify and anticipate new problems that arise from the evolution of Internet-/Cloud-based services and the development of new hardware, provide novel solutions for challenging problems in the real-world, design and implement the solutions in a way that reaches out for real-world impact. INA is part of the [Computer Division](https://computer.kaist.ac.kr) of the [School of Electrical Engineering](https://ee.kaist.ac.kr). 
 
+**Open Position:** We are looking for undergraduate research interns to join the INA lab (상시 채용). We have several interesting topics such as large-scale deep learning, neural volumetric streaming, and retrospective video analytics. You can find more information on [Career@INA](https://docs.google.com/document/d/1Kf4_kTZ_bdU0k7MvFSViwVwF8NWfb4YJW6zQkcCSXC4/edit?usp=sharing).
+
 
 &nbsp;
 &nbsp;
