@@ -2,7 +2,7 @@
 layout: page
 title: OutRAN
 description: Cell-scale flow scheduler designed for Radio Access Networks.
-img: /assets/img/project/outran/outran.jpg
+img: /assets/img/project/outran/outran.png
 redirect_from: /~outran
 importance: 9997
 category: "Networked Systems & Security"
@@ -11,7 +11,7 @@ members: ['Jaehong', 'Yunheon', 'Hwijoon', 'Youngmok', 'Dongsu']
 
 <div class="row justify-content-sm-center">
     <div class="col-md mt-3 col-md-6">
-        {% include figure.html path="/assets/img/project/outran/outran.jpg" title="OutRAN" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/project/outran/outran.png" title="OutRAN" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             OutRAN in operation.
         </div>
