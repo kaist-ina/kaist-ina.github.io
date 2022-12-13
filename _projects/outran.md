@@ -8,6 +8,9 @@ importance: 9997
 category: "Networked Systems & Security"
 members: ['Jaehong', 'Yunheon', 'Hwijoon', 'Youngmok', 'Dongsu']
 ---
+<p class="profile-buttons">
+    <a class="btn z-depth-0" href="/assets/img/project/outran/outran_conext.pptx">Slide</a>
+</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-md mt-3 col-md-6">
@@ -34,7 +37,7 @@ To this end, we present OutRAN, a practical flow scheduler designed for Radio Ac
 <h3 class="mt-5">Media</h3>
 <div class="row justify-content-sm-center">
     <div class="col-md mt-3 mt-md-0 col-md-6">
-        {% include youtube.html src="TBU" class="rounded z-depth-1" %}
+        {% include youtube.html src="https://youtu.be/ZfCLmg0n8D4" class="rounded z-depth-1" %}
         <div class="caption">
             TBU
         </div>
