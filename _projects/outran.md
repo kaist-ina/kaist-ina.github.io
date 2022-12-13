@@ -39,7 +39,7 @@ To this end, we present OutRAN, a practical flow scheduler designed for Radio Ac
     <div class="col-md mt-3 mt-md-0 col-md-6">
         {% include youtube.html src="https://youtu.be/ZfCLmg0n8D4" class="rounded z-depth-1" %}
         <div class="caption">
-            TBU
+            Web Page Load Time (PLT) improvement demo.
         </div>
     </div>
 </div>
