@@ -4,7 +4,7 @@ title: NeuroScaler
 description: Enable neural-enhanced video streaming at scale
 img: /assets/img/project/neuroscaler/neuroscaler.jpg
 redirect_from: /~neuroscaler
-importance: 10000
+importance: 9997
 category: Internet Content Delivery
 members: ['Hyunho', 'Hwijoon', 'Jaehong', 'Youngmok', 'Juncheol', 'Dongsu']
 ---

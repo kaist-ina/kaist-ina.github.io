@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OutRAN
-description: Cell-scale flow scheduler designed for Radio Access Networks.
+description: A cell-scale flow scheduler designed for Radio Access Networks
 img: /assets/img/project/outran/outran.png
 redirect_from: /~outran
 importance: 9997

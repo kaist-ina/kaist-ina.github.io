@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NAS
-description: Watch video in high-quality even when network becomes congested.
+description: Watch videos in high-quality even when the network becomes congested
 img: /assets/img/project/nas/nas.png
 redirect_from: /~nas
 importance: 10000
