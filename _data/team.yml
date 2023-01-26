@@ -14,8 +14,8 @@
 
 "Ph.D. Students":
   - name: ["Hyunho", "Yeo"]
-    subtitle: "I am currently looking for a US-based tech company located in the Bay area or Seattle!"
-    introduction: I am a final-year Ph.D. student in Electrical Engineering at KAIST advised by Professor Dongsu Han. My research interests are broadly in networked systems and machine learning systems. Recently, my work has focused on applying machine learning (ML) to large-scale networked systems (especially video) to drastically improve the performance. In particular, I have worked on two research directions - 1) incorporating ML with existing systems (HotNets18, OSDI20), and 2) accelerating ML-augmented systems at scale (SIGCOMM20, MobiCom20, SIGCOMM22). 
+    subtitle: "Ph.D. Candidate (Final year), School of Electrical Engineering"
+    introduction: "I've worked on AI/ML and video systems for over six years, publishing papers at top-tier system conferences such as OSDI, SIGCOMM, and MobiCom. I learned skills to build large-scale ML systems and utilize several ML frameworks (e.g., PyTorch, Tensorflow, TensorRT). I also have a vast repository of in-depth knowledge about video codec internals and video streaming algorithms/systems."
     email: hyunho.yeo@kaist.ac.kr
     photo: /assets/img/profile/hyunho-yeo.jpg
     homepage: https://hyunhoyeo.com
