@@ -61,10 +61,9 @@
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
     introduction: "I am a PhD candidate at INA lab, KAIST advised by Dongsu Han. 
      Before than, I received my BS degree in Electrical Engineering in KAIST, South Korea.
-     My research interests is focused in applying AI approach to redesign system. 
-     Recently, I have been coworking with bioinformaticians to design new software for 
-     Next-generation sequencing. In the past, I worked on various topics in image 
-     super-resolution based on neural network and video delivery system."
+     I am interested in developing systems that use AI/ML approaches. Real-world systems have assumptions that are often different from those of AI/ML approaches. My works aims at 1) designing efficient system that uses AI/ML approaches; 2) improving the AI/ML approaches leveraging the assumptions in the system. All my work involves several months of implementation followed by thorough testing in real-world data.
+     Recently, I am striving to redesign genomics software using AI/ML approaches. In the past, I worked on various topics in video delivery system and image super-resolution based on neural network.
+     "
     photo: /assets/img/profile/youngmok-jung.jpg
     homepage: https://quito418.github.io/quito418/
     email: tom418@kaist.ac.kr
