@@ -150,7 +150,8 @@ body.sticky-bottom-footer {
       flex-shrink: 0;
       min-width: 100%;
       object-fit: cover;
-      height: 120px;
+      object-position: 50% 30%;
+      height: 150px;
     }
   }
 }
@@ -254,4 +255,34 @@ body.sticky-bottom-footer {
 
 .publications.inline {
   margin-top: 1em;
+}
+
+.bg-white {
+  background-color: white!important;
+}
+
+.profile.small {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  img {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+}
+@media (min-width: 576px) {
+  .profile.small {
+    width: 20%;
+    margin-top: -40px;
+    img {
+      width: 100%;
+      margin: 0;
+      display: block;
+    }
+  }
+}
+
+#news_long {
+  display: none;
 }

@@ -15,7 +15,7 @@ profile:
             Email: dongsu.han (at) gmail.com"
 ---
 <p class="profile-buttons">
-    <a class="btn z-depth-0" href="/assets/profile/dongsuh/HAN-CV.pdf">CV</a>
+    <a class="btn z-depth-0" href="/assets/profile/dongsuh/HAN-CV-2022-Nov.pdf">CV</a>
     <a class="btn z-depth-0" href="https://scholar.google.co.kr/citations?user=NMggRxkAAAAJ">Google Scholar</a>
     <a class="btn z-depth-0" href="mailto:dongsu.han@gmail.com">Email</a>
 </p>
@@ -65,11 +65,11 @@ I am an associate professor at **KAIST** (Department of Electrical Engineering a
 </ul>
 
 ### Recent Publications
-<div class="publications inline">
-{% bibliography -f papers --max 10 -q @*[author ~= Dongsu]* %}
-</div>
+See [publications](/publications).
 
 ### Program Committee
+- 2022: SIGCOMM, NSDI, APNet, CoNEXT PC
+- 2021: HotNets, ICNP, APNet
 - 2020: USENIX ATC, ACM SIGCOMM, USENIX NSDI, ACM CoNEXT PC co-chair
 - 2019: ACM SIGCOMM, ACM HotNets, ACM/IEEE Symposium on Edge Computing, ACM APNet (Co-chair), SysTEX
 - 2018: USENIX NSDI, ACM HotNets, ACM APNet, ACM KBNets (Co-chair)
@@ -79,7 +79,7 @@ I am an associate professor at **KAIST** (Department of Electrical Engineering a
 - 2014: IEEE LANMAN, ICCCN
 
 ### Services
-- 2019: MobiSys 2019 poster co-chair, APNet PC co-chair, ACM CoNEXT PC co-chair
+- 2019: MobiSys 2019 poster co-chair, APNet PC co-chair
 - 2018: KBNets workshop co-chair, NSDI 2018 poster chair, CFI Web chair
 - 2017: CoNEXT publication chair, APNet publication chair, ACM SIGCOMM poster and demo PC
 - 2016: ACM SIGCOMM poster and demo PC

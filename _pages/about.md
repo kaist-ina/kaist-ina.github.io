@@ -29,27 +29,36 @@ social: false  # includes social icons at the bottom of the page
 
 &nbsp;
 
-INA research group pursues innovative ideas in/for Internet services and applications, cloud infrastructure, and systems that support artificial intelligence. We identify and anticipate new problems that arise from the evolution of Internet-/Cloud-based services and the development of new hardware, provide novel solutions for challenging problems in the real-world, design and implement the solutions in a way that reaches out for real-world impact. INA is part of the [Computer Division](https://computer.kaist.ac.kr) of the [School of Electrical Engineering](https://ee.kaist.ac.kr). 
+INA research group pursues innovative ideas in/for Internet services and applications, cloud infrastructure, and systems that support artificial intelligence. We identify and anticipate new problems that arise from the evolution of Internet-/Cloud-based services and the development of new hardware, provide novel solutions for challenging problems in the real-world, design and implement the solutions in a way that reaches out for real-world impact. INA research group is part of the [Computer Division](https://computer.kaist.ac.kr) of the [School of Electrical Engineering](https://ee.kaist.ac.kr). 
+
+INA research group provides a self-motivated atmosphere that allows for efficient research through flexible working hours. In the doctoral program, our research group provides the necessary training to become an independent researcher and become an expert in a particular field. There is also active exchange with foreign researchers, and Lab alumni have a strong network and receive many offers upon graduation, entering the industry, research lab, or academia.
+<!-- 자율 출퇴근이며 연구를 효율적으로 할 수 있도록 자율적인 분위기입니다. 박사과정에서는 독립적인 연구자로 성장하는 과정에 필요한 훈련을 제공하여 한 분야의 전문가가 되도록 합니다. 외국 연구자와도 공동연구 등 교류가 활발하여 랩 출신들이 좋은 네트워크를 가지고 여러 offer를 가지고 졸업하며 industry, research lab, academia로 진출합니다.  -->
+
+**Open Position:** We are looking for undergraduate research interns to join the INA lab (상시 채용). We have several interesting topics such as large-scale deep learning, neural volumetric streaming, and retrospective video analytics. You can find more information on [Career@INA](https://docs.google.com/document/d/1Kf4_kTZ_bdU0k7MvFSViwVwF8NWfb4YJW6zQkcCSXC4/edit?usp=sharing).
 
 
 &nbsp;
 &nbsp;
-## Our **Research**
+## **Research**
 
-#### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI & AI for Systems**
-- Accelerating training for large-scale deep neural networks
-- Accelerating DNA sequencing by learned index 
-- Optimizing microservice auto-scaling by graph neural networks
 
-#### _<i class="fa fa-photo-video mr-2"></i>_ **Internet Content Delivery**
-- Improving video streaming quality by neural super-resolution
-- Accelerating neural super-resolution to enable it on large-scale systems
-- Jointly optimizing image codecs and super-resolution 
+INA has published 14 papers at top-tier systems conferences, which is **ranked 1st in Korea** (refer to [link](https://csrankings.org/#/index?comm&kr)).
 
-#### _<i class="fa fa-cloud mr-2"></i>_  **Networked Systems & Security**
-- Integrating trusted execution environment with conventional networked systems
-- Optimizing network resource and wireless spectral efficiency under 5G, 6G environments
-- Improving congestion control schemes for datacenter networking
+#### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI / AI for Systems**
+- Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe)]
+- Accelerating DNA sequencing by learned index [[Bioinformatics'22](/projects/bwa-meme)]
+- Optimizing microservice auto-scaling by graph neural networks [[CoNEXT'21](/projects/graf)]
+
+#### _<i class="fa fa-photo-video mr-2"></i>_ **AI-augmented Media Delivery**
+<!-- - Improving video streaming quality by neural super-resolution -->
+- Incorporating neural enhancement with adaptive video streaming [[OSDI'18](/projects/nas), [SIGCOMM'20](/projects/livenas)]
+- Accelerating neural enhancement at scale [[MobiCom'20](/projects/nemo/), [SIGCOMM'22](/projects/neuroscaler)]
+- Optimizing traditional image codecs for neural enhancement 
+
+#### _<i class="fa fa-cloud mr-2"></i>_  **Networked Systems (Data center, 5G) / Systems Security**
+- Integrating trusted execution environment with conventional networked systems [[NSDI'17,ToN'20,ToN'22](/projects/sgx)]
+- Optimizing network resource and wireless spectral efficiency under 5G, 6G environments [[CoNEXT'22](/projects/outran)]
+- Improving congestion control schemes for datacenter networking [[SIGCOMM'17](/projects/expresspass), [EuroSys'21](/projects/tlt)]
 
 &nbsp;
 &nbsp;

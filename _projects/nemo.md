@@ -3,7 +3,7 @@ layout: page
 title: NEMO
 description: Run real-time video super-resolution on commercial smartphones
 img: /assets/img/project/nemo/nemo.png
-importance: 9999
+importance: 9998
 category: Internet Content Delivery
 members: ['Hyunho', 'Youngmok', 'Juncheol', 'Dongsu']
 ---

@@ -13,35 +13,14 @@
     homepage: /team/dongsuh
 
 "Ph.D. Students":
-  - name: ["Jeongmin", "Kim"]
-    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: My research interests include automatic program analysis, smart contract security (on-going work), IoT interoperability, and mobile computing.
-    email: appff@kaist.ac.kr
-    photo: /assets/img/profile/jeongmin-kim.jpg
-
-  - name: ["Juhyeng", "Han"]
-    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: "I’m a Ph.D. candidate in the School of Electrical Engineering at KAIST 
-    (Advisor: Dongsu Han). My research interests are network systems and cloud security. 
-    Especially, I’m passionate about designing secure and practical software by combining
-     hardware-based security technologies."
-    email: sparkly9399@gmail.com
-    photo: /assets/img/profile/juhyeng-han.jpg
-    homepage: https://juhyenghan.github.io
-    linkedin: https://linkedin.com/in/juhyeng-han
-
   - name: ["Hyunho", "Yeo"]
-    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: "I am a fifth-year Ph.D. student in Electrical Engineering at KAIST
-     advised by Professor Dongsu Han. I received B.S. in Electrical Engineering from KAIST.
-     My research interests are incorporating deep learning (DL) techniques with
-     computing and networking systems to drastically improve performance. 
-     Recently, I have focused on 1) leveraging neural quality enhancement to make
-     video systems more efficient and 2) accelerating neural enhancement to enable 
-     it on large-scale, distributed applications."
-    email: chaos5958@gmail.com
+    subtitle: "Ph.D. Candidate (Final year), School of Electrical Engineering"
+    introduction: "I've worked on AI/ML and video systems for over six years, publishing papers at top-tier system conferences such as OSDI, SIGCOMM, and MobiCom. I learned skills to build large-scale ML systems and utilize several ML frameworks (e.g., PyTorch, Tensorflow, TensorRT). I also have a vast repository of in-depth knowledge about video codec internals and video streaming algorithms/systems."
+    email: hyunho.yeo@kaist.ac.kr
     photo: /assets/img/profile/hyunho-yeo.jpg
     homepage: https://hyunhoyeo.com
+    scholar: https://scholar.google.com/citations?user=xi1Zy7MAAAAJ&hl=ko
+    linkedin: https://www.linkedin.com/in/hyunho-yeo/
 
   - name: ["Hwijoon", "Lim"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
@@ -97,16 +76,16 @@
     photo: /assets/img/profile/juncheol-ye.jpg
     email: juncheolye@gmail.com
 
-"M.S. Students":
   - name: ["Yunheon", "Lee"]
-    subtitle: "Master Student, School of Electrical Engineering"
+    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
     introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han.
     I received B.A in Electrical Engineering at KAIST, Republic of Korea.
     Recently, I am interested in AI optimized cellular network systems that support 
     computation-intensive AI applications on mobile devices."
     email: yhlee37@kaist.ac.kr
     photo: /assets/img/profile/yunheon-lee.jpg
-    
+
+"M.S. Students":
   - name: ["Yechan", "Kim"]
     subtitle: "Master Student, Graduate School of AI"
     email: yechankim@kaist.ac.kr
@@ -132,7 +111,31 @@
     Next-generation sequencing."
     photo: /assets/img/profile/jaehyeong-park.jpg
 
+  - name: ["Jinyeong", "Lim"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    email: wlswlszkem@kaist.ac.kr
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han.
+    I am studying neural video codec for machine learning tasks. 
+    My research interests are video analytics and storage system for machine learning tasks." 
+    photo: /assets/img/profile/jinyeong-Lim.jpg
+
 "Alumni":
+  - name: ["Jeongmin", "Kim"]
+    subtitle: "(Ph.D., 23)"
+    introduction: My research interests include automatic program analysis, smart contract security (on-going work), IoT interoperability, and mobile computing.
+    email: appff@kaist.ac.kr
+    photo: /assets/img/profile/jeongmin-kim.jpg
+
+  - name: ["Juhyeng", "Han"]
+    subtitle: "(Ph.D., 22) Software engineer at SAP Labs Korea"
+    introduction: "I’m a Ph.D. candidate in the School of Electrical Engineering at KAIST 
+    (Advisor: Dongsu Han). My research interests are network systems and cloud security. 
+    Especially, I’m passionate about designing secure and practical software by combining
+     hardware-based security technologies."
+    email: sparkly9399@gmail.com
+    photo: /assets/img/profile/juhyeng-han.jpg
+    linkedin: https://linkedin.com/in/juhyeng-han
+    
   - name: ["Joonhyuk", "Lee"]
     subtitle: (M.S., 21)
     introduction: computer network, blockchain
@@ -146,7 +149,7 @@
 
   - name: ["Seongmin", "Kim"]
     subtitle: (Ph.D., 19) Assistant Professor at Sungshin Women’s University
-    photo: /assets/img/profile/seongmin-kim.jpg
+    photo: /assets/img/profile/seongmin-kim-2.jpg
     introduction: "I'm an Assistant Professor in Department of Convergence Security
      Engineering (CSE) at Sungshin Women's University. 
      I recieved a Ph.D. from the Graduate School of information Security at KAIST in 2019 
@@ -160,6 +163,7 @@
     subtitle: (M.S., 20) Ph.D. student at Max Planck Institute
     photo: /assets/img/profile/hejing-li.jpg
     introduction: Parallel Computing, Network Function Virtualization, High Performance Networked Systems
+    homepage: https://hajeongee.github.io/
 
   - name: ["Quang", "Nguyen", "Ngoc"]
     subtitle: (M.S., 19) Software engineer at CyberLogitec
@@ -167,7 +171,7 @@
     introduction: Applied Machine Learning, Deep Learning, Computer Network
 
   - name: ["Daeyang", "Cho"]
-    subtitle: (M.S., 20) Software engineer at Stealth startup
+    subtitle: (M.S., 20) Software engineer at KLleon
     photo: /assets/img/profile/daeyang-cho.jpg
     introduction: High-performance networked systems, Security issue of cloud-based applicatoins, Intel SGX, Oblivious RAM
     
