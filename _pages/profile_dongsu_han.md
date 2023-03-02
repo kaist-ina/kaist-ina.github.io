@@ -68,6 +68,8 @@ I am a professor at **KAIST** (School of Electrical Engineering and Graduate Sch
 See [publications](/publications).
 
 ### Program Committee
+- 2024: NSDI
+- 2023: NSDI, APNet, CoNEXT PC
 - 2022: SIGCOMM, NSDI, APNet, CoNEXT PC
 - 2021: HotNets, ICNP, APNet
 - 2020: USENIX ATC, ACM SIGCOMM, USENIX NSDI, ACM CoNEXT PC co-chair
