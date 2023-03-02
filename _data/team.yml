@@ -1,10 +1,9 @@
 "Principal Investigator":
   - name: ["Dongsu", "Han"]
     subtitle: "Associate Professor"
-    introduction: I am an associate professor at KAIST (Department of Electrical Engineering and
-      Graduate School of Information Security). I received a Ph.D. from the Computer Science Department
-      at Carnegie Mellon University in 2012. My research interests include networked systems design,
-      distributed systems, Internet architectures, and mobile computing. Students interested in
+    introduction: I am a professor at KAIST (Department of Electrical Engineering and
+      Graduate School of Artificial Intelligence). I received a Ph.D. from the Computer Science Department
+      at Carnegie Mellon University in 2012. My research interests include networked/cloud systems design, AI for systems, and systems for AI. Students interested in
       research are welcome to contact me at dongsu.han@gmail.com.
     location: KAIST N1 814 (Daehak-ro 291, Yuseong-Gu, Daejeon, Republic of Korea 34141)
     email: dongsu.han@gmail.com
