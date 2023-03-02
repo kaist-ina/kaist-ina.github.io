@@ -4,7 +4,7 @@ permalink: /team/dongsuh
 first_name: Dongsu
 last_name: Han
 title: Dongsu Han
-subtitle: 한동수 KAIST 전기및전자공학부 부교수
+subtitle: 한동수 KAIST 전기및전자공학부 교수
 redirect_from: /~dongsuh/
 profile: 
   image: profile/dongsu-han.jpg
@@ -23,7 +23,7 @@ profile:
 
 
 
-I am an associate professor at **KAIST** (Department of Electrical Engineering and Graduate School of Information Security). I received a Ph.D. from the Computer Science Department at Carnegie Mellon University in 2012. My research interests include networked systems design, distributed systems, Internet architectures, and mobile computing. Students interested in research are welcome to contact me at <dongsu.han@gmail.com>.
+I am a professor at **KAIST** (School of Electrical Engineering and Graduate School of Artificial Intelligence). I received a Ph.D. from the Computer Science Department at Carnegie Mellon University in 2012. My research interests include networked/cloud systems design, AI for systems, and systems for AI. Students interested in research are welcome to contact me at <dongsu.han@gmail.com>.
 
 ### Research Projects
 ##### Cloud systems and Big Data
