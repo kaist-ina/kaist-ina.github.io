@@ -14,7 +14,7 @@
 "Ph.D. Students":
   - name: ["Hyunho", "Yeo"]
     subtitle: "Ph.D. Candidate (Final year), School of Electrical Engineering"
-    introduction: "I've worked on AI/ML and video systems for over six years, publishing papers at top-tier system conferences such as OSDI, SIGCOMM, and MobiCom. I learned skills to build large-scale ML systems and utilize several ML frameworks (e.g., PyTorch, Tensorflow, TensorRT). I also have a vast repository of in-depth knowledge about video codec internals and video streaming algorithms/systems."
+    introduction: "I am a final-year Ph.D. student in Electrical Engineering at KAIST, advised by Professor Dongsu Han. During my PhD, I have worked on ML systems and published papers at top-tier system conferences such as OSDI, SIGCOMM, and MobiCom. Through my research, I have honed my skills in designing large-scale ML systems, optimizing the cost of expensive ML models, and utilizing various ML frameworks such as PyTorch, TensorFlow, and TensorRT to implement end-to-end systems. Before that, I obtained a BS degree in Electrical Engineering from KAIST in South Korea."
     email: hyunho.yeo@kaist.ac.kr
     photo: /assets/img/profile/hyunho-yeo.jpg
     homepage: https://hyunhoyeo.com
