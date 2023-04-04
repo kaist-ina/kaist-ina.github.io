@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /why
+permalink: /alumni
 title: Alumni
 description: # 
 nav: false

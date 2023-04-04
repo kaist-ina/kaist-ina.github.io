@@ -85,11 +85,11 @@
                 </a>
               </li> -->
 
-                <li class="nav-item">
+                <li class="nav-item {% if page.url == '/career-ina' %}active{% endif %}">
                   <a class="nav-link" href="/career-ina">Career </a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/why">Alumni </a>
+              <li class="nav-item {% if page.url == '/alumni' %}active{% endif %}">
+                <a class="nav-link" href="/alumni">Alumni </a>
             </li>
               {%- if site.enable_darkmode %}
 
