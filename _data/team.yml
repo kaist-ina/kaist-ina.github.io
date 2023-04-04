@@ -120,7 +120,7 @@
 
 "Alumni":
   - name: ["Jeongmin", "Kim"]
-    subtitle: "(Ph.D., 23)"
+    subtitle: "(Ph.D., 23) Network Group Manager in PiLab"
     introduction: My research interests include automatic program analysis, smart contract security (on-going work), IoT interoperability, and mobile computing.
     email: appff@kaist.ac.kr
     photo: /assets/img/profile/jeongmin-kim.jpg
