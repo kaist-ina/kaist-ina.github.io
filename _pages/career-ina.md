@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /why
-title: Alumni
+permalink: /career-ina
+title: Career
 description: # 
 nav: false
 ---
@@ -17,25 +17,63 @@ nav: false
     }
 
     .cover-img {
-        object-fit: cover;
-        object-position: 50% 0%;
+        /* object-fit: cover; */
+        /* object-position: 50% 0%; */
         width: 100%;
-        height: 300px;
+        /* height: 300px;
         margin-left: auto;
-        margin-right: auto;
+        margin-right: auto;*/
         display: block;
     }
 </style>
 
+### <span class="font-weight-bold"> Undergraduates (Individual Study, URP)
+
+The INA lab is currently seeking undergraduate research interns (상시 채용). If you are interested in conducting research on any of the topics below, please send us your resume and transcript to ina.interview@gmail.com.
+
+##### <span class="font-weight-bold">1. Distributed Training at Scale (ML Systems)</span>
+
+
+Recently, the scale of AI models has been increasing to improve accuracy in tasks such as image and text processing, and the amount of input data has also been increasing rapidly. To train these large-scale models and datasets, distributed learning using multi-GPU and multi-node is essential, and research to improve the efficiency of distributed learning is also actively being conducted. In our laboratory, we have researched a framework called TSPipe, which enables efficient Knowledge Distillation model training using multiple GPUs through model parallelization. Based on this research experience, we plan to conduct research in this URP project to accelerate distributed learning by analyzing and resolving fundamental bottleneck points in distributed learning using multi-node.
+
+- Contact: [Hwijoon Lim](/team) (hwijoon.lim@kaist.ac.kr)
 
 <div class="cover-img-container">
-    <img src="/assets/img/nasa.jpg" class="cover-img rounded z-depth-1"/>
+    <img src="/assets/img/tspipe.png" class="cover-img"/>
+</div>
+
+##### <span class="font-weight-bold">2. 3D Volumetric Video Streaming (Video Systems)</span>
+
+Through this URP project, we are researching the live streaming process of 3D videos from real-time 3D capture to encoding and distribution to viewers over the internet. With the advent of the metaverse era, immersive content such as VR and AR and 3D volumetric videos are gaining attention. While video on demand streaming of 3D videos has been researched so far, live streaming is an unexplored area. Based on our LiveNAS research experience, which utilized deep learning to improve traditional 2D live video streaming, our laboratory aims to achieve efficient live streaming of 3D videos. We plan to convert the inefficient representation and transmission method of existing 3D data that does not meet the live streaming conditions into a lighter form and conduct research on real-time encoding and transmission.
+
+- Contact: [Jaehong Kim](/team) (jaehong950305@gmail.com)
+
+<div class="cover-img-container">
+    <img src="/assets/img/3d_streaming.png" class="cover-img"/>
 </div>
 
 
-### <span class="font-weight-bold">김성민</span> <b>교수</b> (2019년 졸업)
 
-<div class="profile float-right small">
+##### <span class="font-weight-bold">3. Cost-effective Retrospective Video Analytics (Video + ML System)</span>
+
+Retrospective video analytics refers to an application that sends a query such as "how many buses are in this video?" to a database-stored video and receives a response. With the recent development of deep learning, there has been an explosive increase in demand for retrospective video analytics (for example, in traffic/city planning, business/sports analytics, and healthcare), and many studies have been conducted to optimize it in terms of computing cost. In this research, we will study how to improve the efficiency of the system by optimizing the video encoding method and joint optimization between the ML pipeline and video encoding for retrospective video analytics. Through this research, we can learn about knowledge and recent trends related to retrospective video analytics, image classification, and video encoding, and have the opportunity to experience system research directly by developing large-scale systems.
+
+- Contact: [Hwijoon Lim](/team) (hwijoon.lim@kaist.ac.kr)
+
+
+<div class="cover-img-container">
+    <img src="/assets/img/boggart.png" class="cover-img"/>
+</div>
+
+
+<!-- <div class="cover-img-container">
+    <img src="/assets/img/nasa.jpg" class="cover-img rounded z-depth-1"/>
+</div> -->
+
+
+<!-- ### <span class="font-weight-bold">김성민</span> <b>교수</b> (2019년 졸업) -->
+
+<!-- <div class="profile float-right small">
     <img src="/assets/img/profile/seongmin-kim-2.jpg"/>
 </div>
 
@@ -88,5 +126,5 @@ INA랩에서 네트워크 시스템을 가장 로우 레벨부터 디자인해�
 
 ##### <span class="font-weight-bold">기타 하고 싶은 말</span>
 
-솔직히 말해서 박사과정이 결코 만만하거나 쉬운 길은 아닙니다 (이 점은 만국 공통 아닐까요?). 하지만 연구의 한 사이클을 완주해낼 때마다 엄청나게 성장해 있는 자신을 발견하게 됩니다. 그리고 박사과정 중에 만나는 교수님과 동료들 모두 각 분야의 최고 전문가이신데, 이분들과 대화하는 것만으로도 생각의 깊이가 달라지는 것을 느낍니다. 훌륭한 사람들과 함께 자신의 분야에서 전문가로 성장하고 싶은 분께 추천합니다.
+솔직히 말해서 박사과정이 결코 만만하거나 쉬운 길은 아닙니다 (이 점은 만국 공통 아닐까요?). 하지만 연구의 한 사이클을 완주해낼 때마다 엄청나게 성장해 있는 자신을 발견하게 됩니다. 그리고 박사과정 중에 만나는 교수님과 동료들 모두 각 분야의 최고 전문가이신데, 이분들과 대화하는 것만으로도 생각의 깊이가 달라지는 것을 느낍니다. 훌륭한 사람들과 함께 자신의 분야에서 전문가로 성장하고 싶은 분께 추천합니다. -->
 

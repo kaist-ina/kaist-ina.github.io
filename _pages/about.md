@@ -31,10 +31,10 @@ social: false  # includes social icons at the bottom of the page
 
 INA research group pursues innovative ideas in/for Internet services and applications, cloud infrastructure, and systems that support artificial intelligence. We identify and anticipate new problems that arise from the evolution of Internet-/Cloud-based services and the development of new hardware, provide novel solutions for challenging problems in the real-world, design and implement the solutions in a way that reaches out for real-world impact. INA research group is part of the [Computer Division](https://computer.kaist.ac.kr) of the [School of Electrical Engineering](https://ee.kaist.ac.kr). 
 
-INA research group provides a self-motivated atmosphere that allows for efficient research through flexible working hours. In the doctoral program, our research group provides the necessary training to become an independent researcher and become an expert in a particular field. There is also active exchange with foreign researchers, and Lab alumni have a strong network and receive many offers upon graduation, entering the industry, research lab, or academia.
+INA research group provides a self-motivated atmosphere that allows for efficient research through flexible working hours. In the doctoral program, our research group provides the necessary training to become an independent researcher and become an expert in a particular field. There is also active exchange with foreign researchers, and Lab alumni have a strong network and receive many offers upon graduation, entering the industry, research lab, or academia as illustrated in [Alumni@INA](/why).
 <!-- 자율 출퇴근이며 연구를 효율적으로 할 수 있도록 자율적인 분위기입니다. 박사과정에서는 독립적인 연구자로 성장하는 과정에 필요한 훈련을 제공하여 한 분야의 전문가가 되도록 합니다. 외국 연구자와도 공동연구 등 교류가 활발하여 랩 출신들이 좋은 네트워크를 가지고 여러 offer를 가지고 졸업하며 industry, research lab, academia로 진출합니다.  -->
 
-**Open Position:** We are looking for undergraduate research interns to join the INA lab (상시 채용). We have several interesting topics such as large-scale deep learning, neural volumetric streaming, and retrospective video analytics. You can find more information on [Career@INA](https://docs.google.com/document/d/1Kf4_kTZ_bdU0k7MvFSViwVwF8NWfb4YJW6zQkcCSXC4/edit?usp=sharing).
+**Open Position:** We are looking for undergraduate research interns to join the INA lab (상시 채용). We have several interesting topics such as large-scale deep learning, neural volumetric streaming, and retrospective video analytics. You can find more information on [Career@INA](/career-ina).
 
 
 &nbsp;
@@ -42,7 +42,8 @@ INA research group provides a self-motivated atmosphere that allows for efficien
 ## **Research**
 
 
-INA has published 14 papers at top-tier systems conferences, which is **ranked 1st in Korea** (refer to [link](https://csrankings.org/#/index?comm&kr)).
+INA has published 14 papers at top-tier systems conferences, **ranking 1st in Korea** (refer to [link](https://csrankings.org/#/index?comm&kr)).
+Currently, INA Lab is conducting research in three different directions, which are listed below. You can find a full list of projects and publications on [Project@INA](/projects) and [Publication@INA](/publications).
 
 #### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI / AI for Systems**
 - Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe)]
