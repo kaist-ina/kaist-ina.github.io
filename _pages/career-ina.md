@@ -27,9 +27,116 @@ nav: false
     }
 </style>
 
+
+<div class="mt-4 mb-5 pt-4 pl-4 pr-4 pb-2" style="background:var(--global-code-bg-color); position: relative; display: none" id="prof-word-ko">
+<div style="position: absolute; top: 1em; right: 1.5em;">
+<a href="javascript:switchTo('en')">🇺🇸</a>
+</div>
+<h5 class="font-weight-bold mt-2">교수 소개</h5>
+<p>저는 KAIST 출신이고 여러분들이 하는 개별 연구, 실험 수업 등등 다 경험을 해보았습니다. 
+수업과 개별 연구를 통해 지금까지 도움이 되는 많은 것들을 배운 경험이 있기 때문에 학생들에게 도움이 되는 
+환경과 기회를 만들어주고 싶습니다. 연구나 그 외의 일반적인 조언이 필요하다면 언제든지 이메일로 연락 주시기 바랍니다 :-) </p>
+
+
+<h5 class="font-weight-bold mt-4">당신의 Goal은 무엇입니까? </h5>
+<p style="text-indent: 0">개별연구, URP, 대학원 진학 하기전에 분명한 목표를 가지기 바랍니다.</p>
+
+
+<h5 class="font-weight-bold mt-4">석박사 과정</h5>
+<p>
+만약 KAIST 대학원 지원을 고민 중이거나 이미 지원한 경우, 연구 관심사에 대해 함께 의논해 볼 수 있으면 좋겠습니다.
+저는 학생들이 지도교수를 선택하기 전에 (저를 포함하여) 많은 교수님들과 대화하기를 추천합니다. 
+여러분이 가지고 있는 연구 관심사에 대해서 하고 싶은 이야기가 있다면 언제든지 이메일로 연락 주시기 바랍니다.
+</p>
+
+
+<h5 class="font-weight-bold mt-4">연구 소개</h5>
+<p>지금 진행하고 있는 여러가지 연구중에 URP 또는 개별 연구 학생이 할만한 주제를 뽑아봤습니다(하단 참조). 
+몇몇 주제들은 현재 국내외 대학원생들과 진행하고 있는 것이지만, 아직 대학원생들이 배정되지 않아서
+학부생들과 새로 시작해볼 수도 있는 주제도 있습니다. 상담 후 자신에 맞는 주제와 배우길 원하는 주제로 정하면 됩니다. 
+이 외에 항상 아이디어가 있기 때문에 더 많은 주제들도 있고, 학생들 스스로 하고 싶은 주제를 찾아오셔도 됩니다. </p>
+
+
+<h5 class="font-weight-bold mt-4">추천 과목</h5>
+<p>EE209 (프로그래밍 구조), CS230 (시스템 프로그래밍), EE205 (자료구조), EE323 (컴퓨터 네트워크), EE324 (네트워크 프로그래밍), EE415 (운영체제) 같은 강의를 들으면 도움이 됩니다. EE209를 먼저 수강해야 다른 강의를 들을 수 있지만, C 프로그래밍 기초가 있으면 EE209와 CS230을 동시에 수강할 수 있습니다. 이러한 강의를 2~3개 이수한 후 개별 연구 (또는 URP)를 하는 것을 추천합니다.</p>
+
+<h5 class="font-weight-bold mt-4">학부생 연구의 성공 기준</h5>
+<p> 개별 연구 및 URP의 성공 기준은 본인이 연구에 흥미를 느꼈느냐 못 느꼈느냐라고 생각합니다.
+따라서 성공/실패는 본인의 현재 능력과는 절대적인 상관 관계가 없고, 본인의 interest와 동기가 더 중요합니다. 
+하지만, 학부생들은 본인의 interest를 잘 모를 수 있기 때문에 (저도 그랬고), 그것을 찾아나가는데 도움을 주는 것 또한 
+개별연구의 목적입니다. 어떤 레벨에 있던지 본인에게 approachable한 task를 주는 것이 교육자의 역할이라고 생각합니다. 
+저희 실험실은 흥미로운 주제와 자신의 생각을 펼칠 수 있는 환경 그리고 교수와 선배들의 가이드를 제공해 줄 수 있고, 그럴 의무를 가지고 있습니다. 
+여러분이 이러한 권리를 잘 활용해서 학생으로서 최선을 다하시고  앞으로 나아가 연구자로서 어떤 skill이 필요한가를 배우시기 바랍니다. 
+</p>
+</div>
+
+
+<div class="mt-4 mb-4 pt-4 pl-4 pr-4 pb-2" style="background:var(--global-code-bg-color); position: relative; display: none" id="prof-word-en">
+<div style="position: absolute; top: 1em; right: 1.5em;">
+<a href="javascript:switchTo('ko')">🇰🇷</a>
+</div>
+<h5 class="font-weight-bold mt-2">Graduate-level (Prospective or Current)</h5>
+<p>I am actively looking for graduate-level students.
+If you want to apply to KAIST or have applied to KAIST, I can meet with you to talk about our research interests. 
+I encourage students to talk to many potential advisors (including me :-)) before they select one.
+If you want to talk to me for any reason regarding your research interest, please email me. If you are a KAIST student, I reply to all of your emails; 100% guaranteed.</p>
+
+<h5 class="font-weight-bold mt-2">International Students</h5>
+<p>If you are not already admitted to KAIST, I cannot do much for you. If you are truly exceptional, I may be able to make your application process smoother. But, most exceptional students do not need my help to get in to KAIST. You can still contact me if you are interested to seek more information. But, sorry; I may not be able to answer all your emails.</p>
+
+<h5 class="font-weight-bold mt-2">Undergraduates</h5>
+<p style="text-indent: 0; margin-bottom: 0">I like to work with undergraduate students in research and provide guidance:</p>
+<ul style="padding-inline-start: 30px">
+<li>If you are in EE, I encourage you to take EE209, EE205, EE311, EE323, EE324, and other computer science courses such as CS230 (system programming) for your own benefit. You must take EE209 first to take any other courses, but if you have done basic C programming, you can take EE209 and CS230 at the same time. AFAIK, CS230 is a very approachable course. I took it in my freshman year and got an A+. I encourage you to do Individual Research (개별연구) with me after taking at lest 2 or 3 of these courses.</li>
+<li>If you are in CS, I encourage you to do Individual Research (개별연구) with me. </li>
+</ul>
+
+<h5 class="font-weight-bold mt-2">Individual Research for Undergraduates (or URP)</h5>
+<p>I will do my best to provide resources for you to learn about research and make a meaningful progress/contribution in the area of our mutual interest. I spend quite a bit of time with students who are take Individual Research. My goal is to create a <i>fun</i> academic environment through 
+in-depth interactions with KAIST students.</p>
+
+<h5 class="font-weight-bold mt-2">Students Seeking General Advice</h5>
+<p style="text-indent: 0">Many students contact me for an advice. I like to provide general advice for students regardless of its nature. Please don't hesitate to contact me.</p>
+</div>
+
+<script>
+    function isKorean() {
+        return (window.navigator.userLanguage || window.navigator.language || '').startsWith('ko');
+    }
+    function switchTo(lang) {
+        if (lang === 'ko') {
+            window.document.getElementById('prof-word-ko').style.display = 'block';
+            window.document.getElementById('prof-word-en').style.display = 'none';
+        } else {
+            window.document.getElementById('prof-word-en').style.display = 'block';
+            window.document.getElementById('prof-word-ko').style.display = 'none';
+        }
+    }
+
+    if (isKorean()) {
+        switchTo('ko');
+    } else {
+        switchTo('en');
+    }
+</script>
+
+### <span class="font-weight-bold"> Graduate Students (Masters and Ph.D)
+
+INA research group is actively seeking highly motivated graduate students who are interested in pursuing research in the areas of Internet services and applications, cloud infrastructure, and systems that support artificial intelligence. Our research group has a strong track record of conducting cutting-edge research and has published numerous papers in top-tier conferences and journals. We encourage interested students to visit our [Projects](/projects) and [Publications](/publications) pages to learn more about our previous research.
+
+As a member of our research group, you will have access to a self-motivated and flexible working environment that promotes efficient research. We provide the necessary training and guidance to help our students become independent researchers and experts in their chosen fields. Additionally, our research group actively collaborates with foreign researchers, providing our students with exposure to diverse perspectives and networking opportunities. Upon graduation, our alumni have a strong network and receive numerous offers in academia, research labs, and the industry. You can find more information on [Career@INA](/career-ina).
+
+<p style="text-indent: 0">If you are interested, please send your CV/resume and transcript to <a href="mailto:yechankim0502@gmail.com">ina.interview@gmail.com</a> and <a href="mailto:dhan.ee@kaist.ac.kr">dhan.ee@kaist.ac.kr</a>.</p>
+
+- For students in Graduate School of AI, please contact to <a href="mailto:yechankim0502@gmail.com">yechankim0502@gmail.com</a> 
+  (Yechan Kim, GSAI Master Student).
+
+<div style="margin-bottom: 50px"></div>
+
 ### <span class="font-weight-bold"> Undergraduates (Individual Study, URP)
 
-The INA lab is currently seeking undergraduate research interns (상시 채용). If you are interested in conducting research on any of the topics below, please send us your resume and transcript to ina.interview@gmail.com.
+
+INA research group is currently seeking undergraduate research interns (상시 채용). If you are interested in conducting research on any of the topics below, please send us your resume and transcript to ina.interview@gmail.com.
 
 ##### <span class="font-weight-bold">1. Distributed Training at Scale (ML Systems)</span>
 
@@ -64,67 +171,4 @@ Retrospective video analytics refers to an application that sends a query such a
 <div class="cover-img-container">
     <img src="/assets/img/boggart.png" class="cover-img"/>
 </div>
-
-
-<!-- <div class="cover-img-container">
-    <img src="/assets/img/nasa.jpg" class="cover-img rounded z-depth-1"/>
-</div> -->
-
-
-<!-- ### <span class="font-weight-bold">김성민</span> <b>교수</b> (2019년 졸업) -->
-
-<!-- <div class="profile float-right small">
-    <img src="/assets/img/profile/seongmin-kim-2.jpg"/>
-</div>
-
-<div style="margin-bottom: 1em"></div>
-
-##### <span class="font-weight-bold">지금 어떤일을 하고 계신가요?</span>
-
-졸업 이후에는 삼성전자 선행연구소인 삼성리서치 Security team에서 system security 파트 업무를 담당했었습니다. 현재는 <span class="font-weight-bold">성신여자대학교 융합보안공학과</span>에 <span class="font-weight-bold">조교수</span>로 부임하여 학생들을 지도하고 있습니다. 박사 과정 동안에는 하드웨어 기반 신뢰 실행 환경과 클라우드 환경에서의 네트워크 시스템 보안성 강화에 관한 연구를 했었고, 지금도 해당 토픽과 관련된 연구들을 수행하고 있습니다.
-
-##### <span class="font-weight-bold">INA랩에서 경험했던 것이 어떠한 도움이 되고 있나요? </span>
-
-저는 현재도 연구를 수행하고 있기 때문에 더 크게 체감이 되지만, 네트워크/시스템 및 보안 분야 top conference에 논문을 발표하고 해당 분야 내에서 early stage에 있는 가장 trendy한 연구들을 수행했던 것이 가장 도움이 되었습니다. 컴퓨팅 분야 세계 최고 수준의 학술대회에 본인의 연구를 발표하고 국내외 우수한 연구진과 협업을 할 수 있는게 대학원 기간 동안 누구나 겪을 수 있는 경험은 아니라고 생각합니다. INA 랩에서는 다양한 분야의 top-tier conference에 꾸준히 논문을 발표하고 있고, 연구 지도를 받을 수 있었던게 커리어를 쌓는데 자양분이 되었습니다. 저는 미국 조지아 공대와 공동 연구를 수행할 수 있는 좋은 기회가 있었는데 논문을 준비하면서부터 발표로 마무리하는 과정까지 최고 수준의 학회에 발표되는 수준의 연구 프로세스 사이클을 한 번 경험해 본 것이 연구자로서 한 단계 업그레이드가 된 계기가 된 것 같습니다.  졸업하기 전에도 이런 경험을 바탕으로 많은 동기 부여를 가지고 있었고, 이런 경험이 졸업 이후에도 꾸준히 좋은 연구를 해나갈 수 있는 초석이 되지 않았나 생각됩니다.  개인적으로는 author가 아니더라도 높은 수준의 학회에 참석해서 경험을 해보는 것이 여러 모로 많은 도움이 되었다고 생각됩니다.
-
-##### <span class="font-weight-bold">박사과정 동안 랩에서 경제적 지원은 넉넉한 편이었나요?</span>
-
-랩에서 경제적인 지원은 넉넉했습니다. 박사과정 수학동안 프로젝트를 수행하면서 박사과정 인건비 상한에 근접한 인건비를 지원받았습니다. 해외 출장의 경우에도 학회 발표 뿐만 아니라 연구에 필요한 경우에 대해서 적극 지원하며, presenting author가 아님에도 제 연구와 관련된 학회 내 tutorial 프로그램에 참가까지도 지원받아 연구에 큰 도움이 되었던 기억이 있습니다. 또한 졸업 이후 6개월가량 짧게 포닥을 했었는데, 그 기간에도 경제적인 부분에 있어 부족함 없이 연구를 진행할 수 있도록 신경을 많이 써주셨습니다.
-
-##### <span class="font-weight-bold">INA랩을 졸업하면 어떠한 일을 할 수 있나요?</span>
-
-박사과정 졸업 시점을 기준으로 크게 봤을 때 시스템/네트워크/AI 분야라면 어느 곳이던 취업할 수 있는 역량을 갖추게 된다고 생각합니다. 본인이 희망하는 곳에서 다양한 업무를 할 수 있을 것이라 생각되는데요. 기업 내 개발 직군/연구원, 정부출연연구기관, 또는 대학교수 등 다양한 진로로 진출이 가능합니다 (실제 석사/박사 졸업생 현황도 그렇구요). 최근 연구실에서 network/system for AI, AI for system 등 인공 지능 관련하여 우수한 연구실적들을 후배들이 계속 만들고 있는 것으로 아는데요. 실제 기업이나 연구기관에서도 해당 분야의 전문가에 대한 수요가 굉장히 높은 것으로 알고 있기에 선택의 폭이 넓다고 개인적으로는 생각합니다.
-
-##### <span class="font-weight-bold">기타 하고 싶은 말</span>
-
-현재 저도 타 기관에서 연구를 수행하고 있지만, KAIST처럼 국내에서 컴퓨팅 분야에 세계적으로 선도하는 연구를 수행하는 교수님들 밑에서 지도를 받을 수 있는 기회는 흔치 않을 겁니다. INA 연구실은 이러한 우수 연구 성과를 도출하는데 적지 않은 기여하고 있으며, 교수님의 지도와 뛰어난 역량을 갖춘 연구실 구성원, 연구에 집중할 수 있는 환경 지원들이 그 원천이라고 생각합니다. 이렇게 잘 갖춰진 환경에서 본인의 열정과 노력을 잘 버무려낸다면, 졸업 시기가 다가왔을 때 한 분야의 전문가가 되어있는 스스로를 발견하게 될거라 생각합니다. 
-
-<div style="margin-bottom: 75px"></div>
-
-### <span class="font-weight-bold">한주형</span> <b>박사</b> (2022년 졸업)
-<div class="profile float-right small">
-    <img src="/assets/img/profile/juhyeng-han.jpg"/>
-</div>
-
-<div style="margin-bottom: 1em"></div>
-
-##### <span class="font-weight-bold">지금 어떤일을 하고 계신가요?</span>
-
-저는 2022년 하반기부터 <span class="font-weight-bold">SAP Labs Korea</span>에서 <span class="font-weight-bold">Senior Developer</span>로 입사하여 데이터베이스 코어 관련 개발 및 디자인 미팅에 참여하고 있습니다. 제 박사학위 전공을 살려서 security 관련 미팅도 참여하고 있으며, 클라우드 환경에서 scalability와 multi-tenancy를 지원하기 위해 데이터베이스에 필요한 기술들을 연구 개발하고 있습니다.
-
-##### <span class="font-weight-bold">INA랩에서 경험했던 것이 어떠한 도움이 되고 있나요?</span>
-
-INA랩에서 네트워크 시스템을 가장 로우 레벨부터 디자인해보고 실제로 구현해 볼 수 있었던 것이 큰 도움이 되고 있습니다. 특히 저는 scalability와 security를 모두 제공하는 시스템에 대한 연구를 했었는데, 그 과정에서 research skill뿐만 아니라 secure design/implementation, concurrent/parallel programming, encryption protocols 등 광범위한 지식을 습득할 수 있었던 것이 실무에서 아주 유용하게 활용되고 있습니다. 이 밖에도 대학원 생활 동안 새로운 기술에 대해 효율적으로 습득하는 방법을 익혔고, 다른 researcher/engineer 들과 기술적 언어로 토론해보고 미팅을 통해서 디자인을 개선해본 경험이 지금도 많은 도움이 됩니다.
-
-##### <span class="font-weight-bold">박사과정 동안 랩에서 경제적 지원은 넉넉한 편이었나요?</span>
-
-네, 저는 석사 때부터 인건비에 대한 불만은 한 번도 없었습니다. 또한 박사과정 때는 3년간 글로벌 박사 장학금을 받아서 더욱 경제적으로 어려운 점은 없었습니다. 그리고 연구를 위한 여러 서버 장비도 잘 갖추어져 있었기 때문에 최신 기술을 활용한 다양한 연구를 마음껏 해볼 수 있었습니다.
-
-##### <span class="font-weight-bold">INA랩을 졸업하면 어떠한 일을 할 수 있나요?</span>
-
-컴퓨터 사이언스에 대한 전문지식을 활용할 수 있는 모든 일을 해볼 수 있다고 생각합니다. INA랩에서는 무엇보다 시스템에 대한 근본적인 디자인 철학을 배울 수 있습니다. 이 덕분에 튼튼한 전공 기초 체력을 다질 수 있고, 기술이나 개발 스택이 바뀌어도 변하지 않는 핵심 knowledge를 배울 수 있습니다. 여기에 플러스로 자신의 전공 분야에 대한 강점을 살려서 자신이 원하는 연구/개발 쪽 어디든 진출할 수 있다고 생각합니다.
-
-##### <span class="font-weight-bold">기타 하고 싶은 말</span>
-
-솔직히 말해서 박사과정이 결코 만만하거나 쉬운 길은 아닙니다 (이 점은 만국 공통 아닐까요?). 하지만 연구의 한 사이클을 완주해낼 때마다 엄청나게 성장해 있는 자신을 발견하게 됩니다. 그리고 박사과정 중에 만나는 교수님과 동료들 모두 각 분야의 최고 전문가이신데, 이분들과 대화하는 것만으로도 생각의 깊이가 달라지는 것을 느낍니다. 훌륭한 사람들과 함께 자신의 분야에서 전문가로 성장하고 싶은 분께 추천합니다. -->
 
