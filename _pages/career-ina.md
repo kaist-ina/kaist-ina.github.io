@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /career-ina
-title: Career
+permalink: /join-us
+title: Join Us
 description: # 
 nav: false
 ---
@@ -124,7 +124,7 @@ in-depth interactions with KAIST students.</p>
 
 INA research group is actively seeking highly motivated graduate students who are interested in pursuing research in the areas of Internet services and applications, cloud infrastructure, and systems that support artificial intelligence. Our research group has a strong track record of conducting cutting-edge research and has published numerous papers in top-tier conferences and journals. We encourage interested students to visit our [Projects](/projects) and [Publications](/publications) pages to learn more about our previous research.
 
-As a member of our research group, you will have access to a self-motivated and flexible working environment that promotes efficient research. We provide the necessary training and guidance to help our students become independent researchers and experts in their chosen fields. Additionally, our research group actively collaborates with foreign researchers, providing our students with exposure to diverse perspectives and networking opportunities. Upon graduation, our alumni have a strong network and receive numerous offers in academia, research labs, and the industry. You can find more information on [Career@INA](/career-ina).
+As a member of our research group, you will have access to a self-motivated and flexible working environment that promotes efficient research. We provide the necessary training and guidance to help our students become independent researchers and experts in their chosen fields. Additionally, our research group actively collaborates with foreign researchers, providing our students with exposure to diverse perspectives and networking opportunities. Upon graduation, our alumni have a strong network and receive numerous offers in academia, research labs, and the industry. You can find more information on [Join Us](/join-us) page.
 
 <p style="text-indent: 0">If you are interested, please send your CV/resume and transcript to <a href="mailto:yechankim0502@gmail.com">ina.interview@gmail.com</a> and <a href="mailto:dhan.ee@kaist.ac.kr">dhan.ee@kaist.ac.kr</a>.</p>
 
