@@ -29,7 +29,8 @@ nav: false
 
 
 <div class="mt-4 mb-5 pt-4 pl-4 pr-4 pb-2" style="background:var(--global-code-bg-color); position: relative; display: none" id="prof-word-ko">
-<div style="position: absolute; top: 1em; right: 1.5em;">
+<div style="position: absolute; top: 1.5em; right: 1.5em;">
+<a href="javascript:switchTo('ko')" style="opacity: 50%">🇰🇷</a>&nbsp;
 <a href="javascript:switchTo('en')">🇺🇸</a>
 </div>
 <h5 class="font-weight-bold mt-2">교수 소개</h5>
@@ -72,8 +73,9 @@ nav: false
 
 
 <div class="mt-4 mb-4 pt-4 pl-4 pr-4 pb-2" style="background:var(--global-code-bg-color); position: relative; display: none" id="prof-word-en">
-<div style="position: absolute; top: 1em; right: 1.5em;">
-<a href="javascript:switchTo('ko')">🇰🇷</a>
+<div style="position: absolute; top: 1.5em; right: 1.5em;">
+<a href="javascript:switchTo('ko')">🇰🇷</a>&nbsp;
+<a href="javascript:switchTo('en')" style="opacity: 50%">🇺🇸</a>
 </div>
 <h5 class="font-weight-bold mt-2">Graduate-level (Prospective or Current)</h5>
 <p>I am actively looking for graduate-level students.
