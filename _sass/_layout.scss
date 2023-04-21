@@ -218,6 +218,12 @@ body.sticky-bottom-footer {
   object-position: 100% 20%;
 }
 
+@media (max-width: 670px) {
+  .main-image-1 {
+    height: auto;
+  }
+}
+
 .cursor-pointer {
   cursor: pointer;
   * {
