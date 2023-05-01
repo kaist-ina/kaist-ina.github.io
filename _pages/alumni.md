@@ -94,7 +94,7 @@ INA랩에서 네트워크 시스템을 가장 로우 레벨부터 디자인해�
 
 ### <span class="font-weight-bold">여현호</span> <b>박사</b> (2023년 졸업)
 <div class="profile float-right small">
-    <img src="/assets/img/profile/hyunho-yeo.jpg"/ width="40%" height="40%">
+    <img src="/assets/img/profile/hyunho-yeo.jpg" width="40%" height="40%">
 </div>
 
 <div style="margin-bottom: 1em"></div>
