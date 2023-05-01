@@ -6,16 +6,6 @@ description: #
 nav: false
 ---
 <style>
-    article {
-        font-family: "Noto Sans KR", sans-serif;
-        word-break: keep-all;
-        font-weight: 300;
-    }
-
-    strong {
-        font-weight: 700;
-    }
-
     p {
         text-indent: 0.5em;
         line-height: 1.6em;
@@ -53,7 +43,7 @@ nav: false
 
 ##### <span class="font-weight-bold">지금 어떤일을 하고 계신가요?</span>
 
-졸업 이후에는 삼성전자 선행연구소인 삼성리서치 Security team에서 system security 파트 업무를 담당했었습니다. 현재는 **성신여자대학교 융합보안공학과**에 **조교수**로 부임하여 학생들을 지도하고 있습니다. 박사 과정 동안에는 하드웨어 기반 신뢰 실행 환경과 클라우드 환경에서의 네트워크 시스템 보안성 강화에 관한 연구를 했었고, 지금도 해당 토픽과 관련된 연구들을 수행하고 있습니다.
+졸업 이후에는 삼성전자 선행연구소인 삼성리서치 Security team에서 system security 파트 업무를 담당했었습니다. 현재는 <span class="font-weight-bold">성신여자대학교 융합보안공학과</span>에 <span class="font-weight-bold">조교수</span>로 부임하여 학생들을 지도하고 있습니다. 박사 과정 동안에는 하드웨어 기반 신뢰 실행 환경과 클라우드 환경에서의 네트워크 시스템 보안성 강화에 관한 연구를 했었고, 지금도 해당 토픽과 관련된 연구들을 수행하고 있습니다.
 
 ##### <span class="font-weight-bold">INA랩에서 경험했던 것이 어떠한 도움이 되고 있나요? </span>
 
@@ -82,7 +72,7 @@ nav: false
 
 ##### <span class="font-weight-bold">지금 어떤일을 하고 계신가요?</span>
 
-저는 2022년 하반기부터 **SAP Labs Korea**에서 **Senior Developer**로 입사하여 데이터베이스 코어 관련 개발 및 디자인 미팅에 참여하고 있습니다. 제 박사학위 전공을 살려서 security 관련 미팅도 참여하고 있으며, 클라우드 환경에서 scalability와 multi-tenancy를 지원하기 위해 데이터베이스에 필요한 기술들을 연구 개발하고 있습니다.
+저는 2022년 하반기부터 <span class="font-weight-bold">SAP Labs Korea</span>에서 <span class="font-weight-bold">Senior Developer</span>로 입사하여 데이터베이스 코어 관련 개발 및 디자인 미팅에 참여하고 있습니다. 제 박사학위 전공을 살려서 security 관련 미팅도 참여하고 있으며, 클라우드 환경에서 scalability와 multi-tenancy를 지원하기 위해 데이터베이스에 필요한 기술들을 연구 개발하고 있습니다.
 
 ##### <span class="font-weight-bold">INA랩에서 경험했던 것이 어떠한 도움이 되고 있나요?</span>
 
@@ -111,23 +101,23 @@ INA랩에서 네트워크 시스템을 가장 로우 레벨부터 디자인해�
 
 ##### <span class="font-weight-bold">앞으로 어떤 일을 하실 계획인가요?</span>
 
-저는 2023년 6월부터 **Moloco** 내에 **ML Infrastructure** 팀에 **Machine Learning Engineer**로 합류할 예정이며 추후 **Silicon Valley**에서 근무할 예정입니다 . Moloco는  ML을 통해 새로운 비즈니스를 개척하는 과정에 있으며 현재는 ML 기반 광고 시장을 주로 타겟하고 있습니다. 또한 Moloco는 미국 내에서 가장 빠르게 성장하는 스타트업 중 하나이며  (최근 3년간 4,445% 성장),  빅테크 핵심 인재들과  탑스쿨 박사들이 많이 합류하고 있어 높은 인재 밀도를 가지고 있습니다. 저는 Moloco에서 회사의 핵심 인프라인 ML serving systems을 새로 설계하고 개발하는 것을 리드할 예정입니다.
+저는 2023년 6월부터 <span class="font-weight-bold">Moloco</span> 내에 <span class="font-weight-bold">ML Infrastructure</span> 팀에 <span class="font-weight-bold">Machine Learning Engineer</span>로 합류할 예정이며 추후 <span class="font-weight-bold">Silicon Valley</span>에서 근무할 예정입니다. Moloco는  ML을 통해 새로운 비즈니스를 개척하는 과정에 있으며 현재는 ML 기반 광고 시장을 주로 타겟하고 있습니다. 또한 Moloco는 미국 내에서 가장 빠르게 성장하는 스타트업 중 하나이며 빅테크 핵심 인재들과  탑스쿨 박사들이 많이 합류하고 있어 높은 인재 밀도를 가지고 있습니다. 저는 Moloco에서 회사의 핵심 인프라인 ML serving systems을 새로 설계하고 개발하는 것을 리드할 예정입니다.
 
 ##### <span class="font-weight-bold">INA랩에서 경험했던 것이 어떠한 도움이 되나요?</span>
 
-**해외로 꿈을 펼쳐나갈 기회가 열립니다.** INA에서는 모든 박사과정 학생들이 각자 전문 분야를 발굴하여 top-tier system conference 논문을 2~3편 이상 가지고 졸업하는 것을 지향합니다. 이는 미국 탑스쿨과 비교해서도 뛰어난 박사 실적에 해당하기에 여러분이 추후에 해외 학교 및 기업에 도전할 때 충분히 인정받을 수 있습니다. 또한, 저는 해외 취업을 준비했었는데 박사 과정을 하면서 배운 다방면의 역량이 회사 면접에 큰 도움이 되었습니다. 덕분에 대부분 면접을 굉장히 우수한 성적으로 통과해 회사에서 좋은 처우를 받을 수 있었습니다. 즉  INA에서는 해외로 도전할 수 있는 역량을 기르고 기회를 창출할 수 있는 곳이기에, 여러분이 박사 졸업 이후에 해외로 더 큰 꿈을 펼쳐나가고 싶다면 최적의 연구실이라고 생각합니다.
+<span class="font-weight-bold">첫 번째로 저는 INA 연구실에서의 경험을 통해 해외로 더 큰 꿈을 펼쳐나갈 수 있게 되었습니다.</span> INA 연구실에서는 모든 박사과정 학생들이 각자 전문 분야를 찾아서 top-tier 논문을 2~3편 이상 제출하고 졸업하는 것을 지향합니다. 이는 미국 탑스쿨과 비교해도 뛰어난 연구 실적에 해당하기에 해외 학교 및 기업에 도전할 때 박사과정을 하면서 쌓은 역량과 실적을 충분히 인정받을 수 있습니다. 예를 들어, 저는 미국 기업 취업을 준비했었는데 박사 과정을 하면서 쌓은 computer systems 관련 연구 경험이 코딩 인터뷰 및 시스템 디자인 인터뷰에 큰 도움이 되었습니다. 덕분에 대부분 면접을 굉장히 우수한 성적으로 통과해 회사에서 좋은 처우를 받을 수 있었습니다. 이뿐 아니라 뛰어난 연구 실적과 시스템 설계 역량을 인정받아 회사 내에서 핵심 인프라 팀으로 배치되어 재밌고 영향력이 큰 일을 할 수 있게 되었습니다.
 
-**세계적인 연구자/엔지니어로 성장할 수 있는 역량을 기를 수 있습니다.** INA에서 박사과정을 하면 여러분의 career에 평생 도움이 되는 life skills을 배울 수 있습니다. 이는 critical thinking problem identification, system design & implementation 등의 engineering skill 뿐 아니라, communication, presentation, writing, leadership 등과 같은 soft skill 또한 포함합니다. 이러한 life skills은 여러분이 어떤 분야를 하게 되든 어떤 직업을 가지든 여러분의 career에서 성공을 이루는데 가장 중요한 밑거름이 될 것으로 생각합니다. 저도 박사과정 때와 다른 새로운 분야와 새로운 직무에 도전하지만, 박사과정 때 배운 다방면의 역량이 있기에 앞으로 잘할 수 있을 것이라는 자신감이 생기는 것 같습니다. 특히  교수님께서 개별 학생의 성장에 큰 관심을 보이고 지도에 신경을 많이 써주시기에, 여러분의 career에서 큰 성장을 이뤄나가고 싶다면 INA가 여러분에게 좋은 연구실이 될 수 있다고 생각합니다. 
+<span class="font-weight-bold">두 번째로 저는 INA 연구실에서의 경험을 통해 국제적인 연구자/엔지니어로 성장할 수 있는 역량을 기를 수 있었습니다.</span> 저는 박사과정을 하면서  career에 평생 도움이 되는 두 종류의 life skills을 배웠습니다. 우선 연구를 발전시켜 나가고 시스템을 설계하고 구현하면서 critical thinking problem identification, system design & implementation 등의 engineering skills을 쌓았고, 지도 교수 및 연구실 구성원분들과 협력하고 논문을 쓰고 학회에서 발표하면서 communication, presentation, writing, leadership 등과 같은 soft skills도 기를 수 있었습니다. 이렇게 성공적인 career를 만들어 나가는데 중요한 밑거름을 만들어 놨기에, 졸업 후에 박사과정 때와 다른 새로운 분야와 새로운 직무에 도전해도 앞으로 잘할 수 있을 것이라는 자신감이 생기는 것 같습니다 :) 그래서 INA 연구실에서 6년 동안의 경험은 충분한 가치를 지니고 있고 정말 잘 했다고 생각합니다. 
 
 ##### <span class="font-weight-bold">박사과정 동안 랩에서 경제적 지원은 넉넉한 편이었나요?</span>
 
-교수님께서 항상 **학생들의 인건비를 우선시**하여 많이 챙겨주는 편이라 박사 과정 동안 불편함 없이 생활할 수 있었습니다. 많은 연구실 학생들이 뛰어난 연구실적으로 Scholarship, Travel grant, Prize 등을 받아 더 나은 경제적 혜택도 누리고 있습니다. 또한, 교수님께서 인건비 이외에 **연구에 필요한 장비도 적극 지원**해주어 박사과정 동안 연구하는데 어려움이 없었습니다. 현재 INA 연구실은 전자과에서 가장 우수한 수준의 서버(CPU/GPU)를 구축하고 있으며 더 큰 규모의 실험이 필요로 할 시 Microsoft Azure, Amazon AWS, Google cloud도 지원하고 있습니다.
+교수님께서 항상 <span class="font-weight-bold">학생들의 인건비를 우선시</span>하여 많이 챙겨주는 편이라 박사 과정 동안 불편함 없이 생활할 수 있었습니다. 또한 많은 연구실 학생들이 뛰어난 연구실적으로 Scholarship, Travel grant, Prize 등을 받아 더 나은 경제적 혜택을 누리고 있습니다. 이외에 교수님께서 <span class="font-weight-bold">연구에 필요한 장비도 적극 지원</span>해주어 박사과정 동안 연구하는데 어려움이 없었습니다. 현재 INA 연구실은 전자과에서 가장 우수한 수준의 서버(CPU/GPU)를 구축하고 있으며 더 큰 규모의 실험이 필요로 할 시 Microsoft Azure, Google cloud 등의 클라우드 서비스도 지원하고 있습니다.
 
 ##### <span class="font-weight-bold">INA랩을 졸업하면 어떠한 일을 할 수 있나요?</span> 
 
-INA 랩에서 하는 computer system 연구는 computer science 내에서 가장 실용적인 학문에 속한다고 볼 수 있습니다. 그래서 여러분이 졸업할 때 연구원, 교수, 엔지니어 등 다양한 진로 선택지 중에 선택할 수 있는 게 큰 장점이라고 생각됩니다. 또한, 위에서 언급한 바와 같이 국제적으로 인정받을 수 있는 실력과 역량을 기를 수 있기에 국내 뿐 아니라 해외 유수 기업 및 학교에도 도전해볼 수 있습니다. 여러분이 어떠한 일을 하고 싶고 어떠한 꿈을 꾸고 있어도 INA 내에서 박사 과정을 성공적으로 수행하면 다 해낼 수 있을 것이라 자신합니다.
+INA 연구실에서 하는 computer system 연구는 computer science 내에서 가장 실용적인 학문에 속합니다. 여러분이 알고 계신 Tensorflow, MapReduce, Spark 등 엄청난 파급력을 불러일으킨 연구들이 대표적인 system 연구라고 볼 수 있습니다. 그래서 여러분이 졸업할 때 연구원, 교수, 엔지니어 등 다양한 진로를 선택할 수 있습니다. 또한, 위에서 언급한 바와 같이 국제적으로 인정받을 수 있는 실력과 역량을 기를 수 있기에 국내 뿐 아니라 해외 유수 기업 및 학교에도 도전해볼 수 있습니다. 따라서 INA 연구실 내에서 박사 과정을 잘 마무리하면 여러분이 어떠한 꿈을  꾸고 있든 그것을 실현할 수 있을 것이라 자신합니다.
 
 ##### <span class="font-weight-bold">기타 하고 싶은 말</span>
 
-INA에 와서 여러분이 하고 싶은 일에 도전하면서 여러분의 꿈에 한발 더 나아가보세요. INA에 와서 뛰어난 교수님, 졸업생, 연구실 선배님들과 새로운 connections을 만들어나가면 여러분의 career에 큰 도움이 될 것입니다. 6~7년간의 박사 과정 속에 많은 어려움이 있겠지만, 어느새 여러분이 크게 성장했다는 것을 느낄 수 있고 많은 기회가 앞으로 생길 것입니다.
+INA 연구실에 와서 하고 싶은 일에 도전하면서 각자의 꿈에 한발짝 더 나아가보세요. 본인의 career를 크게 발전 시키는데 최적의 경험을 쌓을 수 있을 것이라 자부하고, 교수님/구성원들/졸업생들이 여러분의 성장을 위해 언제든 도와줄 준비가 되어있습니다.  6년간의 박사 과정 속에 많은 어려움이 있겠지만, 어느새 여러분이 크게 성장했다는 것을 느낄 수 있고 앞으로 많은 기회가 생길 것입니다. 
 
