@@ -4,6 +4,11 @@
 
 // Typography
 
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 ::selection {
   color: var(--global-text-color);
   background: var(--global-selection-color);

@@ -6,6 +6,16 @@ description: #
 nav: false
 ---
 <style>
+    article {
+        font-family: "Noto Sans KR", sans-serif;
+        word-break: keep-all;
+        font-weight: 300;
+    }
+
+    strong {
+        font-weight: 700;
+    }
+
     p {
         text-indent: 0.5em;
         line-height: 1.6em;
@@ -43,7 +53,7 @@ nav: false
 
 ##### <span class="font-weight-bold">지금 어떤일을 하고 계신가요?</span>
 
-졸업 이후에는 삼성전자 선행연구소인 삼성리서치 Security team에서 system security 파트 업무를 담당했었습니다. 현재는 <span class="font-weight-bold">성신여자대학교 융합보안공학과</span>에 <span class="font-weight-bold">조교수</span>로 부임하여 학생들을 지도하고 있습니다. 박사 과정 동안에는 하드웨어 기반 신뢰 실행 환경과 클라우드 환경에서의 네트워크 시스템 보안성 강화에 관한 연구를 했었고, 지금도 해당 토픽과 관련된 연구들을 수행하고 있습니다.
+졸업 이후에는 삼성전자 선행연구소인 삼성리서치 Security team에서 system security 파트 업무를 담당했었습니다. 현재는 **성신여자대학교 융합보안공학과**에 **조교수**로 부임하여 학생들을 지도하고 있습니다. 박사 과정 동안에는 하드웨어 기반 신뢰 실행 환경과 클라우드 환경에서의 네트워크 시스템 보안성 강화에 관한 연구를 했었고, 지금도 해당 토픽과 관련된 연구들을 수행하고 있습니다.
 
 ##### <span class="font-weight-bold">INA랩에서 경험했던 것이 어떠한 도움이 되고 있나요? </span>
 
@@ -72,7 +82,7 @@ nav: false
 
 ##### <span class="font-weight-bold">지금 어떤일을 하고 계신가요?</span>
 
-저는 2022년 하반기부터 <span class="font-weight-bold">SAP Labs Korea</span>에서 <span class="font-weight-bold">Senior Developer</span>로 입사하여 데이터베이스 코어 관련 개발 및 디자인 미팅에 참여하고 있습니다. 제 박사학위 전공을 살려서 security 관련 미팅도 참여하고 있으며, 클라우드 환경에서 scalability와 multi-tenancy를 지원하기 위해 데이터베이스에 필요한 기술들을 연구 개발하고 있습니다.
+저는 2022년 하반기부터 **SAP Labs Korea**에서 **Senior Developer**로 입사하여 데이터베이스 코어 관련 개발 및 디자인 미팅에 참여하고 있습니다. 제 박사학위 전공을 살려서 security 관련 미팅도 참여하고 있으며, 클라우드 환경에서 scalability와 multi-tenancy를 지원하기 위해 데이터베이스에 필요한 기술들을 연구 개발하고 있습니다.
 
 ##### <span class="font-weight-bold">INA랩에서 경험했던 것이 어떠한 도움이 되고 있나요?</span>
 
