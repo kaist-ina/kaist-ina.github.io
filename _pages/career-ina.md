@@ -167,7 +167,7 @@ Through this URP project, we are researching the live streaming process of 3D vi
 
 Retrospective video analytics refers to an application that sends a query such as "how many buses are in this video?" to a database-stored video and receives a response. With the recent development of deep learning, there has been an explosive increase in demand for retrospective video analytics (for example, in traffic/city planning, business/sports analytics, and healthcare), and many studies have been conducted to optimize it in terms of computing cost. In this research, we will study how to improve the efficiency of the system by optimizing the video encoding method and joint optimization between the ML pipeline and video encoding for retrospective video analytics. Through this research, we can learn about knowledge and recent trends related to retrospective video analytics, image classification, and video encoding, and have the opportunity to experience system research directly by developing large-scale systems.
 
-- Contact: [Hwijoon Lim](/team) (hwijoon.lim@kaist.ac.kr)
+- Contact: [Juncheol Ye](/team) (juncheolye@gmail.com)
 
 
 <div class="cover-img-container">
