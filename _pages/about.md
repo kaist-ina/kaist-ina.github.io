@@ -43,6 +43,7 @@ Currently, INA Lab is conducting research in three different directions, which a
 - Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe)]
 - Accelerating DNA sequencing by learned index [[Bioinformatics'22](/projects/bwa-meme)]
 - Optimizing microservice auto-scaling by graph neural networks [[CoNEXT'21](/projects/graf)]
+- Optimizing systems for LLM training and inference
 
 #### _<i class="fa fa-photo-video mr-2"></i>_ **AI-augmented Media Delivery**
 <!-- - Improving video streaming quality by neural super-resolution -->
