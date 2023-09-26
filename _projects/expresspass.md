@@ -4,7 +4,7 @@ title: ExpressPass
 description: Credit-Scheduled Delay-Bounded Congestion Control for Datacenters
 img: /assets/img/project/expresspass/credit.png
 importance: 10001
-category: "Networked Systems & Security"
+category: "Networking"
 members: ['Inho', 'Keon', 'Dongsu']
 ---
 

@@ -4,7 +4,7 @@ title: NEMO
 description: Run real-time video super-resolution on commercial smartphones
 img: /assets/img/project/nemo/nemo.png
 importance: 9998
-category: Internet Content Delivery
+category: Neural-enhanced Media Streaming
 members: ['Hyunho', 'Youngmok', 'Juncheol', 'Dongsu']
 ---
 

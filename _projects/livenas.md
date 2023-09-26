@@ -5,7 +5,7 @@ description: Stream high-quality live videos even when the network becomes conge
 img: /assets/img/project/livenas/livenas.png
 redirect_from: /~livenas
 importance: 9999
-category: Internet Content Delivery
+category: Neural-enhanced Media Streaming
 members: ['Jaehong', 'Youngmok', 'Hyunho', 'Juncheol', 'Dongsu']
 ---
 <p class="profile-buttons">
