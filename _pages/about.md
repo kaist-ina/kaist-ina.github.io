@@ -49,7 +49,7 @@ Currently, INA Lab is conducting research in three different directions, which a
 <!-- - Improving video streaming quality by neural super-resolution -->
 - Incorporating neural enhancement with adaptive video streaming [[OSDI'18](/projects/nas), [SIGCOMM'20](/projects/livenas)]
 - Accelerating neural enhancement at scale [[MobiCom'20](/projects/nemo/), [SIGCOMM'22](/projects/neuroscaler)]
-- Optimizing traditional image codecs for neural enhancement [CVPR'23]
+- Optimizing traditional image codecs for neural enhancement [[CVPR'23](/projects/accelir)]
 
 #### _<i class="fa fa-cloud mr-2"></i>_  **Networked Systems (Data center, 5G) / Systems Security**
 - Integrating trusted execution environment with conventional networked systems [[NSDI'17,ToN'20,ToN'22](/projects/sgx)]
