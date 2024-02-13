@@ -26,18 +26,6 @@
      My research interests include datacenter networking, cloud computing, 
      and machine learning systems.
 
-  - name: ["Youngmok", "Jung"]
-    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: "I am a PhD candidate at INA lab, KAIST advised by Dongsu Han. 
-     Before than, I received my BS degree in Electrical Engineering in KAIST, South Korea.
-     I am interested in developing systems that use AI/ML approaches. Real-world systems have assumptions that are often different from those of AI/ML approaches. My works aims at 1) designing efficient system that uses AI/ML approaches; 2) improving the AI/ML approaches leveraging the assumptions in the system. All my work involves several months of implementation followed by thorough testing in real-world data.
-     Recently, I am striving to redesign genomics software using AI/ML approaches. In the past, I worked on various topics in video delivery system and image super-resolution based on neural network.
-     "
-    photo: /assets/img/profile/youngmok-jung.jpg
-    homepage: https://quito418.github.io/quito418/
-    email: tom418@kaist.ac.kr
-    scholar: https://scholar.google.com/citations?user=s3vE_LEAAAAJ
-
   - name: ["Jaehong", "Kim"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
     introduction: "I am a Ph.D. student at KAIST advised under Prof. Dongsu Han
@@ -76,15 +64,6 @@
     photo: /assets/img/profile/yunheon-lee.jpg
 
 "M.S. Students":
-  - name: ["Yechan", "Kim"]
-    subtitle: "Master Student, Graduate School of AI"
-    email: yechankim@kaist.ac.kr
-    linkedin: https://www.linkedin.com/in/yechan-kim-elliot
-    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han.
-    I received B.A in computer Science at UC Berkeley. My current research interests are
-    machine learning systems and self-supervised learnings."
-    photo: /assets/img/profile/yechan-kim.jpg
-
   - name: ["Uitaek", "Hong"]
     subtitle: "Master Student, School of Electrical Engineering"
     email: dmlxor@kaist.ac.kr
@@ -110,8 +89,29 @@
     photo: /assets/img/profile/jinyeong-Lim.jpg
 
 "Alumni":
+  - name: ["Youngmok", "Jung"]
+    subtitle: "(Ph.D., 24) AI research scientist at Genome Insight"
+    introduction: "I am a PhD candidate at INA lab, KAIST advised by Dongsu Han. 
+     Before than, I received my BS degree in Electrical Engineering in KAIST, South Korea.
+     I am interested in developing systems that use AI/ML approaches. Real-world systems have assumptions that are often different from those of AI/ML approaches. My works aims at 1) designing efficient system that uses AI/ML approaches; 2) improving the AI/ML approaches leveraging the assumptions in the system. All my work involves several months of implementation followed by thorough testing in real-world data.
+     Recently, I am striving to redesign genomics software using AI/ML approaches. In the past, I worked on various topics in video delivery system and image super-resolution based on neural network.
+     "
+    photo: /assets/img/profile/youngmok-jung.jpg
+    homepage: https://quito418.github.io/quito418/
+    email: tom418@kaist.ac.kr
+    scholar: https://scholar.google.com/citations?user=s3vE_LEAAAAJ
+
+  - name: ["Yechan", "Kim"]
+    subtitle: "(M.S., 23) AI DevTech Engineer at NVIDIA"
+    email: yechankim@kaist.ac.kr
+    linkedin: https://www.linkedin.com/in/yechan-kim-elliot
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han.
+    I received B.A in computer Science at UC Berkeley. My current research interests are
+    machine learning systems and self-supervised learnings."
+    photo: /assets/img/profile/yechan-kim.jpg
+
   - name: ["Hyunho", "Yeo"]
-    subtitle: "(Ph.D. 23) Machine Learning Engineer at Moloco ML-Infra"
+    subtitle: "(Ph.D., 23) Machine Learning Engineer at Moloco ML-Infra"
     email: chaos5958@gmail.com
     homepage: https://hyunhoyeo.com
     scholar: https://scholar.google.com/citations?user=xi1Zy7MAAAAJ
