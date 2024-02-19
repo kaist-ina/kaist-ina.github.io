@@ -63,7 +63,6 @@
     email: yhlee37@kaist.ac.kr
     photo: /assets/img/profile/yunheon-lee.jpg
 
-"M.S. Students":
   - name: ["Uitaek", "Hong"]
     subtitle: "Master Student, School of Electrical Engineering"
     email: dmlxor@kaist.ac.kr
@@ -80,6 +79,7 @@
     Next-generation sequencing."
     photo: /assets/img/profile/jaehyeong-park.jpg
 
+"M.S. Students":
   - name: ["Jinyeong", "Lim"]
     subtitle: "Master Student, School of Electrical Engineering"
     email: wlswlszkem@kaist.ac.kr
@@ -87,6 +87,24 @@
     I am studying neural video codec for machine learning tasks. 
     My research interests are video analytics and storage system for machine learning tasks." 
     photo: /assets/img/profile/jinyeong-Lim.jpg
+  
+  - name: ["Taehyun", "Kim"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    email: xogusrns123@kaist.ac.kr
+    introduction: "" 
+    photo: /assets/img/profile/empty.png
+
+  - name: ["Taehoon", "Kim"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    email: taehoon0813@kaist.ac.kr
+    introduction: "" 
+    photo: /assets/img/profile/empty.png
+
+  - name: ["Seyeon", "Lee"]
+    subtitle: "Master Student, Graduate School of AI"
+    email: thisisseyeon@kaist.ac.kr
+    introduction: "" 
+    photo: /assets/img/profile/empty.png
 
 "Alumni":
   - name: ["Youngmok", "Jung"]
