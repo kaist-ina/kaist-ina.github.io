@@ -4,7 +4,7 @@ title: TSPipe
 description: Train knowledge distillation (KD) and self-supervised learning (SSL) faster with pipelines
 img: /assets/img/project/tspipe/design_overview.png
 importance: 9997
-category: "Systems for AI & AI for Systems"
+category: "Systems for AI and Cloud"
 members: ['Hwijoon', 'Yechan', 'Dongsu']
 ---
 

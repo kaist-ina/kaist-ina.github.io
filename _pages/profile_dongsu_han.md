@@ -26,10 +26,17 @@ profile:
 I am a professor at **KAIST** (School of Electrical Engineering and Graduate School of Artificial Intelligence). I received a Ph.D. from the Computer Science Department at Carnegie Mellon University in 2012. My research interests include networked/cloud systems design, AI for systems, and systems for AI. Students interested in research are welcome to contact me at <dongsu.han@gmail.com>.
 
 ### Research Projects
-##### Cloud systems and Big Data
+##### Systems for AI and Cloud
  - Providing QoS in multi-tenant cloud environments through virtual network embedding
  - Enabling Distributed Optimization (Algorithms and Practice)
  - Scalable, high-performance networking stack, services, and applications
+
+##### Neural-enhanced Media Streaming
+- Content-aware Internet video delivery using deep-learning \[[web page](http://web.inalab.net/~nas/)\]
+- VDN: Enabling Software-defined, Near-Real Time Control for Content Delivery Networks
+- Understanding the Internet video Quality of Experience (QoE) and QoE engineering
+- Enhancing HTTP Adaptive Streaming with Network-level Predictions
+- Reliable Real-time Communication on Content-aware Networks
 
 ##### Internet/System Security
 - Intel SGX \[[SGX reading list](https://docs.google.com/document/d/e/2PACX-1vQmwVAEA8p2BsCRoajcE4RKqwEmdReUZHavRePz4iN-2tdy_yQxGaO4oCfXmXlNmKry9GA3pgti6sYq/pub)\]
@@ -37,12 +44,6 @@ I am a professor at **KAIST** (School of Electrical Engineering and Graduate Sch
 - High-performance intrusion detection using many-core systems
 - Automatic protocol and behavior analysis of Android Apps using binary analysis
 
-##### Internet Content Delivery
-- Content-aware Internet video delivery using deep-learning \[[web page](http://web.inalab.net/~nas/)\]
-- VDN: Enabling Software-defined, Near-Real Time Control for Content Delivery Networks
-- Understanding the Internet video Quality of Experience (QoE) and QoE engineering
-- Enhancing HTTP Adaptive Streaming with Network-level Predictions
-- Reliable Real-time Communication on Content-aware Networks
 
 ### Students and Post-Docs
 <ul>
@@ -68,7 +69,7 @@ I am a professor at **KAIST** (School of Electrical Engineering and Graduate Sch
 See [publications](/publications).
 
 ### Program Committee
-- 2024: NSDI
+- 2024: NSDI, SIGCOMM, CoNEXT, APNet, TheWebConf
 - 2023: NSDI, APNet, CoNEXT PC
 - 2022: SIGCOMM, NSDI, APNet, CoNEXT PC
 - 2021: HotNets, ICNP, APNet

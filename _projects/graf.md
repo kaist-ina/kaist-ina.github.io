@@ -4,7 +4,7 @@ title: GRAF
 description: A GNN-based proactive resource allocation framework for SLO-oriented microservices.
 img: /assets/img/project/graf/graf.png
 importance: 9999
-category: Systems for AI & AI for Systems
+category: Systems for AI and Cloud
 members: ['Jinwoo', 'Byungkwon', 'Dongsu']
 ---
 

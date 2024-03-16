@@ -4,7 +4,7 @@ title: BWA-MEME
 description: BWA-MEM emulated with a machine learning approach
 img: /assets/img/project/bwa-meme/system_overview.png
 importance: 9999
-category: Systems for AI & AI for Systems
+category: Systems for AI and Cloud
 members: ['Youngmok', 'Dongsu']
 ---
 
