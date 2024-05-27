@@ -36,8 +36,8 @@
               {%- for member in members -%}
                 {%- assign mfn = member.name | first | downcase -%}
                 {%- assign mln = member.name | last | downcase -%}
-                {%- assign cfn = author.first | downcase -%}
-                {%- assign cln = author.last | downcase -%}
+                {%- assign cfn = author.first | replace: '*', '' | downcase -%}
+                {%- assign cln = author.last | replace: '*', '' | downcase -%}
                 {%- assign member_id = member.name | join: '_' | downcase -%}
                 {%- assign member_homepage = "/team" | append: '#' | append: member_id -%}
                 {%- if member.homepage -%}{%- assign member_homepage = member.homepage -%}{%- endif -%}
