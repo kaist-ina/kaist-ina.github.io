@@ -130,47 +130,9 @@ As a member of our research group, you will have access to a self-motivated and 
 
 <p style="text-indent: 0">If you are interested, please send your CV/resume and transcript to <a href="mailto:yechankim0502@gmail.com">ina.interview@gmail.com</a> and <a href="mailto:dhan.ee@kaist.ac.kr">dhan.ee@kaist.ac.kr</a>.</p>
 
-- For students in Graduate School of AI, please contact to <a href="mailto:yechankim0502@gmail.com">yechankim0502@gmail.com</a> 
-  (Yechan Kim, GSAI Master Student).
-
 <div style="margin-bottom: 50px"></div>
 
 ### <span class="font-weight-bold"> Undergraduates (Individual Study, URP)
 
 
-INA research group is currently seeking undergraduate research interns (상시 채용). If you are interested in conducting research on any of the topics below, please send us your resume and transcript to ina.interview@gmail.com.
-
-##### <span class="font-weight-bold">1. Distributed Training at Scale (ML Systems)</span>
-
-
-Recently, the scale of AI models has been increasing to improve accuracy in tasks such as image and text processing, and the amount of input data has also been increasing rapidly. To train these large-scale models and datasets, distributed learning using multi-GPU and multi-node is essential, and research to improve the efficiency of distributed learning is also actively being conducted. In our laboratory, we have researched a framework called TSPipe, which enables efficient Knowledge Distillation model training using multiple GPUs through model parallelization. Based on this research experience, we plan to conduct research in this URP project to accelerate distributed learning by analyzing and resolving fundamental bottleneck points in distributed learning using multi-node.
-
-- Contact: [Hwijoon Lim](/team) (hwijoon.lim@kaist.ac.kr)
-
-<div class="cover-img-container">
-    <img src="/assets/img/tspipe.png" class="cover-img"/>
-</div>
-
-##### <span class="font-weight-bold">2. 3D Volumetric Video Streaming (Video Systems)</span>
-
-Through this URP project, we are researching the live streaming process of 3D videos from real-time 3D capture to encoding and distribution to viewers over the internet. With the advent of the metaverse era, immersive content such as VR and AR and 3D volumetric videos are gaining attention. While video on demand streaming of 3D videos has been researched so far, live streaming is an unexplored area. Based on our LiveNAS research experience, which utilized deep learning to improve traditional 2D live video streaming, our laboratory aims to achieve efficient live streaming of 3D videos. We plan to convert the inefficient representation and transmission method of existing 3D data that does not meet the live streaming conditions into a lighter form and conduct research on real-time encoding and transmission.
-
-- Contact: [Jaehong Kim](/team) (jaehong950305@gmail.com)
-
-<div class="cover-img-container">
-    <img src="/assets/img/3d_streaming.png" class="cover-img"/>
-</div>
-
-
-
-##### <span class="font-weight-bold">3. Cost-effective Retrospective Video Analytics (Video + ML System)</span>
-
-Retrospective video analytics refers to an application that sends a query such as "how many buses are in this video?" to a database-stored video and receives a response. With the recent development of deep learning, there has been an explosive increase in demand for retrospective video analytics (for example, in traffic/city planning, business/sports analytics, and healthcare), and many studies have been conducted to optimize it in terms of computing cost. In this research, we will study how to improve the efficiency of the system by optimizing the video encoding method and joint optimization between the ML pipeline and video encoding for retrospective video analytics. Through this research, we can learn about knowledge and recent trends related to retrospective video analytics, image classification, and video encoding, and have the opportunity to experience system research directly by developing large-scale systems.
-
-- Contact: [Juncheol Ye](/team) (juncheolye@gmail.com)
-
-
-<div class="cover-img-container">
-    <img src="/assets/img/boggart.png" class="cover-img"/>
-</div>
-
+INA research group is currently seeking undergraduate research interns (상시 채용). If you are interested in conducting research on any of the topics in <a href="/projects">Projects</a>, please send us your resume and transcript to ina.interview@gmail.com.
