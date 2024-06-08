@@ -40,9 +40,9 @@ INA has published 14 papers at top-tier systems conferences, **ranking 1st in Ko
 Currently, INA Lab is conducting research in three different directions, which are listed below. You can find a full list of projects and publications on [Project@INA](/projects) and [Publication@INA](/publications).
 
 #### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI and Cloud**
-- Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe)]
+- Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe), ICML'24, SIGCOMM'24]
 - Accelerating DNA sequencing by learned index [[Bioinformatics'22](/projects/bwa-meme)]
-- Optimizing microservice auto-scaling by graph neural networks [[CoNEXT'21](/projects/graf)]
+- Optimizing microservice auto-scaling by graph neural networks [[CoNEXT'21](/projects/graf), SIGCOMM'24]
 - Optimizing systems for LLM training and inference
 
 #### _<i class="fa fa-photo-video mr-2"></i>_ **AI-augmented Media Delivery**
