@@ -49,14 +49,14 @@
     
   - name: ["Juncheol", "Ye"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: "I am a 1st year Ph.D. student at INA lab. Currently, I am interested in deep learning based image super-resolution that jointly integrated with a traditional image codec
+    introduction: "I am a 3rd year Ph.D. student at INA lab. Currently, I am interested in deep learning based image super-resolution that jointly integrated with a traditional image codec
     Also, I take an interested in video codec optimization."
     photo: /assets/img/profile/juncheol-ye.jpg
     email: juncheolye@gmail.com
 
   - name: ["Yunheon", "Lee"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han.
+    introduction: "I am a Ph.D. student at INA lab, KAIST advised by Dongsu Han.
     I received B.A in Electrical Engineering at KAIST, Republic of Korea.
     Recently, I am interested in AI optimized cellular network systems that support 
     computation-intensive AI applications on mobile devices."
@@ -109,7 +109,9 @@
   - name: ["Seunghwan", "Noh"]
     subtitle: "Master Student, School of Electrical Engineering"
     email: shnoh@kaist.ac.kr
-    introduction: "" 
+    introduction: "Hii! I'm an EE Master's student advised by prof. Dongsu Han.
+    I'm interested in systems for ML, especially distributed systems for training/inference.
+    Feel free to reach me out via Linkedin or Email :D" 
     photo: /assets/img/profile/seunghwan-noh.jpg
     linkedin: https://www.linkedin.com/in/wn0680/
 
