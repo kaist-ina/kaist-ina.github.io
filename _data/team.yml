@@ -103,7 +103,8 @@
   - name: ["Seyeon", "Lee"]
     subtitle: "Master Student, Graduate School of AI"
     email: thisisseyeon@kaist.ac.kr
-    introduction: "" 
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han.
+    I'm interested in neural-enhanced media streaming and AI." 
     photo: /assets/img/profile/seyeon-lee.jpg
 
   - name: ["Seunghwan", "Noh"]
