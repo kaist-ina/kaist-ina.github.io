@@ -20,11 +20,10 @@
     linkedin: https://www.linkedin.com/in/hwijoon-lim/
     github: https://github.com/wjuni
     photo: /assets/img/profile/hwijoon-lim.jpg
-    introduction: I am a Ph.D. candidate at KAIST advised under Prof. Dongsu Han in
-     Intelligent Network Architecture Laboratory. 
-     I received B.S. in Electrical Engineering (double major with Computer Science) from KAIST.
-     My research interests include datacenter networking, cloud computing, 
-     and machine learning systems.
+    introduction: I am a final year Ph.D. candidate at KAIST advised by Prof. Dongsu Han. 
+      During my Ph.D., I have worked on improving machine learning and networking systems through designing efficient algorithms and implementing system-level optimizations in real-world systems. 
+      My contributions have been recognized at numerous top-tier venues, including ICML, SIGCOMM, and EuroSys.
+      I received my B.S. degree in Electrical Engineering and Computer Science from KAIST, Republic of Korea.
 
   - name: ["Jaehong", "Kim"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
