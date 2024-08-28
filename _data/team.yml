@@ -11,7 +11,7 @@
     scholar: https://scholar.google.com/citations?user=NMggRxkAAAAJ
     homepage: /team/dongsuh
 
-"Ph.D. Students":
+"Ph.D. Student":
   - name: ["Hwijoon", "Lim"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
     homepage: https://wjuni.com
@@ -87,7 +87,7 @@
     My research interests are video analytics and storage system for machine learning tasks." 
     photo: /assets/img/profile/jinyeong-Lim.jpg
 
-"M.S. Students":
+"M.S. Student":
   - name: ["Taehyun", "Kim"]
     subtitle: "Master Student, School of Electrical Engineering"
     email: xogusrns123@kaist.ac.kr
