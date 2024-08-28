@@ -40,9 +40,9 @@ INA has published 14 papers at top-tier systems conferences, **ranking 1st in Ko
 Currently, INA Lab is conducting research in three different directions, which are listed below. You can find a full list of projects and publications on [Project@INA](/projects) and [Publication@INA](/publications).
 
 #### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI and Cloud**
-- Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe), ICML'24, SIGCOMM'24]
+- Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe), [ICML'24](/projects/esmoe), [SIGCOMM'24a](/projects/stellatrain)]
 - Accelerating DNA sequencing by learned index [[Bioinformatics'22](/projects/bwa-meme)]
-- Optimizing microservice auto-scaling by graph neural networks [[CoNEXT'21](/projects/graf), SIGCOMM'24]
+- Optimizing microservice auto-scaling by graph neural networks [[CoNEXT'21](/projects/graf), [SIGCOMM'24b](/projects/topfull)]
 - Optimizing systems for LLM training and inference
 
 #### _<i class="fa fa-photo-video mr-2"></i>_ **AI-augmented Media Delivery**
@@ -52,7 +52,7 @@ Currently, INA Lab is conducting research in three different directions, which a
 - Optimizing traditional image codecs for neural enhancement [[CVPR'23](/projects/accelir)]
 
 #### _<i class="fa fa-cloud mr-2"></i>_  **Networked Systems (Data center, 5G) / Systems Security**
-- Integrating trusted execution environment with conventional networked systems [[NSDI'17,ToN'20,ToN'22](/projects/sgx)]
+- Integrating trusted execution environment with conventional networked systems [[NSDI'17, ToN'20, ToN'22](/projects/sgx)]
 - Optimizing network resource and wireless spectral efficiency under 5G, 6G environments [[CoNEXT'22](/projects/outran)]
 - Improving congestion control schemes for datacenter networking [[SIGCOMM'17](/projects/expresspass), [EuroSys'21](/projects/tlt), [EuroSys'23](/projects/flexpass)]
 
