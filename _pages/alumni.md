@@ -51,7 +51,7 @@ nav: false
 
 <div style="margin-bottom: 1em"></div>
 
-##### <span class="font-weight-bold">지금 어떤일을 하고 계신가요?</span>
+##### <span class="font-weight-bold">지금 어떤 일을 하고 계신가요?</span>
 
 졸업 이후에는 삼성전자 선행연구소인 삼성리서치 Security team에서 system security 파트 업무를 담당했었습니다. 현재는 **성신여자대학교 융합보안공학과**에 **조교수**로 부임하여 학생들을 지도하고 있습니다. 박사 과정 동안에는 하드웨어 기반 신뢰 실행 환경과 클라우드 환경에서의 네트워크 시스템 보안성 강화에 관한 연구를 했었고, 지금도 해당 토픽과 관련된 연구들을 수행하고 있습니다.
 
@@ -80,7 +80,7 @@ nav: false
 
 <div style="margin-bottom: 1em"></div>
 
-##### <span class="font-weight-bold">앞으로 어떤 일을 하실 계획인가요?</span>
+##### <span class="font-weight-bold">지금 어떤 일을 하고 계신가요?</span>
 
 현재 <span class="font-weight-bold">삼성전자 MX(구 무선)사업부 Cloud팀</span>에서 AI 학습 인프라 구축/운영 프로젝트를 리드하고 있습니다. 당사 다양한 제품에 탑재되는 AI 모델들이 저희 인프라에서 학습되고 있으며, 사내 AI 엔지니어분들께서 개발 일정에 문제 없이 모델 학습을 완료할 수 있도록 지원하고 있습니다. 해당 인프라는 Kubernetes 기반으로 동작하며 최신 GPU 및 고성능 네트워크로 구성되어 있습니다. 국내에서는 한 손 안에 꼽히는 규모이며, 전세계적으로도 경쟁력있는 수준을 갖추고 있습니다. 해당 인프라 운영을 해외 연구소 인력들 및 HQ 관계자분들과 함께 진행하고 있습니다. 그 외에 멀티 클라우드 관리 플랫폼 개발, 생성형 AI 서빙 인프라 구축 프로젝트에도 엔지니어로서 부분적으로 참여하고 있습니다.
 
@@ -115,7 +115,7 @@ INA 랩은 기본적으로 시스템 연구실이기 때문에, 논문을 쓰는
 
 <div style="margin-bottom: 1em"></div>
 
-##### <span class="font-weight-bold">지금 어떤일을 하고 계신가요?</span>
+##### <span class="font-weight-bold">지금 어떤 일을 하고 계신가요?</span>
 
 저는 2022년 하반기부터 **SAP Labs Korea**에서 **Senior Developer**로 입사하여 데이터베이스 코어 관련 개발 및 디자인 미팅에 참여하고 있습니다. 제 박사학위 전공을 살려서 security 관련 미팅도 참여하고 있으며, 클라우드 환경에서 scalability와 multi-tenancy를 지원하기 위해 데이터베이스에 필요한 기술들을 연구 개발하고 있습니다.
 
