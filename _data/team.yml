@@ -23,8 +23,7 @@
     
   - name: ["Juncheol", "Ye"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: "I am a 3rd year Ph.D. student at INA lab. Currently, I am interested in deep learning based image super-resolution that jointly integrated with a traditional image codec
-    Also, I take an interested in video codec optimization."
+    introduction: "I am a 3rd year Ph.D. student at INA lab. Currently, I am interested in Systems for AI and AI for Systems"
     photo: /assets/img/profile/juncheol-ye.jpg
     email: juncheolye@gmail.com
 
@@ -37,14 +36,6 @@
     email: yhlee37@kaist.ac.kr
     photo: /assets/img/profile/yunheon-lee.jpg
 
-  - name: ["Uitaek", "Hong"]
-    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    email: dmlxor@kaist.ac.kr
-    introduction: "I am a Ph.D. student at INA lab, KAIST advised by Dongsu Han.
-    My research interests are machine learing systems and cloud computing.
-    I'm currently studying ML based image compression and cloud storage systems." 
-    photo: /assets/img/profile/uitaek-hong2.jpg
-  
   - name: ["Jaehyeong", "Park"]
     subtitle: "Ph.D. Student, School of Electrical Engineering"
     email: woguddlrj676@kaist.ac.kr
