@@ -12,31 +12,6 @@
     homepage: /team/dongsuh
 
 "Ph.D. Student":
-  - name: ["Hwijoon", "Lim"]
-    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    homepage: https://wjuni.com
-    email: hwijoon.lim@kaist.ac.kr
-    scholar: https://scholar.google.com/citations?user=aOgTgQIAAAAJ
-    linkedin: https://www.linkedin.com/in/hwijoon-lim/
-    github: https://github.com/wjuni
-    photo: /assets/img/profile/hwijoon-lim.jpg
-    introduction: I am a final year Ph.D. candidate at KAIST advised by Prof. Dongsu Han. 
-      During my Ph.D., I have worked on improving machine learning and networking systems through designing efficient algorithms and implementing system-level optimizations in real-world systems. 
-      My contributions have been recognized at numerous top-tier venues, including ICML, SIGCOMM, and EuroSys.
-      I received my B.S. degree in Electrical Engineering and Computer Science from KAIST, Republic of Korea.
-
-  - name: ["Jaehong", "Kim"]
-    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: "I am a Ph.D. student at KAIST advised under Prof. Dongsu Han
-    in Intelligent Network Architecture Laboratory.
-    My research interests include deep learning based video delivery, 
-    NextG (5G/6G) cellular networks and high-performance networked systems."
-    photo: /assets/img/profile/jaehong-kim-2.jpg
-    homepage: https://jaykim305.github.io/
-    email: jaehong950305@gmail.com
-    scholar: https://scholar.google.com/citations?user=U55MerIAAAAJ&hl=en
-    linkedin: https://linkedin.com/in/jaykim305
- 
   - name: ["Jinwoo", "Park"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
     introduction: "My research interests focus on applying AI to the system. Specifically, my research aims to enhance performance of the systems by integrating a novel AI technique to the system design."
@@ -48,8 +23,7 @@
     
   - name: ["Juncheol", "Ye"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: "I am a 3rd year Ph.D. student at INA lab. Currently, I am interested in deep learning based image super-resolution that jointly integrated with a traditional image codec
-    Also, I take an interested in video codec optimization."
+    introduction: "I am a 3rd year Ph.D. student at INA lab. Currently, I am interested in Systems for AI and AI for Systems"
     photo: /assets/img/profile/juncheol-ye.jpg
     email: juncheolye@gmail.com
 
@@ -62,14 +36,6 @@
     email: yhlee37@kaist.ac.kr
     photo: /assets/img/profile/yunheon-lee.jpg
 
-  - name: ["Uitaek", "Hong"]
-    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    email: dmlxor@kaist.ac.kr
-    introduction: "I am a Ph.D. student at INA lab, KAIST advised by Dongsu Han.
-    My research interests are machine learing systems and cloud computing.
-    I'm currently studying ML based image compression and cloud storage systems." 
-    photo: /assets/img/profile/uitaek-hong2.jpg
-  
   - name: ["Jaehyeong", "Park"]
     subtitle: "Ph.D. Student, School of Electrical Engineering"
     email: woguddlrj676@kaist.ac.kr
@@ -116,6 +82,30 @@
     linkedin: https://www.linkedin.com/in/wn0680/
 
 "Alumni":
+  - name: ["Hwijoon", "Lim"]
+    subtitle: "(Ph.D., 24) Research Scientist at Meta"
+    homepage: https://wjuni.com
+    email: hwijoon.lim@kaist.ac.kr
+    scholar: https://scholar.google.com/citations?user=aOgTgQIAAAAJ
+    linkedin: https://www.linkedin.com/in/hwijoon-lim/
+    github: https://github.com/wjuni
+    photo: /assets/img/profile/hwijoon-lim.jpg
+    introduction: I am a final year Ph.D. candidate at KAIST advised by Prof. Dongsu Han. 
+      During my Ph.D., I have worked on improving machine learning and networking systems through designing efficient algorithms and implementing system-level optimizations in real-world systems. 
+      My contributions have been recognized at numerous top-tier venues, including ICML, SIGCOMM, and EuroSys.
+      I received my B.S. degree in Electrical Engineering and Computer Science from KAIST, Republic of Korea.
+
+  - name: ["Jaehong", "Kim"]
+    subtitle: "(Ph.D., 24) Postdoctoral Researcher at Carnegie Mellon University"
+    introduction: "I am a Ph.D. student at KAIST advised under Prof. Dongsu Han
+    in Intelligent Network Architecture Laboratory.
+    My research interests include deep learning based video delivery, 
+    NextG (5G/6G) cellular networks and high-performance networked systems."
+    photo: /assets/img/profile/jaehong-kim-2.jpg
+    homepage: https://jaykim305.github.io/
+    email: jaehong950305@gmail.com
+    scholar: https://scholar.google.com/citations?user=U55MerIAAAAJ&hl=en
+    linkedin: https://linkedin.com/in/jaykim305
   - name: ["Youngmok", "Jung"]
     subtitle: "(Ph.D., 24) AI research scientist at Genome Insight"
     introduction: "I am a PhD candidate at INA lab, KAIST advised by Dongsu Han. 
