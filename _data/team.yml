@@ -133,13 +133,11 @@
     photo: /assets/img/profile/yechan-kim.jpg
 
   - name: ["Hyunho", "Yeo"]
-    subtitle: "(Ph.D., 23) Machine Learning Engineer at Moloco ML-Infra"
+    subtitle: "(Ph.D., 23) Software Engineer at Meta (MTIA SW)"
     email: chaos5958@gmail.com
-    homepage: https://hyunhoyeo.com
     scholar: https://scholar.google.com/citations?user=xi1Zy7MAAAAJ
     linkedin: https://www.linkedin.com/in/hyunho-yeo/
     photo: /assets/img/profile/hyunho-yeo.jpg
-
 
   - name: ["Jeongmin", "Kim"]
     subtitle: "(Ph.D., 23) Network Group Manager at PiLab"
