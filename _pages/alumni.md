@@ -144,9 +144,9 @@ INA랩에서 네트워크 시스템을 가장 로우 레벨부터 디자인해�
 
 <div style="margin-bottom: 1em"></div>
 
-##### <span class="font-weight-bold">앞으로 어떤 일을 하실 계획인가요?</span>
+##### <span class="font-weight-bold">지금 어떤 일을 하고 계신가요?</span>
 
-저는 2023년 6월부터 <span class="font-weight-bold">Moloco</span> 내에 <span class="font-weight-bold">ML Infrastructure</span> 팀에 <span class="font-weight-bold">Machine Learning Engineer</span>로 합류할 예정이며 추후 <span class="font-weight-bold">Silicon Valley</span>에서 근무할 예정입니다. Moloco는  ML을 통해 새로운 비즈니스를 개척하는 과정에 있으며 현재는 ML 기반 광고 시장을 주로 타겟하고 있습니다. 또한 Moloco는 미국 내에서 가장 빠르게 성장하는 스타트업 중 하나이며 빅테크 핵심 인재들과  탑스쿨 박사들이 많이 합류하고 있어 높은 인재 밀도를 가지고 있습니다. 저는 Moloco에서 회사의 핵심 인프라인 ML serving systems을 새로 설계하고 개발하는 것을 리드할 예정입니다.
+저는 Meta 내 PyTorch MTIA SW 팀에서 software engineer로 일하고 있습니다. 구체적으로, MTIA라는 Meta의 custom ML silicon에 필요한 low-level performant runtime stack을 설계하고 개발하는 일을 즐기고 있습니다.
 
 ##### <span class="font-weight-bold">INA랩에서 경험했던 것이 어떠한 도움이 되나요?</span>
 
