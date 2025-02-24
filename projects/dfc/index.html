@@ -2,16 +2,16 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://ina.kaist.ac.kr/" />    <!-- Metadata, OpenGraph and Schema.org -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>INA  Research Group |  </title>
+    <title>INA  Research Group | DFC</title>
     <meta name="author" content="INA  Research Group" />
-    <meta name="description" content=" " />
+    <meta name="description" content="High-Performance String Matching Algorithm that accelerates network middlebox applications" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚛️</text></svg>">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://ina.kaist.ac.kr/404.html">
+    <link rel="canonical" href="https://ina.kaist.ac.kr/projects/dfc/">
     
     <!-- Dark Mode -->
     
@@ -119,42 +119,223 @@
           <script type="application/ld+json">
           {
             "@context": "https://schema.org/",
-            "headline": " ",
-            
-            "author": [],
+            "headline": "DFC",
+            "image": ["https://ina.kaist.ac.kr/assets/img/project/dfc/dfc.png"],
+            "author": [{"@type":"Person", "name": "Byungkwon Choi", "url":"/team/brad"}, {"@type":"Person", "name": "Dongsu Han", "url":"/team/dongsuh"}],
             "@type": "NewsArticle"
           }
           </script>
 
           <header class="post-header">
-            <h1 class="post-title"> </h1>
-            <p class="post-description"> </p>
+            <h1 class="post-title">DFC</h1>
+            <p class="post-description">High-Performance String Matching Algorithm that accelerates network middlebox applications</p>
           </header>
 
           <article>
-            <p class="redirect-info"></p>
+            <p class="profile-buttons">
+    <a class="btn z-depth-0" href="https://github.com/nfsp3k/dfc" target="_blank" rel="noopener noreferrer">Code</a>
+</p>
 
+<div class="row justify-content-sm-center">
+    <div class="col-md mt-3 col-md-6">
+        <figure>
+  <img class="img-fluid rounded z-depth-1 p-2" src="/assets/img/project/dfc/dfc.png" title="DFC">
+</figure>
+        <div class="caption">
+            DFC: High-Performance String Matching Algorithm
+        </div>
+    </div>
+</div>
 
-<script>
-    var target_url = (window.location.pathname || '').replace(/\/*$/g,'');
-    if(target_url === '/~dongsuh') {
-        location.replace('/team/dongsuh');
-    } else if(target_url === '/~livenas') {
-        location.replace('/projects/livenas');
-    } else if(target_url === '/~nas') {
-        location.replace('/projects/nas');
-    } else if(target_url === '/~nemo') {
-        location.replace('/projects/nemo');
-    } else if(target_url === '/~brad') {
-        location.replace('/team/brad');
-    } else {
-        setTimeout(function() {
-            $('.post-title').text('Page not found');
-            $('.post-description').text("Looks like there has been a mistake. Nothing exists here.");
-            $('.redirect-info').html('You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://ina.kaist.ac.kr/">here</a>.');
-        }, 100)
-    }
-</script>
+<h3>Summary</h3>
+<p>String matching is a performance-critical task for many middlebox applications, such as network intrusion detection systems and Web application firewalls. DFC is an efficient multi-pattern string matching algorithm that significantly reduces the number of memory accesses and cache misses by using small and cache-friendly data structures and avoids instruction pipeline stalls by minimizing sequential data dependency. Our evaluation shows that DFC improves performance by up to 3.6 times compared to the most widely used algorithm on real traffic workload. When applied to middlebox applications, DFC delivers 57-160% improvement in performance.</p>
+
+<h3>Publications</h3>
+<div class="publications">
+<ol class="bibliography"><li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">NSDI</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="choi2016dfc" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">DFC: Accelerating string pattern matching for network applications</div>
+          <!-- Author -->
+          <div class="author">
+<a href="/team/brad">Byungkwon Choi</a>, Jongwook Chae, Muhammad Jamshed, Kyoungsoo Park, and <a href="/team/dongsuh">Dongsu Han</a>
+                  
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In 13th USENIX Symposium on Networked Systems Design and Implementation (NSDI 16)</em> 2016 
+            
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/choi" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Paper</a>
+            <a href="/projects/dfc" class="btn btn-sm z-depth-0" role="button">Project</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+</div>
+
+<h3>Members</h3>
+
+<div class="projects small mb-4">
+    <div class="grid">
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    <div class="grid-sizer"></div>
+                        <div class="grid-item">
+                            <a href="/team/brad">
+                            <div class="card hoverable">
+                                <div class="photo"><figure>
+  <img src="/assets/img/profile/byungkwon-choi.jpg" alt="ByungkwonChoi">
+</figure></div>
+                                <div class="card-body">
+                                <h5 class="card-title">Byungkwon Choi</h5>
+                                <p class="card-text">Alumni</p>
+                            </div>
+                            </div>
+                            </a>
+                        </div>
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    <div class="grid-sizer"></div>
+                        <div class="grid-item">
+                            <a href="/team/dongsuh">
+                            <div class="card hoverable">
+                                <div class="photo"><figure>
+  <img src="/assets/img/profile/dongsu-han.jpg" alt="DongsuHan">
+</figure></div>
+                                <div class="card-body">
+                                <h5 class="card-title">Dongsu Han</h5>
+                                <p class="card-text">Principal Investigator</p>
+                            </div>
+                            </div>
+                            </a>
+                        </div>
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+    </div>
+    </div>
 
           </article>
 
