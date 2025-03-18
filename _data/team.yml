@@ -56,13 +56,13 @@
   - name: ["Taehyun", "Kim"]
     subtitle: "Master Student, School of Electrical Engineering"
     email: xogusrns123@kaist.ac.kr
-    introduction: "" 
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. My research interest is a WAN-distributed system for LLM inference." 
     photo: /assets/img/profile/taehyun-kim.jpg
 
   - name: ["Taehoon", "Kim"]
     subtitle: "Master Student, School of Electrical Engineering"
     email: taehoon0813@kaist.ac.kr
-    introduction: "" 
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in systems for efficient mixture-of-expert training and inference." 
     photo: /assets/img/profile/taehoon-kim.jpg
 
   - name: ["Seyeon", "Lee"]
