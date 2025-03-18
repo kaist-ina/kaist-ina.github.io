@@ -81,6 +81,13 @@
     photo: /assets/img/profile/seunghwan-noh.jpg
     linkedin: https://www.linkedin.com/in/wn0680/
 
+  - name: ["Seungkook", "Lee"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    email: sklee07074@kaist.ac.kr
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. My research interest is in cloud-native cellular network design." 
+    photo: /assets/img/profile/seungkook-lee.jpg
+    linkedin: https://www.linkedin.com/in/seungkook-lee-67676b330/
+
 "Alumni":
   - name: ["Hwijoon", "Lim"]
     subtitle: "(Ph.D., 24) Research Scientist at Meta"
