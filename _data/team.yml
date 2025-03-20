@@ -88,6 +88,18 @@
     photo: /assets/img/profile/seungkook-lee.jpg
     linkedin: https://www.linkedin.com/in/seungkook-lee-67676b330/
 
+  - name: ["Youngchan", "Kim"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    email: chani227@kaist.ac.kr
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. My research interest is in efficient mixture-of-expert training system." 
+    photo: /assets/img/profile/youngchan-kim.jpg
+
+  - name: ["Seunggeun", "Cho"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    email: sgn.cho@kaist.ac.kr
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in distributed LLM inference systems."
+    photo: /assets/img/profile/seunggeun-cho.jpg
+
 "Alumni":
   - name: ["Hwijoon", "Lim"]
     subtitle: "(Ph.D., 24) Research Scientist at Meta"
