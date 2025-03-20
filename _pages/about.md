@@ -14,7 +14,7 @@ social: false  # includes social icons at the bottom of the page
 <div class="row justify-content-sm-center">
     <div class="col-md mt-3 col-md-12">
         <a href="/assets/pdf/INA-poster-202305-web.pdf" target="_blank">
-            {% include figuren.html path="/assets/img/main/lab2_230421.jpg" title="Lab members" alt="Lab members" class="img-fluid rounded z-depth-1 main-image-1" %}
+            {% include figuren.html path="/assets/img/main/ina25spring_crop2.jpg" title="Lab members" alt="Lab members" class="img-fluid rounded z-depth-1 main-image-1" %}
         </a>
         <div class="caption">
         </div>
@@ -38,6 +38,17 @@ INA research group provides a self-motivated atmosphere that allows for efficien
 
 INA has published 15+ papers at top-tier systems conferences, including SIGCOMM, NSDI, and OSDI, **ranking 1st in Korea** (refer to [link](https://csrankings.org/#/fromyear/2012/toyear/2024/index?comm&kr)).
 Currently, INA Lab is conducting research in three different directions, which are listed below. You can find a full list of projects and publications on [Project@INA](/projects) and [Publication@INA](/publications).
+
+<div class="row justify-content-sm-center">
+    <div class="col-md mt-3 col-md-10">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vvIG2Cw34Y4?start=124&end=316&autoplay=1&mute=1&loop=1&controls=0&rel=0" allowfullscreen></iframe>
+        </div>
+        <div class="caption">
+            Featured by Youtube channel SOD [<a href="/projects/stellatrain">SIGCOMM'24a</a>] [<a href="/projects/esmoe">ICML'24</a>]
+        </div>
+    </div>
+</div>
 
 #### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI and Cloud**
 - Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe), [ICML'24](/projects/esmoe), [SIGCOMM'24a](/projects/stellatrain)]
