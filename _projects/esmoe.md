@@ -9,6 +9,17 @@ members: ['Yechan', 'Hwijoon', 'Dongsu']
 ---
 
 <div class="row justify-content-sm-center">
+    <div class="col-md mt-3 col-md-10">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vvIG2Cw34Y4?start=217&end=316&autoplay=1&mute=1&loop=1&controls=0&rel=0" allowfullscreen></iframe>
+        </div>
+        <div class="caption">
+            ES-MoE: Scaling Beyond the GPU Memory Limit for Large Mixture-of-Experts Model Training (Credit: SOD)
+        </div>
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
     <div class="col-12 mt-3">
         {% include figure.html path="/assets/img/project/esmoe/esmoe.png" title="ES-MoE overlaps expert’s computation and communication and pipelines CPU optimization at the expert granularity." class="img-fluid" %}
         <div class="caption">

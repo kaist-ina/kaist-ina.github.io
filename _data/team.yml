@@ -39,10 +39,10 @@
   - name: ["Jaehyeong", "Park"]
     subtitle: "Ph.D. Student, School of Electrical Engineering"
     email: woguddlrj676@kaist.ac.kr
-    introduction: "I am a Ph.D. student at INA lab, KAIST advised by Dongsu Han.
-    I am interested in applying machine learning approach to design a new software for
-    Next-generation sequencing."
+    introduction: "I am a Ph.D. student at INA lab, KAIST advised by Dongsu Han. I am interested in DNN compiler for accelerating DNN model. I'm currently working on multi-level superoptimizer for tensor program."
     photo: /assets/img/profile/jaehyeong-park.jpg
+    homepage: https://jhpark676.github.io/
+    scholar: https://scholar.google.com/citations?user=tuwOJXMAAAAJ&hl=en
     
   - name: ["Jinyeong", "Lim"]
     subtitle: "Ph.D. Student, School of Electrical Engineering"
@@ -56,13 +56,13 @@
   - name: ["Taehyun", "Kim"]
     subtitle: "Master Student, School of Electrical Engineering"
     email: xogusrns123@kaist.ac.kr
-    introduction: "" 
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. My research interest is a WAN-distributed system for LLM inference." 
     photo: /assets/img/profile/taehyun-kim.jpg
 
   - name: ["Taehoon", "Kim"]
     subtitle: "Master Student, School of Electrical Engineering"
     email: taehoon0813@kaist.ac.kr
-    introduction: "" 
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in systems for efficient mixture-of-expert training and inference." 
     photo: /assets/img/profile/taehoon-kim.jpg
 
   - name: ["Seyeon", "Lee"]
@@ -80,6 +80,25 @@
     Feel free to reach me out via Linkedin or Email :D" 
     photo: /assets/img/profile/seunghwan-noh.jpg
     linkedin: https://www.linkedin.com/in/wn0680/
+
+  - name: ["Seungkook", "Lee"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    email: sklee07074@kaist.ac.kr
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. My research interest is in cloud-native cellular network design." 
+    photo: /assets/img/profile/seungkook-lee.jpg
+    linkedin: https://www.linkedin.com/in/seungkook-lee-67676b330/
+
+  - name: ["Youngchan", "Kim"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    email: chani227@kaist.ac.kr
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. My research interest is in efficient mixture-of-expert training system." 
+    photo: /assets/img/profile/youngchan-kim.jpg
+
+  - name: ["Seunggeun", "Cho"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    email: sgn.cho@kaist.ac.kr
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in distributed LLM inference systems."
+    photo: /assets/img/profile/seunggeun-cho.jpg
 
 "Alumni":
   - name: ["Hwijoon", "Lim"]
@@ -106,6 +125,11 @@
     email: jaehong950305@gmail.com
     scholar: https://scholar.google.com/citations?user=U55MerIAAAAJ&hl=en
     linkedin: https://linkedin.com/in/jaykim305
+  - name: ["Uitaek", "Hong"]
+    subtitle: "(M.S., 24) ML Engineer at maum.ai"
+    photo: /assets/img/profile/uitaek-hong2.jpg
+    homepage: https://unshapendwarf.github.io
+    email: hong.uitaek8422@gmail.com
   - name: ["Youngmok", "Jung"]
     subtitle: "(Ph.D., 24) AI research scientist at Genome Insight"
     introduction: "I am a PhD candidate at INA lab, KAIST advised by Dongsu Han. 
@@ -128,13 +152,11 @@
     photo: /assets/img/profile/yechan-kim.jpg
 
   - name: ["Hyunho", "Yeo"]
-    subtitle: "(Ph.D., 23) Machine Learning Engineer at Moloco ML-Infra"
+    subtitle: "(Ph.D., 23) Software Engineer at Meta (MTIA SW)"
     email: chaos5958@gmail.com
-    homepage: https://hyunhoyeo.com
     scholar: https://scholar.google.com/citations?user=xi1Zy7MAAAAJ
     linkedin: https://www.linkedin.com/in/hyunho-yeo/
     photo: /assets/img/profile/hyunho-yeo.jpg
-
 
   - name: ["Jeongmin", "Kim"]
     subtitle: "(Ph.D., 23) Network Group Manager at PiLab"

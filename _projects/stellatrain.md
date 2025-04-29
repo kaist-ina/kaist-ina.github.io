@@ -9,6 +9,17 @@ members: ['Hwijoon', 'Juncheol', 'Dongsu']
 ---
 
 <div class="row justify-content-sm-center">
+    <div class="col-md mt-3 col-md-10">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vvIG2Cw34Y4?start=133&end=215&autoplay=1&mute=1&loop=1&controls=0&rel=0" allowfullscreen></iframe>
+        </div>
+        <div class="caption">
+            Stellatrain: Accelerating Model Training in Multi-cluster Environments with Consumer-grade GPUs (Credit: SOD)
+        </div>
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
     <div class="col-12 mt-3">
         {% include figure.html path="/assets/img/project/stellatrain/stellatrain_compare.png" title="StellaTrain overview." class="img-fluid" %}
         <div class="caption">
