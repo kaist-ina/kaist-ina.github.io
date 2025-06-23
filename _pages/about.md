@@ -28,7 +28,7 @@ INA research group pursues innovative ideas in/for Internet services and applica
 
 INA research group provides a self-motivated atmosphere that allows for efficient research through flexible working hours. In the doctoral program, our research group provides the necessary training to become an independent researcher and become an expert in a particular field. There is also active exchange with foreign researchers, and Lab alumni have a strong network and receive many offers upon graduation, entering the industry, research lab, or academia as illustrated in [Alumni@INA](/alumni).
 
-**Open Position:** We are looking for graduate students and undergraduate research interns to join the INA lab (상시 채용). We have several interesting topics such as large-scale deep learning, neural volumetric streaming, and retrospective video analytics. You can find more information on [Join Us](/join-us) page.
+**Open Position:** We are looking for postdoctoral researchers, graduate students and undergraduate research interns to join the INA lab (상시 채용). We have several interesting topics such as large-scale deep learning, neural volumetric streaming, and retrospective video analytics. You can find more information on [Join Us](/join-us) page.
 
 
 &nbsp;
