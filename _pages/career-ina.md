@@ -129,7 +129,7 @@ We are looking for a postdoctoral research fellow.
 
 <p style="text-indent: 0">If you are interested in this postdoctoral research fellowship opportunity, please contact me (<a href="mailto:dhan.ee@kaist.ac.kr">dhan.ee@kaist.ac.kr</a>).
 Application instructions are available in the <a href="https://docs.google.com/forms/d/e/1FAIpQLSepPGO2jBo_RcDN_Xw6X3BbQn1szkw6ma9oULDvQbmavIq_Cw/viewform">Google Form</a>.
-We offer a highly competitive salary for high-quality young researchers. 
+We offer a highly competitive salary for high-quality young researchers. </p>
 
 <div style="margin-bottom: 50px"></div>
 
