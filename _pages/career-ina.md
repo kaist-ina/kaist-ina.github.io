@@ -124,11 +124,12 @@ in-depth interactions with KAIST students.</p>
 
 ### <span class="font-weight-bold"> Postdoctoral Researchers (InnoCORE Research Fellow)
 
-Our group is part of the <a href="https://lnkd.in/gAJcvnF4">InnoCORE Research Group</a> focused on "Hyper-scale Language Model Innovation Research," advancing LLM technology and conducting research on generative AI, multimodal AI, and ensuring reliability.
-We are looking for a postdoctoral research fellow.
+INA research group is part of the <a href="https://lnkd.in/gAJcvnF4">InnoCORE Research Group</a> focused on "Hyper-scale Language Model Innovation Research," advancing LLM technology and conducting research on generative AI, multimodal AI, and ensuring reliability.
+We are looking for postdoctoral research fellows.
 
 <p style="text-indent: 0">If you are interested in this postdoctoral research fellowship opportunity, please contact me (<a href="mailto:dhan.ee@kaist.ac.kr">dhan.ee@kaist.ac.kr</a>).
 Application instructions are available in the <a href="https://docs.google.com/forms/d/e/1FAIpQLSepPGO2jBo_RcDN_Xw6X3BbQn1szkw6ma9oULDvQbmavIq_Cw/viewform">Google Form</a>.
+We are recruiting continuously over the next 5 years (~2030). Please indicate your preferred start date when applying.
 We offer a highly competitive salary for high-quality young researchers. </p>
 
 <div style="margin-bottom: 50px"></div>
