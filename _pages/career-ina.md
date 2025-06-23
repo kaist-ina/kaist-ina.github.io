@@ -122,6 +122,17 @@ in-depth interactions with KAIST students.</p>
     }
 </script>
 
+### <span class="font-weight-bold"> Postdoctoral Researchers (InnoCORE Research Fellow)
+
+Our group is part of the <a href="https://lnkd.in/gAJcvnF4">InnoCORE Research Group</a> focused on "Hyper-scale Language Model Innovation Research," advancing LLM technology and conducting research on generative AI, multimodal AI, and ensuring reliability.
+We are looking for a postdoctoral research fellow.
+
+<p style="text-indent: 0">If you are interested in this postdoctoral research fellowship opportunity, please contact me (<a href="mailto:dhan.ee@kaist.ac.kr">dhan.ee@kaist.ac.kr</a>).
+Application instructions are available in the <a href="https://docs.google.com/forms/d/e/1FAIpQLSepPGO2jBo_RcDN_Xw6X3BbQn1szkw6ma9oULDvQbmavIq_Cw/viewform">Google Form</a>.
+We offer a highly competitive salary for high-quality young researchers. 
+
+<div style="margin-bottom: 50px"></div>
+
 ### <span class="font-weight-bold"> Graduate Students (Masters and Ph.D)
 
 INA research group is actively seeking highly motivated graduate students who are interested in pursuing research in the areas of Internet services and applications, cloud infrastructure, and systems that support artificial intelligence. Our research group has a strong track record of conducting cutting-edge research and has published numerous papers in top-tier conferences and journals. We encourage interested students to visit our [Projects](/projects) and [Publications](/publications) pages to learn more about our previous research.
@@ -133,6 +144,5 @@ As a member of our research group, you will have access to a self-motivated and 
 <div style="margin-bottom: 50px"></div>
 
 ### <span class="font-weight-bold"> Undergraduates (Individual Study, URP)
-
 
 INA research group is currently seeking undergraduate research interns (상시 채용). If you are interested in conducting research on any of the topics in <a href="/projects">Projects</a>, please send us your resume and transcript to ina.interview@gmail.com.
