@@ -100,6 +100,12 @@
     introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in distributed LLM inference systems."
     photo: /assets/img/profile/seunggeun-cho.jpg
 
+  - name: ["Le", "Tu", "Ngoc", "Minh"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    email: letungocminh@gmail.com
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. My research interest is in Video Generation and Video Understanding System."
+    photo: /assets/img/profile/letungocminh.jpg
+
 "Alumni":
   - name: ["Hwijoon", "Lim"]
     subtitle: "(Ph.D., 24) Research Scientist at Meta"
