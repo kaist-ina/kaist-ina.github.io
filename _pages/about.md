@@ -13,7 +13,7 @@ social: false  # includes social icons at the bottom of the page
 
 <div class="row justify-content-sm-center">
     <div class="col-md mt-3 col-md-12">
-        <a href="/assets/pdf/INA-poster-202305-web.pdf" target="_blank">
+        <a href="/assets/pdf/INA-poster-202508-web.pdf" target="_blank">
             {% include figuren.html path="/assets/img/main/ina25spring_crop2.jpg" title="Lab members" alt="Lab members" class="img-fluid rounded z-depth-1 main-image-1" %}
         </a>
         <div class="caption">
