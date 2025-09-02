@@ -15,7 +15,7 @@ profile:
             Email: dongsu.han (at) gmail.com"
 ---
 <p class="profile-buttons">
-    <a class="btn z-depth-0" href="/assets/profile/dongsuh/HAN-CV.pdf">CV</a>
+    <a class="btn z-depth-0" href="/assets/profile/dongsuh/HAN-CV-2025-Sep.pdf">CV</a>
     <a class="btn z-depth-0" href="https://scholar.google.co.kr/citations?user=NMggRxkAAAAJ">Google Scholar</a>
     <a class="btn z-depth-0" href="mailto:dongsu.han@gmail.com">Email</a>
 </p>
