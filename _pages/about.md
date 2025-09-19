@@ -50,19 +50,19 @@ Currently, INA Lab is conducting research in three different directions, which a
     </div>
 </div>
 
-#### _<i class="fa fa-robot mr-2 mt-3"></i>_  **Systems for AI and Cloud**
+#### _<i class="fa fa-robot mr-2 mt-3"></i>_  **AI/ML Systems and Infrastructure**
 - Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe), [ICML'24](/projects/esmoe), [SIGCOMM'24a](/projects/stellatrain)]
 - Accelerating DNA sequencing by learned index [[Bioinformatics'22](/projects/bwa-meme)]
 - Optimizing microservice auto-scaling by graph neural networks [[CoNEXT'21](/projects/graf), [SIGCOMM'24b](/projects/topfull)]
 - Optimizing systems for LLM training and inference
 
-#### _<i class="fa fa-photo-video mr-2"></i>_ **AI-augmented Media Delivery**
+#### _<i class="fa fa-photo-video mr-2"></i>_ **AI-enabled Media Delivery**
 <!-- - Improving video streaming quality by neural super-resolution -->
 - Incorporating neural enhancement with adaptive video streaming [[OSDI'18](/projects/nas), [SIGCOMM'20](/projects/livenas)]
 - Accelerating neural enhancement at scale [[MobiCom'20](/projects/nemo/), [SIGCOMM'22](/projects/neuroscaler)]
 - Optimizing traditional image codecs for neural enhancement [[CVPR'23](/projects/accelir)]
 
-#### _<i class="fa fa-cloud mr-2"></i>_  **Networked Systems (Data center, 5G) / Systems Security**
+#### _<i class="fa fa-cloud mr-2"></i>_  **Intelligent Networked Systems (Data center, 5G) / Systems Security**
 - Integrating trusted execution environment with conventional networked systems [[NSDI'17, ToN'20, ToN'22](/projects/sgx)]
 - Optimizing network resource and wireless spectral efficiency under 5G, 6G environments [[CoNEXT'22](/projects/outran)]
 - Improving congestion control schemes for datacenter networking [[SIGCOMM'17](/projects/expresspass), [EuroSys'21](/projects/tlt), [EuroSys'23](/projects/flexpass)]
