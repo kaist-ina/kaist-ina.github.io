@@ -13,6 +13,13 @@ bundle exec jekyll serve --host <hostname>
 ```
 For `hostname`, use ip or FQDN.
 
+### Docker Compose
+
+```bash
+cd <repository-dir>
+docker compose up
+```
+
 ## How to deploy
 Updates on this repository will be automatically deployed in 5 minutes.
 
