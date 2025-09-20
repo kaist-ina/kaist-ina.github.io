@@ -115,6 +115,9 @@
           {%- if entry.html %}
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">Paper</a>
           {%- endif %}
+          {%- if entry.preprint %}
+            <a href="{{ entry.preprint }}" class="btn btn-sm z-depth-0" role="button">Preprint</a>
+          {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
             <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
