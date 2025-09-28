@@ -54,13 +54,14 @@ Currently, INA Lab is conducting research in three different directions, which a
 - Accelerating training for large-scale deep neural networks [[ICML'22](/projects/tspipe), [ICML'24](/projects/esmoe), [SIGCOMM'24a](/projects/stellatrain)]
 - Accelerating DNA sequencing by learned index [[Bioinformatics'22](/projects/bwa-meme)]
 - Optimizing microservice auto-scaling by graph neural networks [[CoNEXT'21](/projects/graf), [SIGCOMM'24b](/projects/topfull)]
-- Optimizing systems for LLM training and inference
+- Optimizing systems for LLM training and inference [SOSP'25, [NeurIPS'25](/projects/specedge)]
 
 #### _<i class="fa fa-photo-video mr-2"></i>_ **AI-enabled Media Delivery**
 <!-- - Improving video streaming quality by neural super-resolution -->
 - Incorporating neural enhancement with adaptive video streaming [[OSDI'18](/projects/nas), [SIGCOMM'20](/projects/livenas)]
 - Accelerating neural enhancement at scale [[MobiCom'20](/projects/nemo/), [SIGCOMM'22](/projects/neuroscaler)]
 - Optimizing traditional image codecs for neural enhancement [[CVPR'23](/projects/accelir)]
+- Automatic audio description generation for accessible media \[WACV'25\]
 
 #### _<i class="fa fa-cloud mr-2"></i>_  **Intelligent Networked Systems (Data center, 5G) / Systems Security**
 - Integrating trusted execution environment with conventional networked systems [[NSDI'17, ToN'20, ToN'22](/projects/sgx)]
