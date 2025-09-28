@@ -4,7 +4,7 @@ title: APPx
 description: Automatically generates acceleration proxies for mobile apps
 img: /assets/img/project/appx/appx.png
 importance: 10000
-category: "Networking"
+category: "Intelligent Networked Systems/Systems Security"
 members: ['Byungkwon', 'Jeongmin', 'Daeyang', 'Seongmin', 'Dongsu']
 ---
 <h4>APPx: Accelerating Mobile Applications leveraging Static Program Analysis</h4>

@@ -4,7 +4,7 @@ title: StellaTrain
 description: A holistic framework that achieves near-optimal training speeds in multi-cloud environments.
 img: /assets/img/project/stellatrain/stellatrain.png
 importance: 9995
-category: Systems for AI and Cloud
+category: AI/ML Systems and Infrastructure
 members: ['Hwijoon', 'Juncheol', 'Dongsu']
 ---
 

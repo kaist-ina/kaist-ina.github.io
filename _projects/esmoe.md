@@ -4,7 +4,7 @@ title: ES-MoE
 description: Efficient scaling of Mixture-of-Experts training on a limited number of GPUs.
 img: /assets/img/project/esmoe/esmoe.png
 importance: 9996
-category: Systems for AI and Cloud
+category: AI/ML Systems and Infrastructure
 members: ['Yechan', 'Hwijoon', 'Dongsu']
 ---
 

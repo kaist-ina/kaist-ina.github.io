@@ -5,7 +5,7 @@ permalink: /projects/
 description: ''
 nav: true
 
-display_categories: ["Systems for AI and Cloud", "Neural-enhanced Media Streaming", "Networking"]
+display_categories: ["AI/ML Systems and Infrastructure", "AI-enabled Media Delivery", "Intelligent Networked Systems/Systems Security"]
 horizontal: false
 ---
 

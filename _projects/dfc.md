@@ -4,7 +4,7 @@ title: DFC
 description: High-Performance String Matching Algorithm that accelerates network middlebox applications
 img: /assets/img/project/dfc/dfc.png
 importance: 10001
-category: "Networking"
+category: "Intelligent Networked Systems/Systems Security"
 members: ['Byungkwon', 'Dongsu']
 ---
 

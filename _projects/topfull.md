@@ -4,7 +4,7 @@ title: TopFull
 description: An Adaptive Top-Down Overload Control for Microservices.
 img: /assets/img/project/topfull/topfull.png
 importance: 9995
-category: Systems for AI and Cloud
+category: AI/ML Systems and Infrastructure
 members: ['Jinwoo', 'Jaehyeong', 'Youngmok', 'Hwijoon', 'Hyunho', 'Dongsu']
 ---
 

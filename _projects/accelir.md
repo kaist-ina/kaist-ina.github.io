@@ -5,7 +5,7 @@ description: Accelerate image-restoration for image compression
 img: /assets/img/project/accelir/accelir.png
 redirect_from: /~accelir
 importance: 9996
-category: Neural-enhanced Media Streaming
+category: AI-enabled Media Delivery
 members: ['Juncheol', 'Hyunho', 'Jinwoo', 'Dongsu']
 ---
 <!-- <p class="profile-buttons">

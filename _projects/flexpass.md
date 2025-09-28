@@ -4,7 +4,7 @@ title: FlexPass
 description: Flexible and practical proactive transport protocol for datacenter networks
 img: /assets/img/project/flexpass/design_overview.png
 importance: 9996
-category: "Networking"
+category: "Intelligent Networked Systems/Systems Security"
 members: ['Hwijoon', 'Jaehong', 'Inho', 'Dongsu']
 ---
 
