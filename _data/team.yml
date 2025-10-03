@@ -99,6 +99,9 @@
   - name: ["Seunggeun", "Cho"]
     subtitle: "Master Student, School of Electrical Engineering"
     email: sgn.cho@kaist.ac.kr
+    github: https://github.com/sgncho
+    homepage: https://sgncho.com
+    scholar: https://scholar.google.com/citations?user=4xmtJs8AAAAJ
     introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in distributed LLM inference systems."
     photo: /assets/img/profile/seunggeun-cho.jpg
 
