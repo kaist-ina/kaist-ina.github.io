@@ -17,7 +17,14 @@ members: ['Youngmok', 'Dongsu']
     </div>
 </div>
 
-
+<div class="mb-4">
+  <a href="https://bioconda.github.io/recipes/bwa-meme/README.html">
+    <img src="https://anaconda.org/bioconda/bwa-meme/badges/version.svg" />
+  </a>
+  <a href="https://bioconda.github.io/recipes/bwa-meme/README.html">
+    <img src="https://anaconda.org/bioconda/bwa-meme/badges/downloads.svg" />
+  </a>
+</div>
 
 <h3>Summary</h3>
 The growing use of next-generation sequencing and enlarged sequencing throughput require efficient
