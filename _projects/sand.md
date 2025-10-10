@@ -9,7 +9,7 @@ members: ['Juncheol', 'Seungkook', 'Hwijoon', 'Uitaek', 'Dongsu']
 
 <div class="row justify-content-sm-center">
     <div class="col-12 mt-3">
-        {% include figure.html path="/assets/img/project/specedge/sand.png" title="SAND provides view abstraction for VDL training object, while maximizing object reuse to avoid redundant video preprocessing" class="img-fluid" %}
+        {% include figure.html path="/assets/img/project/sand/sand.png" title="SAND provides view abstraction for VDL training object, while maximizing object reuse to avoid redundant video preprocessing" class="img-fluid" %}
         <div class="caption">
           SAND provides view abstraction for VDL training object, while maximizing object reuse to avoid redundant video preprocessing
         </div>
@@ -40,10 +40,6 @@ based hyperparameter search and distributed data parallel
  and 2.9× over CPU and GPU baselines, respectively, while
  reducing preprocessing code complexity from hundreds or
  thousands of lines to fewer than 10.
-<h3>Publications</h3>
-<div class="publications">
-{% bibliography -f papers -q @*[project=specedge]* %}
-</div>
 
 <h3>Publications</h3>
 <div class="publications">
