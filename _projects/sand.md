@@ -2,7 +2,7 @@
 layout: page
 title: SAND
 description: A New Programming Abstraction for Video-based Deep Learning
-img: /assets/img/project/specedge/sand.png
+img: /assets/img/project/sand/sand.png
 category: AI/ML Systems and Infrastructure
 members: ['Juncheol', 'Seungkook', 'Hwijoon', 'Uitaek', 'Dongsu']
 ---
