@@ -1,9 +1,9 @@
 ---
 layout: page
-title: SAND
-description: A New Programming Abstraction for Video-based Deep Learning
+title: NarrAD
+description: AI-based system for generating barrier-free audio descriptions
 img: /assets/img/project/narrad/narrad.png
-category: AI/ML Systems and Infrastructure
+category: AI-enabled Media Delivery
 members: ['Jaehyeong', 'Juncheol', 'Seungkook', 'Dongsu']
 ---
 
