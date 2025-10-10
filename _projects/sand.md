@@ -8,7 +8,7 @@ members: ['Juncheol', 'Seungkook', 'Hwijoon', 'Uitaek', 'Dongsu']
 ---
 
 <div class="row justify-content-sm-center">
-    <div class="col-12 mt-3">
+    <div class="col-md mt-3 col-md-6">
         {% include figure.html path="/assets/img/project/sand/sand.png" title="SAND provides view abstraction for VDL training object, while maximizing object reuse to avoid redundant video preprocessing" class="img-fluid" %}
         <div class="caption">
           SAND provides view abstraction for VDL training object, while maximizing object reuse to avoid redundant video preprocessing
