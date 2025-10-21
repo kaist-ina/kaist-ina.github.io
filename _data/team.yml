@@ -14,7 +14,7 @@
 "Postdoctoral Researcher":
   - name: ["Jeonghun", "Lee"]
     subtitle: "Postdoctoral Researcher, Information \ & Electronics Research Institute"
-    introduction: "I am a postdoctoral researcher at the KAIST INA Lab. I received my Ph.D. in Physics from Simon Fraser University in 2023. My research focuses on developing efficient large language model (LLM) serving systems leveraging distributed networks and consumer-grade GPUs. I aim to make these systems scalable and easily deployable, enabling broader access to advanced AI technologies."
+    introduction: "I am a postdoctoral researcher at KAIST INA Lab. I received my Ph.D. in Physics from Simon Fraser University in 2023. My research focuses on developing efficient large language model (LLM) serving systems leveraging distributed networks and consumer-grade GPUs. I aim to make these systems scalable and easily deployable, enabling broader access to advanced AI technologies."
     photo: /assets/img/profile/jeonghun-lee-2.jpg
     email: jhlee727@kaist.ac.kr
     linkedin: https://www.linkedin.com/in/jeonghun-lee-416224b8/
