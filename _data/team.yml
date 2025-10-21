@@ -11,6 +11,21 @@
     scholar: https://scholar.google.com/citations?user=NMggRxkAAAAJ
     homepage: /team/dongsuh
 
+"Postdoctoral Researcher":
+  - name: ["Jeonghun", "Lee"]
+    subtitle: "Postdoctoral Researcher, Information \ & Electronics Research Institute"
+    introduction: "I am a postdoctoral researcher at the KAIST INA Lab. I received my Ph.D. in Physics from Simon Fraser University in 2023. My research focuses on developing efficient large language model (LLM) serving systems leveraging distributed networks and consumer-grade GPUs. I aim to make these systems scalable and easily deployable, enabling broader access to advanced AI technologies."
+    photo: /assets/img/profile/jeonghun-lee-2.jpg
+    email: jhlee727@kaist.ac.kr
+    linkedin: https://www.linkedin.com/in/jeonghun-lee-416224b8/
+
+  - name: ["Wooseung", "Nam"]
+    subtitle: "Postdoctoral Researcher, Information \ & Electronics Research Institute"
+    introduction: "I am a postdoctoral researcher at KAIST INA Lab. I received a Ph.D from Electrical and Computer Engineering at Seoul National University in 2025. My research interests include AI for systems; adaptive neural video streaming; real-time metaverse applications; and multimodal learning with VLM/VLA for inference at scale."
+    photo: /assets/img/profile/wooseung-nam.jpg
+    email: wsnam@kaist.ac.kr
+    scholar: https://scholar.google.com/citations?user=PKFEz-YAAAAJ&hl=ko&oi=ao
+
 "Ph.D. Student":
   - name: ["Jinwoo", "Park"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
