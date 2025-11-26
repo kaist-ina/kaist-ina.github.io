@@ -110,7 +110,7 @@
 
 "Alumni":
   - name: ["Jinwoo", "Park"]
-    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
+    subtitle: "(Ph.D., 25) System Software Engineer at MangoBoost"
     introduction: "My research interests focus on applying AI to the system. Specifically, my research aims to enhance performance of the systems by integrating a novel AI technique to the system design."
     photo: /assets/img/profile/jinwoo-park.jpg
     homepage: https://jinwoo520528.github.io/
@@ -119,7 +119,7 @@
     linkedin: https://www.linkedin.com/in/jinwoo520528/
 
   - name: ["Seunghwan", "Noh"]
-    subtitle: "Master Student, School of Electrical Engineering"
+    subtitle: "Republic of Korea Air Force"
     email: shnoh@kaist.ac.kr
     introduction: "Hii! I'm an EE Master's student advised by prof. Dongsu Han.
     I'm interested in systems for ML, especially distributed systems for training/inference.
