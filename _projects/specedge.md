@@ -11,7 +11,7 @@ members: ['Jinwoo', 'Seunggeun', 'Dongsu']
     <div class="col-12 mt-3">
         {% include figure.html path="/assets/img/project/specedge/specedge.png" title="Abstract timeline of SpecEdge with draft (edgeside) and verify (server-side) inference concept." class="img-fluid" %}
         <div class="caption">
-          Abstract timeline of SpecEdge with draft (edgeside) and verify (server-side) inference concept.
+          Abstract diagram of SpecEdge with draft (edgeside) and verify (server-side) inference concept.
         </div>
     </div>
 </div>
