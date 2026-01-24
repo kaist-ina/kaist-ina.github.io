@@ -36,7 +36,7 @@ INA research group provides a self-motivated atmosphere that allows for efficien
 ## **Research**
 
 
-INA has published 15+ papers at top-tier systems conferences, including SIGCOMM, NSDI, and OSDI, **ranking 1st in Korea** (refer to [link](https://csrankings.org/#/fromyear/2012/toyear/2024/index?comm&kr)).
+INA has published 15+ papers at top-tier systems conferences, including SIGCOMM, NSDI, and OSDI, **ranking 1st in Korea** (refer to [link](https://csrankings.org/#/fromyear/2012/toyear/2026/index?comm&ops&kr)).
 Currently, INA Lab is conducting research in three different directions, which are listed below. You can find a full list of projects and publications on [Project@INA](/projects) and [Publication@INA](/publications).
 
 <div class="row justify-content-sm-center">
