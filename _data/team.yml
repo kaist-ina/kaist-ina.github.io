@@ -108,6 +108,13 @@
     introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. My research interest is in Video Generation and Video Understanding System."
     photo: /assets/img/profile/letungocminh.jpg
 
+  - name: ["Jihyuk", "Lee"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    email: jihyuk.lee@kaist.ac.kr
+    scholar: https://scholar.google.com/citations?user=oi_soEIAAAAJ
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in MLSys for LLM and VLA."
+    photo: /assets/img/profile/jihyuk-lee.jpg
+
 "Alumni":
   - name: ["Jinwoo", "Park"]
     subtitle: "(Ph.D., 25) System Software Engineer at MangoBoost"
