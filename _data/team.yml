@@ -90,7 +90,7 @@
   - name: ["Youngchan", "Kim"]
     subtitle: "Master Student, School of Electrical Engineering"
     email: chani227@kaist.ac.kr
-    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. My research interest is in efficient mixture-of-expert training system." 
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. My research interest is in DNN compiler." 
     photo: /assets/img/profile/youngchan-kim.jpg
 
   - name: ["Seunggeun", "Cho"]
