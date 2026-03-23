@@ -115,6 +115,12 @@
     introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in MLSys for LLM and VLA."
     photo: /assets/img/profile/jihyuk-lee.jpg
 
+  - name: ["Sanmaru", "Um"]
+    subtitle: "Master Student, School of Electrical Engineering"
+    email: um3maru@kaist.ac.kr
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in tensor compilers and inference system."
+    photo: /assets/img/profile/sanmaru-um.jpg
+
 "Alumni":
   - name: ["Jinwoo", "Park"]
     subtitle: "(Ph.D., 25) System Software Engineer at MangoBoost"
