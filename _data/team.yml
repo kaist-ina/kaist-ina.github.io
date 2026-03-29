@@ -91,6 +91,7 @@
     subtitle: "Master Student, School of Electrical Engineering"
     email: chani227@kaist.ac.kr
     introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. My research interest is in DNN compiler." 
+    scholar: https://scholar.google.com/citations?user=_cijnkAAAAAJ&hl=ko
     photo: /assets/img/profile/youngchan-kim.jpg
 
   - name: ["Seunggeun", "Cho"]
