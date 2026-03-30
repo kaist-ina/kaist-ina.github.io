@@ -13,10 +13,16 @@ members: ['Jaehong', 'Yunheon', 'Dongsu']
 </p> -->
 
 <div class="row justify-content-sm-center">
-    <div class="col-md mt-3 col-md-6">
+    <div class="col-md mt-3 mt-md-0 col-md-6">
         {% include figure.html path="/assets/img/project/blendr/blendr.png" title="BlenDR" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
              BlenDR Y-Depth UV Multiplexing Design.
+        </div>
+    </div>
+    <div class="col-md mt-3 mt-md-0 col-md-6">
+        {% include figure.html path="/assets/img/project/blendr/blendr_system.png" title="BlenDR" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+             BlenDR end-to-end system.
         </div>
     </div>
 </div>
