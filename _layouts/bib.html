@@ -161,6 +161,9 @@
           {%- if entry.demo %}
             <a href="/projects/{{ entry.project }}/demo" class="btn btn-sm z-depth-0" role="button">Demo</a>
           {%- endif %}
+	  {%- if entry.errata %}
+	    <a href="{{ entry.errata }}" class="btn btn-sm z-depth-0" role="button">Errata</a>
+	  {%- endif %}
           </div>
 
           {% if entry.abstract -%}
