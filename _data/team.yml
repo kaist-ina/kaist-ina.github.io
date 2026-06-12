@@ -1,11 +1,11 @@
 "Principal Investigator":
   - name: ["Dongsu", "Han"]
     subtitle: "Professor"
-    introduction: I am a professor at KAIST (Department of Electrical Engineering and
-      Graduate School of Artificial Intelligence). I received a Ph.D. from the Computer Science Department
+    introduction: I am a professor at KAIST (Kim Jaechul Graduate School of AI).
+      I received a Ph.D. from the Computer Science Department
       at Carnegie Mellon University in 2012. My research interests include networked/cloud systems design, AI for systems, and systems for AI. Students interested in
       research are welcome to contact me at dongsu.han@gmail.com.
-    location: KAIST N1 814 (Daehak-ro 291, Yuseong-Gu, Daejeon, Republic of Korea 34141)
+    location: KAIST Seoul AI Hub (141 Umyeon-dong, Seocho-gu, Seoul, Republic of Korea)
     email: dongsu.han@gmail.com
     photo: /assets/img/profile/dongsu-han.jpg
     scholar: https://scholar.google.com/citations?user=NMggRxkAAAAJ

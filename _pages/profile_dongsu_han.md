@@ -4,13 +4,13 @@ permalink: /team/dongsuh
 first_name: Dongsu
 last_name: Han
 title: Dongsu Han
-subtitle: 한동수 KAIST 전기및전자공학부 교수
+subtitle: 한동수 KAIST 김재철AI대학원 교수
 redirect_from: /~dongsuh/
 profile: 
   image: profile/dongsu-han.jpg
-  address: "School of Electrical Engineering, KAIST <br>
-            Building: N1, Office: 814 <br>
-            291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea<br>
+  address: "Kim Jaechul Graduate School of AI, KAIST <br>
+            Seoul AI Hub <br>
+            141 Umyeon-dong, Seocho-gu, Seoul, Republic of Korea<br>
             Email: dongsuh (at) ee.kaist.ac.kr <br>
             Email: dongsu.han (at) gmail.com"
 ---
@@ -23,7 +23,7 @@ profile:
 
 
 
-I am a professor at **KAIST** (School of Electrical Engineering and Graduate School of Artificial Intelligence). I received a Ph.D. from the Computer Science Department at Carnegie Mellon University in 2012. My research interests include networked/cloud systems design, AI for systems, and systems for AI. Students interested in research are welcome to contact me at <dongsu.han@gmail.com>.
+I am a professor at **KAIST** (Kim Jaechul Graduate School of AI). I received a Ph.D. from the Computer Science Department at Carnegie Mellon University in 2012. My research interests include networked/cloud systems design, AI for systems, and systems for AI. Students interested in research are welcome to contact me at <dongsu.han@gmail.com>.
 
 ### Research Projects
 ##### Systems for AI and Cloud
