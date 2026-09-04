@@ -143,7 +143,8 @@
     github: https://github.com/muchwater
     homepage: https://muchwater.github.io/
     introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in LLM inference system on agentic workloads"
-    photo: 
+    linkedin: https://www.linkedin.com/in/junhyeongjeon/
+    photo:  /assets/img/profile/junhyeong-jeon.jpg
 
   - name: ["Vincent", "Alec Franco Baguio"]
     subtitle: "Master Student, Graduate School of AI"
