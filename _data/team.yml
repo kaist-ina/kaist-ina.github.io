@@ -26,6 +26,11 @@
     email: wsnam@kaist.ac.kr
     scholar: https://scholar.google.com/citations?user=PKFEz-YAAAAJ&hl=ko&oi=ao
 
+  - name: ["Insup", "Lee"]
+    subtitle: "Postdoctoral Researcher, Information \ & Electronics Research Institute"
+    introduction: "TBD"
+    photo: 
+
 "Ph.D. Student":
   - name: ["Juncheol", "Ye"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
@@ -61,22 +66,27 @@
     photo: /assets/img/profile/jinyeong-Lim.jpg
 
   - name: ["Taehyun", "Kim"]
-    subtitle: "Ph.D. School of Electrical Engineering"
+    subtitle: "Ph.D. Student, School of Electrical Engineering"
     email: xogusrns123@kaist.ac.kr
     introduction: "I am a Ph. D. student at INA lab, KAIST advised by Dongsu Han. My research interest is a WAN-distributed system for LLM inference." 
     photo: /assets/img/profile/taehyun-kim.jpg
 
   - name: ["Taehoon", "Kim"]
-    subtitle: "Ph.D. School of Electrical Engineering"
+    subtitle: "Ph.D. Student, School of Electrical Engineering"
     email: taehoon0813@kaist.ac.kr
     introduction: "I am a Ph. D. student at INA lab, KAIST advised by Dongsu Han. I'm interested in systems for efficient mixture-of-expert training and inference." 
     photo: /assets/img/profile/taehoon-kim.jpg
 
   - name: ["Seyeon", "Lee"]
-    subtitle: "Ph.D. Graduate School of AI"
+    subtitle: "Ph.D. Student, Graduate School of AI"
     email: thisisseyeon@kaist.ac.kr
     introduction: "I am a Ph. D. student at INA lab, KAIST advised by Dongsu Han.
     I'm interested in neural-enhanced media streaming and AI." 
+    photo: 
+
+    - name: ["Sirui", "Li"]
+    subtitle: "Ph.D. Student, Graduate School of AI"
+    introduction: "TBD" 
     photo: 
 
 "M.S. Student":
@@ -121,6 +131,24 @@
     email: um3maru@kaist.ac.kr
     introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in tensor compilers and inference system."
     photo: /assets/img/profile/sanmaru-um.jpg
+
+  - name: ["Jaewoong", "Choi"]
+    subtitle: "Master Student, Graduate School of AI"
+    introduction: "TBD"
+    photo: 
+
+  - name: ["Junhyeong", "Jeon"]
+    subtitle: "Master Student, Graduate School of AI"
+    email: muchwater@kaist.ac.kr
+    github: https://github.com/muchwater
+    homepage: https://muchwater.github.io/
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in LLM inference system on agentic workloads"
+    photo: 
+
+  - name: ["Vincent", "Alec Franco Baguio"]
+    subtitle: "Master Student, Graduate School of AI"
+    introduction: "TBD"
+    photo: 
   
   - name: ["Wonjun", "Song"]
     subtitle: "Master Student, Graduate School of AI"
