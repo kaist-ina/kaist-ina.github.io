@@ -28,8 +28,13 @@
 
   - name: ["Insup", "Lee"]
     subtitle: "Postdoctoral Researcher, Information \ & Electronics Research Institute"
-    introduction: "TBD"
-    photo: 
+    introduction: "I am a postdoctoral researcher at KAIST INA Lab. I received a Ph.D. in Cybersecurity from Korea University in 2026. My research lies at the intersection of security and AI systems. I currently work on accelerating demonstrations for faster VLA policies, and aim to improve the safety and trustworthiness of physical AI."
+    photo: /assets/img/profile/insup-lee.jpg
+    email: islee94@kaist.ac.kr
+    homepage: https://insuplee.github.io/
+    linkedin: https://www.linkedin.com/in/insuplee/
+    scholar: https://scholar.google.com/citations?user=cTyq1WcAAAAJ
+    
 
 "Ph.D. Student":
   - name: ["Juncheol", "Ye"]
@@ -136,14 +141,16 @@
     email: muchwater@kaist.ac.kr
     github: https://github.com/muchwater
     homepage: https://muchwater.github.io/
-    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in LLM inference system on agentic workloads"
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in LLM inference system on agentic workloads."
     linkedin: https://www.linkedin.com/in/junhyeongjeon/
-    photo:  /assets/img/profile/junhyeong-jeon.jpg
-
-  - name: ["Vincent", "Alec Franco Baguio"]
-    subtitle: "Master Student, Graduate School of AI"
-    introduction: "TBD"
     photo: 
+
+  - name: ["Vincent", "Alec Baguio"]
+    subtitle: "Master Student, Graduate School of AI"
+    introduction: "I am a MS student at INA lab, KAIST advised by  Dongsu Han. I'm interested in Systems for AI."
+    photo: /assets/img/profile/vincent-baguio.jpg
+    email: vafbaguio@kaist.ac.kr
+    linkedin: https://www.linkedin.com/in/vincentbaguio/
   
   - name: ["Wonjun", "Song"]
     subtitle: "Master Student, Graduate School of AI"
