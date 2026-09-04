@@ -121,6 +121,14 @@
     email: um3maru@kaist.ac.kr
     introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in tensor compilers and inference system."
     photo: /assets/img/profile/sanmaru-um.jpg
+  
+  - name: ["Wonjun", "Song"]
+    subtitle: "Master Student, Graduate School of AI"
+    email: jakeswj@kaist.ac.kr
+    github: https://github.com/WJwonjun
+    homepage: https://wjwonjun.github.io/
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in tensor program optimization using agentic systems."
+    photo: /assets/img/profile/wonjun-song.jpg
 
 "Alumni":
   - name: ["Jinwoo", "Park"]
