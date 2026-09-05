@@ -91,8 +91,9 @@
 
   - name: ["Sirui", "Li"]
     subtitle: "Ph.D. Student, Graduate School of AI"
-    introduction: "TBD" 
-    photo: 
+    introduction: "I am a Ph. D. student at INA lab, KAIST, advised by Dongsu Han. I'm interested in web agents and AI systems."
+    email: siruili@kaist.ac.kr
+    photo: /assets/img/profile/sirui-li.jpg
 
 "M.S. Student":
   - name: ["Seungkook", "Lee"]
