@@ -134,8 +134,10 @@
 
   - name: ["Jaeung", "Choi"]
     subtitle: "Master Student, Graduate School of AI"
-    introduction: "TBD"
-    photo: 
+    email: jaeungchoi@kaist.ac.kr
+    github: https://github.com/choi-jaeung
+    introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in distributed AI systems"
+    photo: /assets/img/profile/jaeung-choi.jpg
 
   - name: ["Junhyeong", "Jeon"]
     subtitle: "Master Student, Graduate School of AI"
