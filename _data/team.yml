@@ -27,23 +27,24 @@
     scholar: https://scholar.google.com/citations?user=PKFEz-YAAAAJ&hl=ko&oi=ao
 
   - name: ["Insup", "Lee"]
-    subtitle: "Postdoctoral Researcher, Information \ & Electronics Research Institute"
+    subtitle: "Postdoctoral Researcher, InnoCORE-LLM"
     introduction: "I am a postdoctoral researcher at KAIST INA Lab. I received a Ph.D. in Cybersecurity from Korea University in 2026. My research lies at the intersection of security and AI systems. I currently work on accelerating demonstrations for faster VLA policies, and aim to improve the safety and trustworthiness of physical AI."
     photo: /assets/img/profile/insup-lee.jpg
     email: islee94@kaist.ac.kr
     homepage: https://insuplee.github.io/
     linkedin: https://www.linkedin.com/in/insuplee/
     scholar: https://scholar.google.com/citations?user=cTyq1WcAAAAJ
-    
 
-"Ph.D. Student":
   - name: ["Juncheol", "Ye"]
-    subtitle: "Ph.D. Candidate, School of Electrical Engineering"
-    introduction: "I am a Ph.D. student at INA lab. Currently, I am interested in Systems for AI and AI for Systems"
+    subtitle: "Postdoctoral Researcher, InnoCORE-LLM"
+    introduction: "I am a postdoctoral researcher at KAIST INA Lab. Currently, I am interested in Systems for AI and AI for Systems"
     photo: /assets/img/profile/juncheol-ye.jpg
     email: juncheolye@gmail.com
     scholar: https://scholar.google.com/citations?user=gafvSCwAAAAJ&hl=en
     homepage: https://juncheolye.github.io/cv_repo/docs/cv_latest.pdf
+
+"Ph.D. Student":
+
 
   - name: ["Yunheon", "Lee"]
     subtitle: "Ph.D. Candidate, School of Electrical Engineering"
@@ -71,13 +72,13 @@
     photo: /assets/img/profile/jinyeong-Lim.jpg
 
   - name: ["Taehyun", "Kim"]
-    subtitle: "Ph.D. Student, School of Electrical Engineering"
+    subtitle: "Ph.D. Student, Graduate School of AI"
     email: xogusrns123@kaist.ac.kr
     introduction: "I am a Ph. D. student at INA lab, KAIST advised by Dongsu Han. My research interest is a WAN-distributed system for LLM inference." 
     photo: /assets/img/profile/taehyun-kim.jpg
 
   - name: ["Taehoon", "Kim"]
-    subtitle: "Ph.D. Student, School of Electrical Engineering"
+    subtitle: "Ph.D. Student, Graduate School of AI"
     email: taehoon0813@kaist.ac.kr
     introduction: "I am a Ph. D. student at INA lab, KAIST advised by Dongsu Han. I'm interested in systems for efficient mixture-of-expert training and inference." 
     photo: /assets/img/profile/taehoon-kim.jpg
@@ -120,14 +121,14 @@
     photo: /assets/img/profile/seunggeun-cho.jpg
 
   - name: ["Jihyuk", "Lee"]
-    subtitle: "Master Student, School of Electrical Engineering"
+    subtitle: "Master Student, Graduate School of AI"
     email: jihyuk.lee@kaist.ac.kr
     scholar: https://scholar.google.com/citations?user=oi_soEIAAAAJ
     introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in MLSys for LLM and VLA."
     photo: /assets/img/profile/jihyuk-lee.jpg
 
   - name: ["Sanmaru", "Um"]
-    subtitle: "Master Student, School of Electrical Engineering"
+    subtitle: "Master Student, Graduate School of AI"
     email: um3maru@kaist.ac.kr
     introduction: "I am a MS student at INA lab, KAIST advised by Dongsu Han. I'm interested in tensor compilers and inference system."
     photo: /assets/img/profile/sanmaru-um.jpg
