@@ -26,6 +26,14 @@
     email: wsnam@kaist.ac.kr
     scholar: https://scholar.google.com/citations?user=PKFEz-YAAAAJ&hl=ko&oi=ao
 
+  - name: ["Juncheol", "Ye"]
+    subtitle: "Postdoctoral Researcher, InnoCORE-LLM"
+    introduction: "I am a postdoctoral researcher at KAIST INA Lab. I received a Ph.D from Electrical and Computer Engineering at KAIST in 2026. Currently, I am interested in Systems for AI and AI for Systems"
+    photo: /assets/img/profile/juncheol-ye.jpg
+    email: juncheolye@gmail.com
+    scholar: https://scholar.google.com/citations?user=gafvSCwAAAAJ&hl=en
+    homepage: https://juncheolye.github.io/cv_repo/docs/cv_latest.pdf
+
   - name: ["Insup", "Lee"]
     subtitle: "Postdoctoral Researcher, InnoCORE-LLM"
     introduction: "I am a postdoctoral researcher at KAIST INA Lab. I received a Ph.D. in Cybersecurity from Korea University in 2026. My research lies at the intersection of security and AI systems. I currently work on accelerating demonstrations for faster VLA policies, and aim to improve the safety and trustworthiness of physical AI."
@@ -34,14 +42,6 @@
     homepage: https://insuplee.github.io/
     linkedin: https://www.linkedin.com/in/insuplee/
     scholar: https://scholar.google.com/citations?user=cTyq1WcAAAAJ
-
-  - name: ["Juncheol", "Ye"]
-    subtitle: "Postdoctoral Researcher, InnoCORE-LLM"
-    introduction: "I am a postdoctoral researcher at KAIST INA Lab. Currently, I am interested in Systems for AI and AI for Systems"
-    photo: /assets/img/profile/juncheol-ye.jpg
-    email: juncheolye@gmail.com
-    scholar: https://scholar.google.com/citations?user=gafvSCwAAAAJ&hl=en
-    homepage: https://juncheolye.github.io/cv_repo/docs/cv_latest.pdf
 
 "Ph.D. Student":
 
