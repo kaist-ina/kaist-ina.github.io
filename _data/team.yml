@@ -80,7 +80,8 @@
   - name: ["Taehoon", "Kim"]
     subtitle: "Ph.D. Student, Graduate School of AI"
     email: taehoon0813@kaist.ac.kr
-    introduction: "I am a Ph. D. student at INA lab, KAIST advised by Dongsu Han. I'm interested in systems for efficient mixture-of-expert training and inference." 
+    linkedin: https://www.linkedin.com/in/taehoon-kim-730238270/
+    introduction: "I am a Ph. D. student at INA lab, KAIST advised by Dongsu Han. I'm interested in AI infrastructure, LLM post-training, and agent systems."
     photo: /assets/img/profile/taehoon-kim.jpg
 
   - name: ["Seyeon", "Lee"]
